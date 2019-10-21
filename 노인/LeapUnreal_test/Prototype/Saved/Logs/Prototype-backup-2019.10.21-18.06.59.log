@@ -1,0 +1,1381 @@
+﻿Log file open, 10/21/19 17:57:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Prototype
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2127146960) SRandInit(2127146960).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.393513
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LeapMotion/Binaries/Win64/UE4Editor-LeapMotion.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/Binaries/Win64/UE4Editor-GoogleVRHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRController/Binaries/Win64/UE4Editor-GoogleVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GoogleVRController
+LogPluginManager: Mounting plugin GoogleVRHMD
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.167s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-6G76LJJ (192.168.0.155:0)
+LeapPluginLog: Using LeapPlugin version 2.0.0
+LogHMD: Failed initializing OVRPlugin 1.21.0
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Unreal/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.10.21-08.57.06:648][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.21-08.57.06:648][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.21-08.57.06:674][  0]LogInit: Computer: DESKTOP-6G76LJJ
+[2019.10.21-08.57.06:674][  0]LogInit: User: st
+[2019.10.21-08.57.06:674][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.10.21-08.57.06:674][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.21-08.57.06:674][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2019.10.21-08.57.06:674][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.21-08.57.06:674][  0]LogMemory: Process Physical Memory: 284.24 MB used, 284.24 MB peak
+[2019.10.21-08.57.06:674][  0]LogMemory: Process Virtual Memory: 271.43 MB used, 271.43 MB peak
+[2019.10.21-08.57.06:674][  0]LogMemory: Physical Memory: 11508.23 MB used,  21033.75 MB free, 32541.98 MB total
+[2019.10.21-08.57.06:674][  0]LogMemory: Virtual Memory: 4896.46 MB used,  21033.75 MB free, 134217728.00 MB total
+[2019.10.21-08.57.06:691][  0]LogInit: Using OS detected language (ko-KR).
+[2019.10.21-08.57.06:691][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.10.21-08.57.06:693][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.10.21-08.57.06:984][  0]LogStreaming: Display: Took  0.292s to EndInitTextLocalization.
+[2019.10.21-08.57.06:984][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.21-08.57.07:032][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.21-08.57.07:032][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.21-08.57.07:187][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.21-08.57.07:252][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.10.21-08.57.07:252][  0]LogD3D11RHI:       8010/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.21-08.57.07:263][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.10.21-08.57.07:263][  0]LogD3D11RHI:       128/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.10.21-08.57.07:265][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.21-08.57.07:265][  0]LogD3D11RHI:       0/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.21-08.57.07:265][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.21-08.57.07:272][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.21-08.57.07:272][  0]LogD3D11RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.21-08.57.07:272][  0]LogWindows: EnumDisplayDevices:
+[2019.10.21-08.57.07:272][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.10.21-08.57.07:273][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.21-08.57.07:273][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.21-08.57.07:273][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.21-08.57.07:273][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.21-08.57.07:274][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.21-08.57.07:274][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.21-08.57.07:274][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.10.21-08.57.07:274][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.10.21-08.57.07:274][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.10.21-08.57.07:274][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.10.21-08.57.07:274][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.10.21-08.57.07:318][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.10.21-08.57.07:318][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.10.21-08.57.07:318][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.21-08.57.07:329][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.21-08.57.07:380][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../Test_Project/LeapUnreal_test/Prototype/Intermediate/Shaders/WorkingDirectory/3716/).
+[2019.10.21-08.57.07:380][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/st/AppData/Local/Temp/UnrealShaderWorkingDir/6C76695E4DE6AA73BF92469343FDC49E/'.
+[2019.10.21-08.57.07:563][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.10.21-08.57.07:573][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.10.21-08.57.07:583][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.10.21-08.57.07:593][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.10.21-08.57.07:604][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.10.21-08.57.07:614][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.10.21-08.57.07:624][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.10.21-08.57.07:635][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.10.21-08.57.07:640][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.10.21-08.57.07:650][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.10.21-08.57.07:659][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.10.21-08.57.07:668][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.10.21-08.57.07:678][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.10.21-08.57.07:687][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.10.21-08.57.07:696][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.10.21-08.57.07:714][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.10.21-08.57.07:714][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.10.21-08.57.07:723][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-08.57.07:724][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.10.21-08.57.07:758][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.21-08.57.07:767][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.21-08.57.07:776][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.10.21-08.57.07:785][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.10.21-08.57.07:794][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.10.21-08.57.07:803][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.10.21-08.57.07:803][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.21-08.57.07:902][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.21-08.57.07:903][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.21-08.57.07:903][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.21-08.57.08:437][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.21-08.57.08:496][  0]LogDerivedDataCache: Loaded boot cache 0.06s 90MB C:/Users/st/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.10.21-08.57.08:496][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/st/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.10.21-08.57.08:496][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Test_Project/LeapUnreal_test/Prototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.21-08.57.08:496][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.21-08.57.08:496][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Test_Project/LeapUnreal_test/Prototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.21-08.57.08:496][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.21-08.57.08:509][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.21-08.57.08:521][  0]LogDerivedDataCache: Using Local data cache path C:/Users/st/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.21-08.57.08:521][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.21-08.57.08:521][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.21-08.57.08:530][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.21-08.57.08:530][  0]LogSlate: Using Freetype 2.6.0
+[2019.10.21-08.57.08:530][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.21-08.57.08:530][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.21-08.57.08:638][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2019.10.21-08.57.08:871][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.21-08.57.08:986][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.10.21-08.57.08:988][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.10.21-08.57.08:988][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.21-08.57.08:988][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.10.21-08.57.08:988][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.10.21-08.57.08:988][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.10.21-08.57.09:021][  0]LogNetVersion: Prototype , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2571807811)
+[2019.10.21-08.57.09:498][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.125686 seconds
+[2019.10.21-08.57.09:502][  0]LogUObjectArray: 38095 objects as part of root set at end of initial load.
+[2019.10.21-08.57.09:503][  0]LogUObjectAllocator: 7620744 out of 0 bytes used by permanent object pool.
+[2019.10.21-08.57.09:503][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.21-08.57.10:821][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.21-08.57.10:851][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.21-08.57.11:193][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.10.21-08.57.11:193][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.10.21-08.57.11:212][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.10.21-08.57.11:231][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.10.21-08.57.11:717][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.21-08.57.11:905][  0]LogOcInput: OculusInput pre-init called
+[2019.10.21-08.57.12:005][  0]LogEngine: Initializing Engine...
+[2019.10.21-08.57.12:094][  0]LogHMD: GoogleVR API created
+[2019.10.21-08.57.12:095][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.21-08.57.12:095][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.21-08.57.12:262][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.21-08.57.12:285][  0]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.21-08.57.12:298][  0]LogInit: FAudioDevice initialized.
+[2019.10.21-08.57.12:425][  0]LogDerivedDataCache: Saved boot cache 0.13s 90MB C:/Users/st/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.10.21-08.57.12:437][  0]LogInit: Texture streaming: Enabled
+[2019.10.21-08.57.12:451][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.21-08.57.12:465][  0]LogInit: Transaction tracking system initialized
+[2019.10.21-08.57.12:482][  0]BlueprintLog: New page: 에디터 로드
+[2019.10.21-08.57.12:540][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.10.21-08.57.12:785][  0]LogConsoleResponse: Display: 
+[2019.10.21-08.57.12:916][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.21-08.57.12:916][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.21-08.57.12:916][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.10.21-08.57.12:916][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.21-08.57.12:916][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.21-08.57.13:280][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Test_Project/LeapUnreal_test/Prototype/Content/' took 0.02s
+[2019.10.21-08.57.13:280][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.10.21-08.57.13:280][  0]Cmd: MAP LOAD FILE="../../../../Test_Project/LeapUnreal_test/Prototype/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.21-08.57.13:281][  0]LightingResults: New page: 라이팅 빌드
+[2019.10.21-08.57.13:282][  0]MapCheck: New page: 맵 체크
+[2019.10.21-08.57.13:283][  0]LightingResults: New page: 라이팅 빌드
+[2019.10.21-08.57.13:505][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a8d95f640, Size=96, Default__WD_GAME_C Function /Game/bp/WD_GAME.WD_GAME_C:ExecuteUbergraph_WD_GAME
+[2019.10.21-08.57.13:508][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a8d9770b0, Size=112, Default__WD_HOME_C Function /Game/bp/WD_HOME.WD_HOME_C:ExecuteUbergraph_WD_HOME
+[2019.10.21-08.57.13:513][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a86ab2f60, Size=224, Default__WD_KIOSK_C Function /Game/bp/WD_KIOSK.WD_KIOSK_C:ExecuteUbergraph_WD_KIOSK
+[2019.10.21-08.57.13:539][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a87c4e7c8, Size=4, Default__BP_KeyPadDisplay_C Function /Game/bp/widget/BP_KeyPadDisplay.BP_KeyPadDisplay_C:ExecuteUbergraph_BP_KeyPadDisplay
+[2019.10.21-08.57.13:539][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a905329a0, Size=32, Default__WD_KeyPadDisplay_C Function /Game/bp/widget/WD_KeyPadDisplay.WD_KeyPadDisplay_C:ExecuteUbergraph_WD_KeyPadDisplay
+[2019.10.21-08.57.13:540][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a86b53150, Size=80, Default__BP_KeyPad_C Function /Game/bp/widget/BP_KeyPad.BP_KeyPad_C:ExecuteUbergraph_BP_KeyPad
+[2019.10.21-08.57.13:544][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a87c4ecc8, Size=8, Default__WD_KeyPad2_C Function /Game/bp/widget/WD_KeyPad2.WD_KeyPad2_C:ExecuteUbergraph_WD_KeyPad2
+[2019.10.21-08.57.13:572][  0]LogBlueprint: Warning: [Compiler WD_KIOSK] Get : '1' variable not found. Base class was probably changed. /Game/bp/WD_KIOSK.WD_KIOSK
+[2019.10.21-08.57.13:574][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a86b53150, Size=80
+[2019.10.21-08.57.13:574][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a8dafc6d0, Size=80, Default__BP_KeyPad_C Function /Engine/Transient.REINST_BP_KeyPad_C_7:ExecuteUbergraph_BP_KeyPad
+[2019.10.21-08.57.13:574][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a87c4e7c8, Size=4
+[2019.10.21-08.57.13:574][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a8db23bf8, Size=4, Default__BP_KeyPadDisplay_C Function /Engine/Transient.REINST_BP_KeyPadDisplay_C_8:ExecuteUbergraph_BP_KeyPadDisplay
+[2019.10.21-08.57.13:574][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a8d95f640, Size=96
+[2019.10.21-08.57.13:574][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a8d95f640, Size=96, Default__WD_GAME_C Function /Engine/Transient.REINST_WD_GAME_C_0:ExecuteUbergraph_WD_GAME
+[2019.10.21-08.57.13:575][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a8d9770b0, Size=112
+[2019.10.21-08.57.13:575][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a86cd3b30, Size=112, Default__WD_HOME_C Function /Engine/Transient.REINST_WD_HOME_C_1:ExecuteUbergraph_WD_HOME
+[2019.10.21-08.57.13:575][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a87c4ecc8, Size=8
+[2019.10.21-08.57.13:575][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a8db23bc8, Size=8, Default__WD_KeyPad2_C Function /Engine/Transient.REINST_WD_KeyPad2_C_2:ExecuteUbergraph_WD_KeyPad2
+[2019.10.21-08.57.13:575][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a905329a0, Size=32
+[2019.10.21-08.57.13:575][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a86d03d80, Size=32, Default__WD_KeyPadDisplay_C Function /Engine/Transient.REINST_WD_KeyPadDisplay_C_3:ExecuteUbergraph_WD_KeyPadDisplay
+[2019.10.21-08.57.13:575][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a86ab2f60, Size=224
+[2019.10.21-08.57.13:575][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a86d2be40, Size=224, Default__WD_KIOSK_C Function /Engine/Transient.REINST_WD_KIOSK_C_4:ExecuteUbergraph_WD_KIOSK
+[2019.10.21-08.57.13:589][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a81935080, Size=80, Default__BP_KeyPad_C Function /Game/bp/widget/BP_KeyPad.BP_KeyPad_C:ExecuteUbergraph_BP_KeyPad
+[2019.10.21-08.57.13:590][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a8db232a0, Size=4, Default__BP_KeyPadDisplay_C Function /Game/bp/widget/BP_KeyPadDisplay.BP_KeyPadDisplay_C:ExecuteUbergraph_BP_KeyPadDisplay
+[2019.10.21-08.57.13:591][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a86d7d060, Size=96, Default__WD_GAME_C Function /Game/bp/WD_GAME.WD_GAME_C:ExecuteUbergraph_WD_GAME
+[2019.10.21-08.57.13:592][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a818b2cc0, Size=112, Default__WD_HOME_C Function /Game/bp/WD_HOME.WD_HOME_C:ExecuteUbergraph_WD_HOME
+[2019.10.21-08.57.13:594][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a8db22f20, Size=8, Default__WD_KeyPad2_C Function /Game/bp/widget/WD_KeyPad2.WD_KeyPad2_C:ExecuteUbergraph_WD_KeyPad2
+[2019.10.21-08.57.13:595][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a818af260, Size=32, Default__WD_KeyPadDisplay_C Function /Game/bp/widget/WD_KeyPadDisplay.WD_KeyPadDisplay_C:ExecuteUbergraph_WD_KeyPadDisplay
+[2019.10.21-08.57.13:596][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a81913660, Size=224, Default__WD_KIOSK_C Function /Game/bp/WD_KIOSK.WD_KIOSK_C:ExecuteUbergraph_WD_KIOSK
+[2019.10.21-08.57.13:599][  0]LogBlueprint: Warning: [Compiler WD_KIOSK] [0010.57] WD_KIOSK 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 33 ms] (/Game/bp/WD_KIOSK.WD_KIOSK)
+[2019.10.21-08.57.14:026][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa6469440, Size=288, Default__BasicCharacter_AnimBlueprint_C Function /LeapMotion/Character/Basic/BasicCharacter_AnimBlueprint.BasicCharacter_AnimBlueprint_C:ExecuteUbergraph_BasicCharacter_AnimBlueprint
+[2019.10.21-08.57.14:097][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa6469440, Size=288
+[2019.10.21-08.57.14:097][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a817cdbc0, Size=288, Default__BasicCharacter_AnimBlueprint_C Function /Engine/Transient.REINST_BasicCharacter_AnimBlueprint_C_0:ExecuteUbergraph_BasicCharacter_AnimBlueprint
+[2019.10.21-08.57.14:155][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a81f02980, Size=288, Default__BasicCharacter_AnimBlueprint_C Function /LeapMotion/Character/Basic/BasicCharacter_AnimBlueprint.BasicCharacter_AnimBlueprint_C:ExecuteUbergraph_BasicCharacter_AnimBlueprint
+[2019.10.21-08.57.14:227][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a80462780, Size=200, Default__LeapEchoHands_AnimBlueprint_C Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+[2019.10.21-08.57.14:272][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a80462780, Size=200
+[2019.10.21-08.57.14:272][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a81debac0, Size=200, Default__LeapEchoHands_AnimBlueprint_C Function /Engine/Transient.REINST_LeapEchoHands_AnimBlueprint_C_1:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+[2019.10.21-08.57.14:314][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa68cd360, Size=200, Default__LeapEchoHands_AnimBlueprint_C Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+[2019.10.21-08.57.14:445][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a818fb700, Size=240, Default__LeapAnimBodyConnector_C Function /LeapMotion/Blueprints/LeapConnectors/LeapAnimBodyConnector.LeapAnimBodyConnector_C:ExecuteUbergraph_LeapAnimBodyConnector
+[2019.10.21-08.57.14:457][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a818fb700, Size=240
+[2019.10.21-08.57.14:457][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a818fb700, Size=240, Default__LeapAnimBodyConnector_C Function /Engine/Transient.REINST_LeapAnimBodyConnector_C_30:ExecuteUbergraph_LeapAnimBodyConnector
+[2019.10.21-08.57.14:471][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa77dd200, Size=240, Default__LeapAnimBodyConnector_C Function /LeapMotion/Blueprints/LeapConnectors/LeapAnimBodyConnector.LeapAnimBodyConnector_C:ExecuteUbergraph_LeapAnimBodyConnector
+[2019.10.21-08.57.14:477][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa63d3910, Size=24, Default__LeapHandsActorBase_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.21-08.57.14:480][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa63d3910, Size=24
+[2019.10.21-08.57.14:480][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa63d3910, Size=24, Default__LeapHandsActorBase_C Function /Engine/Transient.REINST_LeapHandsActorBase_C_32:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.21-08.57.14:481][  0]LogBlueprint: Warning: [Compiler LeapHandsActorBase] Interface ' ShowHand ' is already implemented as a function graph but is expected as an event. Remove the function graph and reimplement as an event.
+[2019.10.21-08.57.14:482][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa63d35b0, Size=24, Default__LeapHandsActorBase_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.21-08.57.14:483][  0]LogBlueprint: Warning: [Compiler LeapHandsActorBase] [0011.46] LeapHandsActorBase 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 3 ms] (/LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase)
+[2019.10.21-08.57.14:564][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa777eb00, Size=1056, Default__LeapRiggedEchoHandsActor_TEST_C Function /Game/bp/LeapRiggedEchoHandsActor_TEST.LeapRiggedEchoHandsActor_TEST_C:ExecuteUbergraph_LeapRiggedEchoHandsActor_TEST
+[2019.10.21-08.57.14:564][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa63d0df0, Size=24, Default__LeapRiggedEchoHandsActor_TEST_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.21-08.57.14:571][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa777eb00, Size=1056
+[2019.10.21-08.57.14:572][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa63d0df0, Size=24
+[2019.10.21-08.57.14:572][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa7727900, Size=1056, Default__LeapRiggedEchoHandsActor_TEST_C Function /Engine/Transient.REINST_LeapRiggedEchoHandsActor_TEST_C_34:ExecuteUbergraph_LeapRiggedEchoHandsActor_TEST
+[2019.10.21-08.57.14:572][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa63d0df0, Size=24, Default__LeapRiggedEchoHandsActor_TEST_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.21-08.57.14:577][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa7727200, Size=1056, Default__LeapRiggedEchoHandsActor_TEST_C Function /Game/bp/LeapRiggedEchoHandsActor_TEST.LeapRiggedEchoHandsActor_TEST_C:ExecuteUbergraph_LeapRiggedEchoHandsActor_TEST
+[2019.10.21-08.57.14:577][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa63d04a8, Size=24, Default__LeapRiggedEchoHandsActor_TEST_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.21-08.57.14:794][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa729bb40, Size=32, Default__LeapComponentHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapComponentHandsActor.LeapComponentHandsActor_C:ExecuteUbergraph_LeapComponentHandsActor
+[2019.10.21-08.57.14:794][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa74452b8, Size=24, Default__LeapComponentHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.21-08.57.14:800][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa729bb40, Size=32
+[2019.10.21-08.57.14:800][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa74452b8, Size=24
+[2019.10.21-08.57.14:800][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa729bb40, Size=32, Default__LeapComponentHandsActor_C Function /Engine/Transient.REINST_LeapComponentHandsActor_C_42:ExecuteUbergraph_LeapComponentHandsActor
+[2019.10.21-08.57.14:800][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa74452b8, Size=24, Default__LeapComponentHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.21-08.57.14:803][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa6d27720, Size=32, Default__LeapComponentHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapComponentHandsActor.LeapComponentHandsActor_C:ExecuteUbergraph_LeapComponentHandsActor
+[2019.10.21-08.57.14:803][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa7445120, Size=24, Default__LeapComponentHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.21-08.57.15:039][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa72a6b00, Size=1640, Default__LeapEchoImageHands_AnimBlueprint_C Function /LeapMotion/Character/Echo/LeapEchoImageHands_AnimBlueprint.LeapEchoImageHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoImageHands_AnimBlueprint
+[2019.10.21-08.57.15:146][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa72a6b00, Size=1640
+[2019.10.21-08.57.15:146][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa777dd00, Size=1640, Default__LeapEchoImageHands_AnimBlueprint_C Function /Engine/Transient.REINST_LeapEchoImageHands_AnimBlueprint_C_2:ExecuteUbergraph_LeapEchoImageHands_AnimBlueprint
+[2019.10.21-08.57.15:225][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa7a09d00, Size=1640, Default__LeapEchoImageHands_AnimBlueprint_C Function /LeapMotion/Character/Echo/LeapEchoImageHands_AnimBlueprint.LeapEchoImageHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoImageHands_AnimBlueprint
+[2019.10.21-08.57.15:417][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa7ce5d28, Size=4, Default__PostProcessChanger_C Function /LeapMotion/Blueprints/Utility/PostProcessChanger.PostProcessChanger_C:ExecuteUbergraph_PostProcessChanger
+[2019.10.21-08.57.15:536][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa7ce5d28, Size=4
+[2019.10.21-08.57.15:536][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa7ce5d28, Size=4, Default__PostProcessChanger_C Function /Engine/Transient.REINST_PostProcessChanger_C_47:ExecuteUbergraph_PostProcessChanger
+[2019.10.21-08.57.15:542][  0]LogBlueprint: Warning: [Compiler PostProcessChanger] PostProcessSettings 분해  /  PostProcessChanger  에서 오버라이드 핀이 제거되었으니, 블루프린트가 예상대로 작동하는지 검증해 주세요! 자세한 정보는 핀 표시여부 활성화 팁을 참고하세요. 이 경고는 애셋을 저장하면 사라질 것입니다!
+[2019.10.21-08.57.15:561][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa7077028, Size=4, Default__PostProcessChanger_C Function /LeapMotion/Blueprints/Utility/PostProcessChanger.PostProcessChanger_C:ExecuteUbergraph_PostProcessChanger
+[2019.10.21-08.57.15:562][  0]LogBlueprint: Warning: [Compiler PostProcessChanger] [0012.54] PostProcessChanger 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 108 ms] (/LeapMotion/Blueprints/Utility/PostProcessChanger.PostProcessChanger)
+[2019.10.21-08.57.15:573][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aaa979780, Size=120, Default__LeapAnimBodyConnectorWithPassthrough_C Function /LeapMotion/Blueprints/LeapConnectors/LeapAnimBodyConnectorWithPassthrough.LeapAnimBodyConnectorWithPassthrough_C:ExecuteUbergraph_LeapAnimBodyConnectorWithPassthrough
+[2019.10.21-08.57.15:573][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa8030c00, Size=240, Default__LeapAnimBodyConnectorWithPassthrough_C Function /LeapMotion/Blueprints/LeapConnectors/LeapAnimBodyConnector.LeapAnimBodyConnector_C:ExecuteUbergraph_LeapAnimBodyConnector
+[2019.10.21-08.57.15:593][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aaa979780, Size=120
+[2019.10.21-08.57.15:593][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa8030c00, Size=240
+[2019.10.21-08.57.15:593][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aaa979780, Size=120, Default__LeapAnimBodyConnectorWithPassthrough_C Function /Engine/Transient.REINST_LeapAnimBodyConnectorWithPassthrough_C_49:ExecuteUbergraph_LeapAnimBodyConnectorWithPassthrough
+[2019.10.21-08.57.15:593][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa8030c00, Size=240, Default__LeapAnimBodyConnectorWithPassthrough_C Function /LeapMotion/Blueprints/LeapConnectors/LeapAnimBodyConnector.LeapAnimBodyConnector_C:ExecuteUbergraph_LeapAnimBodyConnector
+[2019.10.21-08.57.15:603][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aaa97a380, Size=128, Default__LeapAnimBodyConnectorWithPassthrough_C Function /LeapMotion/Blueprints/LeapConnectors/LeapAnimBodyConnectorWithPassthrough.LeapAnimBodyConnectorWithPassthrough_C:ExecuteUbergraph_LeapAnimBodyConnectorWithPassthrough
+[2019.10.21-08.57.15:603][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aaaed1e00, Size=240, Default__LeapAnimBodyConnectorWithPassthrough_C Function /LeapMotion/Blueprints/LeapConnectors/LeapAnimBodyConnector.LeapAnimBodyConnector_C:ExecuteUbergraph_LeapAnimBodyConnector
+[2019.10.21-08.57.15:655][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa809b6d0, Size=12, Default__LeapRiggedEchoHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapRiggedEchoHandsActor.LeapRiggedEchoHandsActor_C:ExecuteUbergraph_LeapRiggedEchoHandsActor
+[2019.10.21-08.57.15:655][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aaa821e28, Size=24, Default__LeapRiggedEchoHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.21-08.57.15:659][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa809b6d0, Size=12
+[2019.10.21-08.57.15:659][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aaa821e28, Size=24
+[2019.10.21-08.57.15:659][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa809b6d0, Size=12, Default__LeapRiggedEchoHandsActor_C Function /Engine/Transient.REINST_LeapRiggedEchoHandsActor_C_51:ExecuteUbergraph_LeapRiggedEchoHandsActor
+[2019.10.21-08.57.15:659][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aaa821e28, Size=24, Default__LeapRiggedEchoHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.21-08.57.15:661][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa809b6f0, Size=12, Default__LeapRiggedEchoHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapRiggedEchoHandsActor.LeapRiggedEchoHandsActor_C:ExecuteUbergraph_LeapRiggedEchoHandsActor
+[2019.10.21-08.57.15:661][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aaa820c58, Size=24, Default__LeapRiggedEchoHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.21-08.57.15:705][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aaae974c0, Size=64, Default__LeapImageHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapImageHandsActor.LeapImageHandsActor_C:ExecuteUbergraph_LeapImageHandsActor
+[2019.10.21-08.57.15:705][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa8099e60, Size=12, Default__LeapImageHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapRiggedEchoHandsActor.LeapRiggedEchoHandsActor_C:ExecuteUbergraph_LeapRiggedEchoHandsActor
+[2019.10.21-08.57.15:705][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aaaf5c520, Size=24, Default__LeapImageHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.21-08.57.15:710][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aaae974c0, Size=64
+[2019.10.21-08.57.15:710][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa8099e60, Size=12
+[2019.10.21-08.57.15:710][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aaaf5c520, Size=24
+[2019.10.21-08.57.15:710][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aaae95980, Size=64, Default__LeapImageHandsActor_C Function /Engine/Transient.REINST_LeapImageHandsActor_C_53:ExecuteUbergraph_LeapImageHandsActor
+[2019.10.21-08.57.15:710][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa8099e60, Size=12, Default__LeapImageHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapRiggedEchoHandsActor.LeapRiggedEchoHandsActor_C:ExecuteUbergraph_LeapRiggedEchoHandsActor
+[2019.10.21-08.57.15:710][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aaaf5c520, Size=24, Default__LeapImageHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.21-08.57.15:710][  0]LogBlueprint: Warning: [Compiler LeapImageHandsActor] Interface ' ImageTextureLinkEstablished ' is already implemented as a function graph but is expected as an event. Remove the function graph and reimplement as an event.
+[2019.10.21-08.57.15:713][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016affe5fa00, Size=64, Default__LeapImageHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapImageHandsActor.LeapImageHandsActor_C:ExecuteUbergraph_LeapImageHandsActor
+[2019.10.21-08.57.15:713][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aa8099e40, Size=12, Default__LeapImageHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapRiggedEchoHandsActor.LeapRiggedEchoHandsActor_C:ExecuteUbergraph_LeapRiggedEchoHandsActor
+[2019.10.21-08.57.15:713][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aaaf5eb78, Size=24, Default__LeapImageHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.21-08.57.15:713][  0]LogBlueprint: Warning: [Compiler LeapImageHandsActor] [0012.69] LeapImageHandsActor 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 5 ms] (/LeapMotion/Blueprints/Rigging/FloatingHands/LeapImageHandsActor.LeapImageHandsActor)
+[2019.10.21-08.57.15:717][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016affe57100, Size=368, Default__LeapFloatingHandsCharacterTEST_C Function /Game/bp/LeapFloatingHandsCharacterTEST.LeapFloatingHandsCharacterTEST_C:ExecuteUbergraph_LeapFloatingHandsCharacterTEST
+[2019.10.21-08.57.15:725][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016affe57100, Size=368
+[2019.10.21-08.57.15:725][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016affe09480, Size=368, Default__LeapFloatingHandsCharacterTEST_C Function /Engine/Transient.REINST_LeapFloatingHandsCharacterTEST_C_55:ExecuteUbergraph_LeapFloatingHandsCharacterTEST
+[2019.10.21-08.57.15:734][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacterTEST] InputAction Event 가  ChangeImageHandTint 입력 액션  에 대해 알려지지 않은 'ChangeImageHandTint' 액션을 레퍼런싱합니다.
+[2019.10.21-08.57.15:734][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacterTEST] InputAction Event 가  ChangeHands 입력 액션  에 대해 알려지지 않은 'ChangeHands' 액션을 레퍼런싱합니다.
+[2019.10.21-08.57.15:734][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacterTEST] InputAction Event 가  ResetHMDOrientation 입력 액션  에 대해 알려지지 않은 'ResetHMDOrientation' 액션을 레퍼런싱합니다.
+[2019.10.21-08.57.15:734][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacterTEST] InputAction Event 가  ComfortTurnRight 입력 액션  에 대해 알려지지 않은 'ComfortTurnRight' 액션을 레퍼런싱합니다.
+[2019.10.21-08.57.15:734][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacterTEST] InputAction Event 가  ComfortTurnLeft 입력 액션  에 대해 알려지지 않은 'ComfortTurnLeft' 액션을 레퍼런싱합니다.
+[2019.10.21-08.57.15:738][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a92c35900, Size=368, Default__LeapFloatingHandsCharacterTEST_C Function /Game/bp/LeapFloatingHandsCharacterTEST.LeapFloatingHandsCharacterTEST_C:ExecuteUbergraph_LeapFloatingHandsCharacterTEST
+[2019.10.21-08.57.15:740][  0]LogBlueprint: Warning: [Compiler LeapFloatingHandsCharacterTEST] [0012.71] LeapFloatingHandsCharacterTEST 컴파일에 성공했습니다만, 경고가 5 회 있습니다. [소요시간 17 ms] (/Game/bp/LeapFloatingHandsCharacterTEST.LeapFloatingHandsCharacterTEST)
+[2019.10.21-08.57.15:944][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a92c72d90, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.10.21-08.57.15:951][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a92c72d90, Size=72
+[2019.10.21-08.57.15:951][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aab35f560, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_3:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.10.21-08.57.15:957][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aab318d10, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.10.21-08.57.16:025][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a92c3e800, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2019.10.21-08.57.16:028][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a92c3e800, Size=256
+[2019.10.21-08.57.16:028][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a92c3e800, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_60:ExecuteUbergraph_FirstPersonProjectile
+[2019.10.21-08.57.16:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016a92c3fc00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2019.10.21-08.57.16:542][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aabb5b400, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.10.21-08.57.16:549][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aabb5b400, Size=688
+[2019.10.21-08.57.16:549][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aabb5b400, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_62:ExecuteUbergraph_FirstPersonCharacter
+[2019.10.21-08.57.16:555][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016affe95900, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.10.21-08.57.16:659][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aab780d80, Size=64, Default__FirstPersonExampleMap_C Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2019.10.21-08.57.16:660][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aab780d80, Size=64
+[2019.10.21-08.57.16:660][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aab7815c0, Size=64, Default__FirstPersonExampleMap_C Function /Engine/Transient.REINST_FirstPersonExampleMap_C_64:ExecuteUbergraph_FirstPersonExampleMap
+[2019.10.21-08.57.16:661][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016aafdf3f80, Size=64, Default__FirstPersonExampleMap_C Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2019.10.21-08.57.17:151][  0]LogBlueprint: Warning: Node '/LeapMotion/Blueprints/Rigging/FloatingHands/LeapImageHandsActor.LeapImageHandsActor:EventGraph.ImageTextureLinkEstablished_1_1' missing NodeGuid, this can cause deterministic cooking issues please resave package.
+[2019.10.21-08.57.17:539][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [7.746300ms] /LeapMotion/Character/Echo/echo_lo_L.echo_lo_L
+[2019.10.21-08.57.17:557][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [12.372900ms] /LeapMotion/Character/Echo/echo_lo_R.echo_lo_R
+[2019.10.21-08.57.17:623][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.608000ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2019.10.21-08.57.17:636][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [6.345400ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2019.10.21-08.57.17:663][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.21-08.57.17:670][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.21-08.57.17:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a8d95f640, Size=96
+[2019.10.21-08.57.17:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a86cd3b30, Size=112
+[2019.10.21-08.57.17:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a86d2be40, Size=224
+[2019.10.21-08.57.17:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a8db23bf8, Size=4
+[2019.10.21-08.57.17:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a86d03d80, Size=32
+[2019.10.21-08.57.17:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a8dafc6d0, Size=80
+[2019.10.21-08.57.17:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a8db23bc8, Size=8
+[2019.10.21-08.57.17:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a817cdbc0, Size=288
+[2019.10.21-08.57.17:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a81debac0, Size=200
+[2019.10.21-08.57.17:689][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a818fb700, Size=240
+[2019.10.21-08.57.17:689][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa63d3910, Size=24
+[2019.10.21-08.57.17:689][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa7727900, Size=1056
+[2019.10.21-08.57.17:689][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa63d0df0, Size=24
+[2019.10.21-08.57.17:689][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa729bb40, Size=32
+[2019.10.21-08.57.17:689][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa74452b8, Size=24
+[2019.10.21-08.57.17:689][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa777dd00, Size=1640
+[2019.10.21-08.57.17:689][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa7ce5d28, Size=4
+[2019.10.21-08.57.17:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aaa979780, Size=120
+[2019.10.21-08.57.17:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa8030c00, Size=240
+[2019.10.21-08.57.17:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa809b6d0, Size=12
+[2019.10.21-08.57.17:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aaa821e28, Size=24
+[2019.10.21-08.57.17:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aaae95980, Size=64
+[2019.10.21-08.57.17:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa8099e60, Size=12
+[2019.10.21-08.57.17:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aaaf5c520, Size=24
+[2019.10.21-08.57.17:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016affe09480, Size=368
+[2019.10.21-08.57.17:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aab35f560, Size=72
+[2019.10.21-08.57.17:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a92c3e800, Size=256
+[2019.10.21-08.57.17:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aabb5b400, Size=688
+[2019.10.21-08.57.17:691][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aab7815c0, Size=64
+[2019.10.21-08.57.17:698][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.21-08.57.17:752][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 55.137ms.
+[2019.10.21-08.57.17:752][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 4.472
+[2019.10.21-08.57.17:874][  0]LogCollectionManager: Loaded 0 collections in 0.001476 seconds
+[2019.10.21-08.57.17:915][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Test_Project/LeapUnreal_test/Prototype/Saved/Collections/' took 0.01s
+[2019.10.21-08.57.17:915][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Test_Project/LeapUnreal_test/Prototype/Content/Developers/st/Collections/' took 0.01s
+[2019.10.21-08.57.17:915][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Test_Project/LeapUnreal_test/Prototype/Content/Collections/' took 0.01s
+[2019.10.21-08.57.17:915][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.21-08.57.17:922][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2493 classes and 569 folders.
+[2019.10.21-08.57.17:928][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2019.10.21-08.57.17:971][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.21-08.57.17:975][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.21-08.57.18:058][  0]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for ../../../../Test_Project/LeapUnreal_test/Prototype/Plugins/. Error: 지정된 파일을 찾을 수 없습니다. (0x00000002)
+[2019.10.21-08.57.18:064][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.21-08.57.18:068][  0]LogSlate: Took 0.001792 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.10.21-08.57.18:070][  0]LogSlate: Took 0.001748 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.10.21-08.57.18:070][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.21-08.57.18:074][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.21-08.57.18:151][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.10.21-08.57.18:291][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.21-08.57.18:291][  0]LogLoad: (Engine Initialization) Total time: 15.26 seconds
+[2019.10.21-08.57.18:291][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.21-08.57.18:303][  0]LogGoogleVRController: Creating Input Device: GoogleVRController -- Supported
+[2019.10.21-08.57.18:303][  0]LogGoogleVRController: Successfully initialized GoogleVR Controller.
+[2019.10.21-08.57.18:303][  0]LogGoogleVRController: GoogleVR Controller Created
+[2019.10.21-08.57.18:326][  0]LogAssetRegistry: Asset discovery search completed in 9.7108 seconds
+[2019.10.21-08.57.18:328][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.10.21-08.57.18:328][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2019.10.21-08.57.18:333][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.21-08.57.18:436][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.21-08.57.18:478][  1]LogSlate: Took 0.005094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.10.21-08.57.19:319][ 83]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.21-08.57.37:247][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-08.57.37:329][242]LogSlate: Window 'Plugins' being destroyed
+[2019.10.21-08.57.37:333][242]LogSlate: Window 'Plugins' being destroyed
+[2019.10.21-08.57.37:333][242]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.10.21-08.57.38:582][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-08.57.44:544][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.21-08.57.46:362][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.21-08.57.49:549][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-08.57.49:632][679]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.21-08.57.49:649][679]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.21-08.57.49:649][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.21-08.57.49:650][679]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 22. 오전 2:57:49)
+[2019.10.21-08.57.49:650][679]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.21-08.57.49:666][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015847s)
+[2019.10.21-08.57.49:666][679]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.21-08.57.49:666][679]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2019.10.21-08.57.49:666][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016666s)
+[2019.10.21-08.57.49:690][679]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.21-08.57.49:696][679]LogInit: FAudioDevice initialized.
+[2019.10.21-08.57.49:738][679]LogLoad: Game class is 'GameModeTEST_C'
+[2019.10.21-08.57.49:740][679]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.21-17.57.49
+[2019.10.21-08.57.49:742][679]LogWorld: Bringing up level for play took: 0.001721
+[2019.10.21-08.57.49:743][679]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2019.10.21-08.57.49:744][679]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2019.10.21-08.57.49:745][679]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.10.21-08.57.49:745][679]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.10.21-08.57.49:746][679]Cmd: stereo reset
+[2019.10.21-08.57.49:798][679]Command not recognized: stereo reset
+[2019.10.21-08.57.49:799][679]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.194
+[2019.10.21-08.57.49:799][679]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.21-08.57.49:871][680]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.57.54:876][278]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.57.59:879][875]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.58.04:883][473]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.58.09:884][ 71]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.58.14:884][669]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.58.19:885][256]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.58.21:088][398]LogScriptCore: Warning: Script Msg: Divide by zero detected: 24.999996 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2019.10.21-08.58.21:088][398]LogScriptCore: Warning: Script Msg: Divide by zero detected: 24.999996 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2019.10.21-08.58.24:891][852]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.58.29:891][449]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.58.34:892][ 47]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.58.39:895][645]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.58.44:897][242]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.58.49:898][840]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.58.51:122][982]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-08.58.51:122][982]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-08.58.54:906][436]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.58.59:907][ 32]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.59.04:910][630]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.59.09:918][227]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.59.14:926][823]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.59.18:109][201]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-08.59.18:109][201]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-08.59.18:584][258]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-08.59.18:584][258]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-08.59.19:934][420]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.59.24:935][ 18]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.59.29:937][616]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.59.34:938][214]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.59.39:940][812]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.59.42:920][165]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-08.59.42:920][165]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-08.59.44:729][382]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-08.59.44:730][382]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-08.59.44:945][408]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.59.45:315][450]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-08.59.45:315][450]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-08.59.45:599][484]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-08.59.45:599][484]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-08.59.49:945][  5]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.59.54:948][602]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-08.59.59:950][200]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.00.04:951][796]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.00.09:953][394]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.00.14:955][992]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.00.19:955][590]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.00.24:202][ 95]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.00.24:202][ 95]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.00.24:284][105]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.00.24:284][105]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.00.24:401][119]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.00.24:401][119]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.00.24:560][138]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.00.24:560][138]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.00.24:667][151]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.00.24:667][151]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.00.24:885][177]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.00.24:885][177]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.00.24:959][186]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.00.25:360][232]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.00.25:360][232]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.00.25:844][290]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.00.25:844][290]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.00.26:336][349]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.00.26:336][349]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.00.26:761][400]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.00.26:761][400]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.00.27:345][470]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.21-09.00.27:378][470]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.21-09.00.27:390][470]LogSlate: Slate User Unregistered.  User Index 8
+[2019.10.21-09.00.27:390][470]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.10.21-09.00.31:494][472]LogEditorViewport: Clicking on Actor (LMB): BP_HOME_C (BP_HOME)
+[2019.10.21-09.00.31:525][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.21-09.00.35:398][913]LogEditorViewport: Clicking on Actor (LMB): BP_HOME_C (BP_HOME)
+[2019.10.21-09.00.41:532][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-09.00.41:810][651]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2019.10.21-09.00.42:074][651]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016ad2d170e0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.10.21-09.00.42:074][651]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016ad2d170a8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.10.21-09.00.42:422][651]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.21-09.00.44:113][839]LogRenderer: Reallocating scene render targets to support 1228x712 Format 10 NumSamples 1 (Frame:1).
+[2019.10.21-09.00.49:718][495]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.21-09.00.54:499][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-09.01.00:835][826]BlueprintLog: New page: BP_HOME 컴파일
+[2019.10.21-09.01.01:380][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/BP_HOME" FILE="../../../../Test_Project/LeapUnreal_test/Prototype/Content/bp/BP_HOME.uasset" SILENT=true
+[2019.10.21-09.01.01:451][857]LogSavePackage: Save=8.38ms
+[2019.10.21-09.01.01:451][857]LogSavePackage: Moving '../../../../Test_Project/LeapUnreal_test/Prototype/Saved/BP_HOME03B721804A5A19F39FAE6CBCABB52294.tmp' to '../../../../Test_Project/LeapUnreal_test/Prototype/Content/bp/BP_HOME.uasset'
+[2019.10.21-09.01.01:455][857]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/LeapUnreal_test/Prototype/Content/bp/BP_HOME.uasset
+[2019.10.21-09.01.02:223][949]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.21-09.01.02:241][949]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.21-09.01.02:241][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.21-09.01.02:241][949]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 22. 오전 3:01:02)
+[2019.10.21-09.01.02:241][949]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.21-09.01.02:251][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010480s)
+[2019.10.21-09.01.02:251][949]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.21-09.01.02:252][949]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2019.10.21-09.01.02:252][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011247s)
+[2019.10.21-09.01.02:284][949]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.21-09.01.02:292][949]LogInit: FAudioDevice initialized.
+[2019.10.21-09.01.02:334][949]LogLoad: Game class is 'GameModeTEST_C'
+[2019.10.21-09.01.02:336][949]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.21-18.01.02
+[2019.10.21-09.01.02:336][949]LogWorld: Bringing up level for play took: 0.001540
+[2019.10.21-09.01.02:337][949]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2019.10.21-09.01.02:338][949]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.10.21-09.01.02:339][949]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.10.21-09.01.02:339][949]Cmd: stereo reset
+[2019.10.21-09.01.02:339][949]Command not recognized: stereo reset
+[2019.10.21-09.01.02:342][949]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.349
+[2019.10.21-09.01.02:342][949]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.21-09.01.02:421][949]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.10.21-09.01.02:458][950]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.01.02:480][950]LogScriptCore: Warning: Script Msg: Divide by zero detected: 23.963152 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2019.10.21-09.01.02:480][950]LogScriptCore: Warning: Script Msg: Divide by zero detected: 23.963152 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2019.10.21-09.01.06:516][432]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.01.06:517][432]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.01.07:466][546]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.01.12:471][144]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.01.17:473][741]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.01.22:479][339]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.01.27:482][937]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.01.32:487][534]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.01.34:691][796]LogBlueprintUserMessages: [WD_HOME_C_23] 버튼눌림
+[2019.10.21-09.01.34:692][796]LogOutputDevice: Warning: 
+
+Script Stack:
+LeapRiggedEchoHandsActor_TEST_C.ExecuteUbergraph_LeapRiggedEchoHandsActor_TEST
+LeapRiggedEchoHandsActor_TEST_C.BndEvt__LeftHandMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+
+[2019.10.21-09.01.35:195][796]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.502 s
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: 
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: Ensure condition failed: MouseCaptorPath.Widgets.Num() > 0 [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp] [Line: 5424]
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: A window had a widget with mouse capture. That entire window has been dismissed before the mouse up could be processed.
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: Stack: 
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x000000007100B706 UE4Editor-Core.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x0000000070D6AE3A UE4Editor-Core.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x0000000070D7ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x000000006A24F579 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x0000000063ECC339 UE4Editor-UMG.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x0000000063F14584 UE4Editor-UMG.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x000000007067E094 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x0000000070850781 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x00000000708687B1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x000000007086AA82 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x00000000708511EE UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x000000007086AA82 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x000000007067E094 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x0000000070869D73 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x00000000660FCCFB UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x0000000066086029 UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x00000000665A6C1F UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x0000000066591470 UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x00000000665E079D UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.21-09.01.35:195][796]LogOutputDevice: Error: [Callstack] 0x0000000066DF5126 UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x0000000066624C4F UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x000000006660466D UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x000000006660B2DE UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x000000006660DCA3 UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x0000000070C3B713 UE4Editor-Core.dll!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x0000000070C3BD3A UE4Editor-Core.dll!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x0000000070C5ECFE UE4Editor-Core.dll!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x00000000671FD771 UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x0000000067203292 UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x0000000066A5C304 UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x0000000066A6756B UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x000000006456D781 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x0000000064E09626 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x00000000A50E5EAC UE4Editor.exe!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x00000000A50F6BD0 UE4Editor.exe!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x00000000A50F6C4A UE4Editor.exe!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x00000000A5104177 UE4Editor.exe!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x00000000A5105B87 UE4Editor.exe!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x00000000F3397BD4 KERNEL32.DLL!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: [Callstack] 0x00000000F4A8CED1 ntdll.dll!UnknownFunction []
+[2019.10.21-09.01.35:196][796]LogOutputDevice: Error: 
+[2019.10.21-09.01.35:203][796]LogStats:                SubmitErrorReport -  0.000 s
+[2019.10.21-09.01.35:838][796]LogStats:                    SendNewReport -  0.635 s
+[2019.10.21-09.01.35:838][796]LogStats:             FDebug::EnsureFailed -  1.145 s
+[2019.10.21-09.01.37:495][984]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.01.42:496][581]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.01.45:084][889]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.01.45:084][889]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.01.46:034][  3]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.01.46:035][  3]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.01.46:525][ 62]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.01.46:525][ 62]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.01.47:499][179]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.01.51:470][653]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.01.51:470][653]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.01.52:503][777]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.01.53:764][926]LogBlueprintUserMessages: [WD_KIOSK_C_0] 뒤로
+[2019.10.21-09.01.53:764][926]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.01.53:765][926]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.01.53:765][926]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.01.53:765][926]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.01.57:505][375]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.01.59:375][597]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.01.59:375][597]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.02.01:100][804]LogBlueprintUserMessages: [WD_HOME_C_26] 버튼눌림
+[2019.10.21-09.02.01:100][804]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.02.01:101][804]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.02.02:509][973]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.02.04:294][185]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.02.04:294][185]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.02.05:262][301]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.02.05:262][301]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.02.05:262][301]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.02.05:262][301]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.02.07:512][571]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.02.09:604][819]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.02.09:604][819]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.02.11:370][ 31]LogBlueprintUserMessages: [WD_HOME_C_27] 버튼눌림
+[2019.10.21-09.02.11:371][ 31]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.02.11:372][ 31]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.02.11:529][ 50]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.02.11:529][ 50]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.02.12:520][169]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.02.16:373][629]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.02.16:373][629]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.02.17:522][767]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.02.17:860][805]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.02.17:860][805]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.02.20:326][101]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.21-09.02.20:345][101]LogSlate: Window 'Prototype 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.21-09.02.20:383][101]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.21-09.02.20:405][101]LogSlate: Slate User Unregistered.  User Index 8
+[2019.10.21-09.02.20:405][101]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.10.21-09.02.26:960][204]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.21-09.02.26:980][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.21-09.02.26:981][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.21-09.02.26:981][204]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 22. 오전 3:02:26)
+[2019.10.21-09.02.26:981][204]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.21-09.02.26:992][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010564s)
+[2019.10.21-09.02.26:992][204]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.21-09.02.26:992][204]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2019.10.21-09.02.26:992][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011348s)
+[2019.10.21-09.02.27:023][204]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.21-09.02.27:029][204]LogInit: FAudioDevice initialized.
+[2019.10.21-09.02.27:065][204]LogLoad: Game class is 'GameModeTEST_C'
+[2019.10.21-09.02.27:067][204]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.21-18.02.27
+[2019.10.21-09.02.27:067][204]LogWorld: Bringing up level for play took: 0.001482
+[2019.10.21-09.02.27:068][204]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2019.10.21-09.02.27:069][204]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.10.21-09.02.27:070][204]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.10.21-09.02.27:070][204]Cmd: stereo reset
+[2019.10.21-09.02.27:070][204]Command not recognized: stereo reset
+[2019.10.21-09.02.27:072][204]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.08
+[2019.10.21-09.02.27:072][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.21-09.02.27:164][205]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.02.27:210][206]LogScriptCore: Warning: Script Msg: Divide by zero detected: 25.250708 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2019.10.21-09.02.27:211][206]LogScriptCore: Warning: Script Msg: Divide by zero detected: 25.250708 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2019.10.21-09.02.32:168][800]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.02.33:948][ 11]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.02.33:948][ 11]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.02.37:169][396]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.02.37:833][473]LogBlueprintUserMessages: [WD_HOME_C_30] 버튼눌림
+[2019.10.21-09.02.42:176][994]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.02.47:181][592]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.02.52:188][190]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.02.53:600][357]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.02.53:600][357]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.02.54:608][478]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.02.54:608][478]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.02.57:191][788]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.03.01:279][276]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.03.01:279][276]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.03.02:196][386]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.03.02:733][448]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.03.02:733][448]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.03.03:458][535]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.03.03:458][535]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.03.03:475][537]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.03.03:475][537]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.03.04:316][638]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.03.04:316][638]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.03.04:800][696]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.03.04:800][696]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.03.04:900][708]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.03.04:901][708]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.03.05:209][745]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.03.05:209][745]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.03.07:202][984]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.03.12:205][582]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.03.17:209][180]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.03.22:211][778]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.03.27:214][376]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.03.32:216][974]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.03.37:218][570]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.03.42:221][168]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.03.47:226][766]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.03.52:228][364]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.03.57:235][962]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.04.02:237][560]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.04.07:243][157]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.04.12:246][755]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.04.17:249][353]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.04.22:253][951]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.04.27:258][549]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.04.32:260][147]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.04.37:265][745]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.04.42:268][341]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.04.47:271][939]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.04.52:277][537]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.04.57:282][135]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.05.02:284][733]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.05.07:292][331]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.05.12:295][929]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.05.17:295][527]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.05.22:297][125]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.05.27:299][723]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.05.32:303][321]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.05.33:389][449]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.21-09.05.33:406][449]LogSlate: Window 'Prototype 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.21-09.05.33:440][449]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.21-09.05.33:455][449]PIE: '/Engine/Transient.UnrealEdEngine_0:GameInstance_2.None' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2019.10.21-09.05.33:459][449]LogSlate: Slate User Unregistered.  User Index 8
+[2019.10.21-09.05.33:459][449]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.10.21-09.05.51:372][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.21-09.05.53:755][210]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.21-09.05.57:377][642]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.10.21-09.05.58:881][817]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.21-09.06.01:584][139]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.21-09.06.02:395][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-09.06.02:462][242]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.21-09.06.02:483][242]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.21-09.06.02:483][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.21-09.06.02:483][242]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 22. 오전 3:06:02)
+[2019.10.21-09.06.02:483][242]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.21-09.06.02:493][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009881s)
+[2019.10.21-09.06.02:494][242]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.21-09.06.02:494][242]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2019.10.21-09.06.02:494][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010722s)
+[2019.10.21-09.06.02:525][242]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.21-09.06.02:532][242]LogInit: FAudioDevice initialized.
+[2019.10.21-09.06.02:569][242]LogLoad: Game class is 'GameModeTEST_C'
+[2019.10.21-09.06.02:573][242]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.21-18.06.02
+[2019.10.21-09.06.02:574][242]LogWorld: Bringing up level for play took: 0.003109
+[2019.10.21-09.06.02:578][242]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2019.10.21-09.06.02:581][242]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.10.21-09.06.02:581][242]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.10.21-09.06.02:582][242]Cmd: stereo reset
+[2019.10.21-09.06.02:582][242]Command not recognized: stereo reset
+[2019.10.21-09.06.02:582][242]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.589
+[2019.10.21-09.06.02:583][242]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.21-09.06.02:617][243]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.06.05:313][564]LogDialogs: Warning: Suppressed: VR 모드는 가상 현실에서 모션 컨트롤러로 프로젝트 작업을 할 수 있습니다. 이 기능은 아직 개발중이라, 사용 도중 버그나 크래시가 발생할 수 있습니다.
+[2019.10.21-09.06.05:549][564]LogHMD: EHMDTrackingOrigin::Floor not set. Positional Tracking is not supported.
+[2019.10.21-09.06.05:552][564]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.21-09.06.05:559][564]LogSlate: Window '시퀸서' being destroyed
+[2019.10.21-09.06.05:696][565]LogRenderer: Reallocating scene render targets to support 1928x1048 Format 10 NumSamples 1 (Frame:315).
+[2019.10.21-09.06.07:620][754]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.06.07:898][781]LogScriptCore: Warning: Script Msg: Divide by zero detected: 23.571943 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2019.10.21-09.06.07:898][781]LogScriptCore: Warning: Script Msg: Divide by zero detected: 23.571943 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2019.10.21-09.06.12:621][261]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.06.17:621][740]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.06.21:306][ 90]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.06.21:306][ 90]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.06.22:546][213]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.06.22:546][213]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.06.22:623][221]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.06.27:632][712]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.06.31:989][125]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.06.31:989][125]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.06.32:637][189]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.06.37:639][679]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.06.40:330][942]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.06.40:330][942]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.06.42:640][171]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.21-09.06.42:712][177]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.06.42:712][177]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.06.43:239][228]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.06.43:239][228]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.06.43:714][276]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.06.43:714][276]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.06.44:036][307]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.06.44:036][307]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.06.44:275][331]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] press key
+[2019.10.21-09.06.44:275][331]LogBlueprintUserMessages: [LeapHands_GEN_VARIABLE_LeapRiggedEchoHandsActor_TEST_C_CAT_0] release key
+[2019.10.21-09.06.44:620][366]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.21-09.06.44:727][366]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.21-09.06.44:745][366]LogSlate: Slate User Unregistered.  User Index 8
+[2019.10.21-09.06.44:745][366]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.10.21-09.06.50:186][368]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.21-09.06.54:454][368]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.10.21-09.06.54:576][368]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aafdf3f80, Size=64
+[2019.10.21-09.06.54:576][368]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016acb86c0c0, Size=64, Default__FirstPersonExampleMap_C Function /Engine/Transient.REINST_FirstPersonExampleMap_C_84:ExecuteUbergraph_FirstPersonExampleMap
+[2019.10.21-09.06.54:577][368]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016b204775c0, Size=64, Default__FirstPersonExampleMap_C Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2019.10.21-09.06.54:689][368]LogSavePackage: Save=118.57ms
+[2019.10.21-09.06.54:689][368]LogSavePackage: Moving '../../../../Test_Project/LeapUnreal_test/Prototype/Saved/FirstPersonExampleMapD88FAC734A934C09CDAD98AA84379376.tmp' to '../../../../Test_Project/LeapUnreal_test/Prototype/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.21-09.06.54:691][368]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/LeapUnreal_test/Prototype/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.10.21-09.06.54:720][368]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.251
+[2019.10.21-09.06.54:879][368]LogSlate: Window 'Prototype - 언리얼 에디터' being destroyed
+[2019.10.21-09.06.54:883][368]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.10.21-09.06.55:073][369]Cmd: QUIT_EDITOR
+[2019.10.21-09.06.55:360][369]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.21-09.06.55:360][369]LogExit: Preparing to exit.
+[2019.10.21-09.06.56:170][369]LogDirectoryWatcher: A directory notification for 'D:/Unreal/Test_Project/LeapUnreal_test/Prototype/Content/' was aborted.
+[2019.10.21-09.06.56:194][369]PIE: 'None.None:None' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2019.10.21-09.06.56:204][369]LogExit: Editor shut down
+[2019.10.21-09.06.56:207][369]LogExit: Transaction tracking system shut down
+[2019.10.21-09.06.56:208][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a81935080, Size=80
+[2019.10.21-09.06.56:208][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a8db232a0, Size=4
+[2019.10.21-09.06.56:208][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a86d7d060, Size=96
+[2019.10.21-09.06.56:208][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a818b2cc0, Size=112
+[2019.10.21-09.06.56:208][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a8db22f20, Size=8
+[2019.10.21-09.06.56:208][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a818af260, Size=32
+[2019.10.21-09.06.56:208][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a81913660, Size=224
+[2019.10.21-09.06.56:208][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016ad2d170a8, Size=4
+[2019.10.21-09.06.56:208][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016ad2d170e0, Size=4
+[2019.10.21-09.06.56:208][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a81f02980, Size=288
+[2019.10.21-09.06.56:209][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa68cd360, Size=200
+[2019.10.21-09.06.56:209][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa77dd200, Size=240
+[2019.10.21-09.06.56:209][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa63d35b0, Size=24
+[2019.10.21-09.06.56:209][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa7727200, Size=1056
+[2019.10.21-09.06.56:209][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa63d04a8, Size=24
+[2019.10.21-09.06.56:209][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa6d27720, Size=32
+[2019.10.21-09.06.56:209][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa7445120, Size=24
+[2019.10.21-09.06.56:210][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa7a09d00, Size=1640
+[2019.10.21-09.06.56:210][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa7077028, Size=4
+[2019.10.21-09.06.56:210][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aaa97a380, Size=128
+[2019.10.21-09.06.56:211][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aaaed1e00, Size=240
+[2019.10.21-09.06.56:211][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa809b6f0, Size=12
+[2019.10.21-09.06.56:211][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aaa820c58, Size=24
+[2019.10.21-09.06.56:211][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016affe5fa00, Size=64
+[2019.10.21-09.06.56:211][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aa8099e40, Size=12
+[2019.10.21-09.06.56:211][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aaaf5eb78, Size=24
+[2019.10.21-09.06.56:211][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a92c35900, Size=368
+[2019.10.21-09.06.56:211][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016b204775c0, Size=64
+[2019.10.21-09.06.56:211][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016aab318d10, Size=72
+[2019.10.21-09.06.56:211][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016a92c3fc00, Size=256
+[2019.10.21-09.06.56:211][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016affe95900, Size=688
+[2019.10.21-09.06.56:212][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016acb86c0c0, Size=64
+[2019.10.21-09.06.56:257][369]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.10.21-09.06.56:257][369]LogDirectoryWatcher: A directory notification for '../../../../Test_Project/LeapUnreal_test/Prototype/Content/' was aborted.
+[2019.10.21-09.06.56:257][369]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2019.10.21-09.06.56:257][369]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2019.10.21-09.06.56:257][369]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.10.21-09.06.56:257][369]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.10.21-09.06.56:257][369]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/' was aborted.
+[2019.10.21-09.06.56:257][369]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/LeapMotion/Content/' was aborted.
+[2019.10.21-09.06.56:257][369]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.10.21-09.06.56:257][369]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.10.21-09.06.56:391][369]LogExit: Object subsystem successfully closed.
+[2019.10.21-09.06.56:409][369]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.21-09.06.56:412][369]LogD3D11RHI: Shutdown
+[2019.10.21-09.06.56:412][369]LogD3D11RHI: CleanupD3DDevice
+[2019.10.21-09.06.56:414][369]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.21-09.06.56:421][369]LogModuleManager: Shutting down and abandoning module BlueprintGraph (584)
+[2019.10.21-09.06.56:421][369]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (582)
+[2019.10.21-09.06.56:421][369]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (580)
+[2019.10.21-09.06.56:422][369]LogModuleManager: Shutting down and abandoning module SceneOutliner (578)
+[2019.10.21-09.06.56:422][369]LogModuleManager: Shutting down and abandoning module AddContentDialog (576)
+[2019.10.21-09.06.56:422][369]LogDirectoryWatcher: A directory notification for 'D:/Unreal/UE_4.19/FeaturePacks/' was aborted.
+[2019.10.21-09.06.56:422][369]LogModuleManager: Shutting down and abandoning module WidgetCarousel (575)
+[2019.10.21-09.06.56:422][369]LogModuleManager: Shutting down and abandoning module EditorWidgets (572)
+[2019.10.21-09.06.56:422][369]LogModuleManager: Shutting down and abandoning module CollectionManager (570)
+[2019.10.21-09.06.56:422][369]LogDirectoryWatcher: A directory notification for 'D:/Unreal/Test_Project/LeapUnreal_test/Prototype/Content/Collections/' was aborted.
+[2019.10.21-09.06.56:422][369]LogDirectoryWatcher: A directory notification for 'D:/Unreal/Test_Project/LeapUnreal_test/Prototype/Content/Developers/st/Collections/' was aborted.
+[2019.10.21-09.06.56:422][369]LogDirectoryWatcher: A directory notification for 'D:/Unreal/Test_Project/LeapUnreal_test/Prototype/Saved/Collections/' was aborted.
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module StatsViewer (568)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module FoliageEdit (566)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module LandscapeEditor (564)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module MeshPaintMode (562)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (560)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module ActorPickerMode (558)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module GeometryMode (556)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module TextureAlignMode (554)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module BspMode (552)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (550)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module HardwareSurvey (548)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (546)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module AutomationWorker (544)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (542)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module SequenceRecorder (541)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (538)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (536)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module PlacementMode (535)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module MaterialEditor (534)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (530)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (528)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (526)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (524)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (522)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (520)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (518)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (516)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (514)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (512)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module CharacterAI (510)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module SmartSnapping (508)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module SessionServices (506)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module ViewportSnapping (504)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module ViewportInteraction (502)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module ClothPainter (500)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (499)
+[2019.10.21-09.06.56:423][369]LogModuleManager: Shutting down and abandoning module LogVisualizer (496)
+[2019.10.21-09.06.56:424][369]LogModuleManager: Shutting down and abandoning module IntroTutorials (494)
+[2019.10.21-09.06.56:424][369]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (493)
+[2019.10.21-09.06.56:424][369]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (490)
+[2019.10.21-09.06.56:424][369]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (488)
+[2019.10.21-09.06.56:424][369]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (486)
+[2019.10.21-09.06.56:424][369]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (485)
+[2019.10.21-09.06.57:125][369]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (482)
+[2019.10.21-09.06.57:125][369]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (480)
+[2019.10.21-09.06.57:125][369]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (478)
+[2019.10.21-09.06.57:125][369]LogModuleManager: Shutting down and abandoning module InputBindingEditor (476)
+[2019.10.21-09.06.57:125][369]LogModuleManager: Shutting down and abandoning module MergeActors (474)
+[2019.10.21-09.06.57:125][369]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (472)
+[2019.10.21-09.06.57:125][369]LogModuleManager: Shutting down and abandoning module LocalizationService (471)
+[2019.10.21-09.06.57:125][369]LogModuleManager: Shutting down and abandoning module HardwareTargeting (468)
+[2019.10.21-09.06.57:125][369]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (466)
+[2019.10.21-09.06.57:125][369]LogModuleManager: Shutting down and abandoning module UndoHistory (464)
+[2019.10.21-09.06.57:125][369]LogModuleManager: Shutting down and abandoning module XmlParser (462)
+[2019.10.21-09.06.57:125][369]LogModuleManager: Shutting down and abandoning module Blutility (460)
+[2019.10.21-09.06.57:125][369]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (458)
+[2019.10.21-09.06.57:125][369]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (457)
+[2019.10.21-09.06.57:126][369]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (454)
+[2019.10.21-09.06.57:126][369]LogModuleManager: Shutting down and abandoning module SettingsEditor (452)
+[2019.10.21-09.06.57:126][369]LogModuleManager: Shutting down and abandoning module ProjectLauncher (450)
+[2019.10.21-09.06.57:126][369]LogModuleManager: Shutting down and abandoning module SessionFrontend (448)
+[2019.10.21-09.06.57:126][369]LogModuleManager: Shutting down and abandoning module ProfilerClient (446)
+[2019.10.21-09.06.57:126][369]LogModuleManager: Shutting down and abandoning module DeviceManager (444)
+[2019.10.21-09.06.57:126][369]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (443)
+[2019.10.21-09.06.57:181][369]LogModuleManager: Shutting down and abandoning module AutomationController (440)
+[2019.10.21-09.06.57:181][369]LogModuleManager: Shutting down and abandoning module AutomationWindow (438)
+[2019.10.21-09.06.57:181][369]LogModuleManager: Shutting down and abandoning module Layers (436)
+[2019.10.21-09.06.57:181][369]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (434)
+[2019.10.21-09.06.57:181][369]LogModuleManager: Shutting down and abandoning module DetailCustomizations (432)
+[2019.10.21-09.06.57:181][369]LogModuleManager: Shutting down and abandoning module PackagesDialog (430)
+[2019.10.21-09.06.57:181][369]LogModuleManager: Shutting down and abandoning module Persona (428)
+[2019.10.21-09.06.57:181][369]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (427)
+[2019.10.21-09.06.57:181][369]LogModuleManager: Shutting down and abandoning module AnimGraph (425)
+[2019.10.21-09.06.57:181][369]LogModuleManager: Shutting down and abandoning module Kismet (422)
+[2019.10.21-09.06.57:188][369]LogModuleManager: Shutting down and abandoning module GraphEditor (420)
+[2019.10.21-09.06.57:188][369]LogModuleManager: Shutting down and abandoning module ClassViewer (418)
+[2019.10.21-09.06.57:188][369]LogModuleManager: Shutting down and abandoning module Toolbox (416)
+[2019.10.21-09.06.57:188][369]LogModuleManager: Shutting down and abandoning module ModuleUI (414)
+[2019.10.21-09.06.57:188][369]LogModuleManager: Shutting down and abandoning module MovieSceneTools (412)
+[2019.10.21-09.06.57:188][369]LogModuleManager: Shutting down and abandoning module OutputLog (410)
+[2019.10.21-09.06.57:188][369]LogModuleManager: Shutting down and abandoning module GammaUI (408)
+[2019.10.21-09.06.57:188][369]LogModuleManager: Shutting down and abandoning module Documentation (406)
+[2019.10.21-09.06.57:188][369]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (404)
+[2019.10.21-09.06.57:188][369]LogModuleManager: Shutting down and abandoning module MovieScene (402)
+[2019.10.21-09.06.57:188][369]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (400)
+[2019.10.21-09.06.57:188][369]LogModuleManager: Shutting down and abandoning module LauncherPlatform (398)
+[2019.10.21-09.06.57:188][369]LogModuleManager: Shutting down and abandoning module AnalyticsET (396)
+[2019.10.21-09.06.57:189][369]LogModuleManager: Shutting down and abandoning module PortalServices (394)
+[2019.10.21-09.06.57:189][369]LogModuleManager: Shutting down and abandoning module PortalRpc (392)
+[2019.10.21-09.06.57:189][369]LogModuleManager: Shutting down and abandoning module MessagingRpc (390)
+[2019.10.21-09.06.57:189][369]LogModuleManager: Shutting down and abandoning module AIModule (388)
+[2019.10.21-09.06.57:189][369]LogModuleManager: Shutting down and abandoning module GameplayDebugger (387)
+[2019.10.21-09.06.57:189][369]LogModuleManager: Shutting down and abandoning module AITestSuite (385)
+[2019.10.21-09.06.57:189][369]LogModuleManager: Shutting down and abandoning module DesktopPlatform (382)
+[2019.10.21-09.06.57:189][369]LogModuleManager: Shutting down and abandoning module ProfilerService (380)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module TaskGraph (378)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module SteamVRController (376)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (374)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (372)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module OculusInput (370)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (368)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (366)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module CableComponent (364)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module AudioCapture (362)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (360)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module AndroidPermission (358)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (354)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (352)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (350)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module MediaCompositing (348)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module LinearTimecode (346)
+[2019.10.21-09.06.57:266][369]LogModuleManager: Shutting down and abandoning module ImgMedia (344)
+[2019.10.21-09.06.57:269][369]LogModuleManager: Shutting down and abandoning module HTML5Networking (342)
+[2019.10.21-09.06.57:269][369]LogModuleManager: Shutting down and abandoning module AlembicImporter (340)
+[2019.10.21-09.06.57:269][369]LogModuleManager: Shutting down and abandoning module AlembicLibrary (339)
+[2019.10.21-09.06.57:269][369]LogModuleManager: Shutting down and abandoning module GeometryCache (338)
+[2019.10.21-09.06.57:269][369]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (337)
+[2019.10.21-09.06.57:269][369]LogModuleManager: Shutting down and abandoning module DatasmithContent (332)
+[2019.10.21-09.06.57:269][369]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (330)
+[2019.10.21-09.06.57:269][369]LogModuleManager: Shutting down and abandoning module PluginBrowser (328)
+[2019.10.21-09.06.57:269][369]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (326)
+[2019.10.21-09.06.57:269][369]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (324)
+[2019.10.21-09.06.57:269][369]LogModuleManager: Shutting down and abandoning module CryptoKeys (322)
+[2019.10.21-09.06.57:269][369]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (320)
+[2019.10.21-09.06.57:269][369]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (318)
+[2019.10.21-09.06.57:269][369]LogModuleManager: Shutting down and abandoning module UObjectPlugin (316)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (314)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (312)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module GitSourceControl (310)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module SourceControl (309)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (306)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (284)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (282)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module ActorSequence (280)
+[2019.10.21-09.06.57:270][369]LogModuleManager: Shutting down and abandoning module UdpMessaging (278)
+[2019.10.21-09.06.57:371][369]LogModuleManager: Shutting down and abandoning module TcpMessaging (276)
+[2019.10.21-09.06.57:472][369]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (274)
+[2019.10.21-09.06.57:472][369]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (272)
+[2019.10.21-09.06.57:472][369]LogModuleManager: Shutting down and abandoning module FacialAnimation (270)
+[2019.10.21-09.06.57:472][369]LogModuleManager: Shutting down and abandoning module DataValidation (268)
+[2019.10.21-09.06.57:472][369]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (266)
+[2019.10.21-09.06.57:472][369]LogModuleManager: Shutting down and abandoning module LevelEditor (265)
+[2019.10.21-09.06.57:472][369]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (264)
+[2019.10.21-09.06.57:472][369]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (262)
+[2019.10.21-09.06.57:473][369]LogModuleManager: Shutting down and abandoning module MainFrame (260)
+[2019.10.21-09.06.57:473][369]LogModuleManager: Shutting down and abandoning module HotReload (259)
+[2019.10.21-09.06.57:473][369]LogModuleManager: Shutting down and abandoning module ContentBrowser (255)
+[2019.10.21-09.06.57:474][369]LogModuleManager: Shutting down and abandoning module TreeMap (253)
+[2019.10.21-09.06.57:474][369]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (250)
+[2019.10.21-09.06.57:474][369]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (248)
+[2019.10.21-09.06.57:474][369]LogModuleManager: Shutting down and abandoning module LiveLink (246)
+[2019.10.21-09.06.57:879][369]LogModuleManager: Shutting down and abandoning module Paper2D (244)
+[2019.10.21-09.06.57:879][369]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (242)
+[2019.10.21-09.06.57:879][369]LogModuleManager: Shutting down and abandoning module WmfMedia (240)
+[2019.10.21-09.06.57:880][369]LogModuleManager: Shutting down and abandoning module Media (239)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module PacketHandler (236)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (234)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (232)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module MediaAssets (230)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module Overlay (228)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module OverlayEditor (227)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module VREditor (224)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module StringTableEditor (222)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (220)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (218)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module FunctionalTesting (216)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (214)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (213)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module UMG (210)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module UMGEditor (209)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module Sequencer (208)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module MessageLog (205)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module SlateReflector (200)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module Slate (198)
+[2019.10.21-09.06.57:886][369]LogModuleManager: Shutting down and abandoning module EditorStyle (196)
+[2019.10.21-09.06.57:888][369]LogModuleManager: Shutting down and abandoning module MRMesh (194)
+[2019.10.21-09.06.57:888][369]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (192)
+[2019.10.21-09.06.57:888][369]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (190)
+[2019.10.21-09.06.57:888][369]LogModuleManager: Shutting down and abandoning module XAudio2 (188)
+[2019.10.21-09.06.57:888][369]LogModuleManager: Shutting down and abandoning module Networking (186)
+[2019.10.21-09.06.57:888][369]LogModuleManager: Shutting down and abandoning module Core (184)
+[2019.10.21-09.06.57:888][369]LogModuleManager: Shutting down and abandoning module LevelSequence (182)
+[2019.10.21-09.06.57:888][369]LogModuleManager: Shutting down and abandoning module KismetCompiler (180)
+[2019.10.21-09.06.57:888][369]LogModuleManager: Shutting down and abandoning module MeshUtilities (178)
+[2019.10.21-09.06.57:888][369]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (177)
+[2019.10.21-09.06.57:888][369]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (176)
+[2019.10.21-09.06.57:888][369]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (175)
+[2019.10.21-09.06.57:888][369]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.10.21-09.06.57:888][369]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.10.21-09.06.57:888][369]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.10.21-09.06.57:888][369]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.10.21-09.06.57:889][369]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.10.21-09.06.57:927][369]LogDerivedDataCache: Shutdown
+[2019.10.21-09.06.57:927][369]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.10.21-09.06.57:927][369]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.10.21-09.06.57:927][369]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.10.21-09.06.57:927][369]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.10.21-09.06.57:927][369]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.10.21-09.06.57:927][369]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.10.21-09.06.57:927][369]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.10.21-09.06.57:927][369]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.10.21-09.06.57:927][369]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.10.21-09.06.57:927][369]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.10.21-09.06.57:927][369]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.10.21-09.06.57:927][369]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (107)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (105)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (103)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (101)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (99)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (97)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (95)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (93)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (91)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (89)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (87)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (85)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (83)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (81)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (79)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (77)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (75)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module InputCore (72)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module Settings (70)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module PhysXCooking (68)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module SteamVR (66)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module OculusHMD (64)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module LeapMotion (62)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module GoogleVRHMD (60)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module GoogleVRController (58)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.10.21-09.06.57:928][369]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.10.21-09.06.57:928][369]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.21-09.06.57:928][369]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC7C9E3B4-4F55-2380-7C88-CD9565D32CDE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=f7b5c8aa49c3419fde99edbe36bf3715%7Cb5716a44ff0147a4a3abcde2da5922e4%7C932fb0a0-e191-467f-aaa5-ba8e53c32387&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.21-09.06.57:957][369]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.10.21-09.06.57:958][369]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.10.21-09.06.57:958][369]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.10.21-09.06.57:958][369]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.10.21-09.06.57:958][369]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.10.21-09.06.57:958][369]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.10.21-09.06.57:958][369]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.10.21-09.06.57:959][369]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.10.21-09.06.57:961][369]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.10.21-09.06.57:961][369]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.10.21-09.06.57:961][369]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.10.21-09.06.57:961][369]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.10.21-09.06.57:961][369]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.10.21-09.06.57:961][369]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.10.21-09.06.57:961][369]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.10.21-09.06.57:961][369]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.10.21-09.06.57:961][369]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.10.21-09.06.57:961][369]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.10.21-09.06.57:961][369]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.10.21-09.06.57:968][369]LogExit: Exiting.
+[2019.10.21-09.06.57:982][369]Log file closed, 10/21/19 18:06:57
