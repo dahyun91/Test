@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-leap_zenga.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Lecture\Unreal\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Lecture\Unreal\Study\Leap_Zenga\Intermediate\Build\Win64\UE4Editor\Development\leap_zenga\leap_zenga.cpp.obj"
+"D:\Lecture\Unreal\Study\Leap_Zenga\Intermediate\Build\Win64\UE4Editor\Development\leap_zenga\MyCharacter.cpp.obj"
+"D:\Lecture\Unreal\Study\Leap_Zenga\Intermediate\Build\Win64\UE4Editor\Development\leap_zenga\leap_zenga.init.gen.cpp.obj"
+"D:\Lecture\Unreal\Study\Leap_Zenga\Intermediate\Build\Win64\UE4Editor\Development\leap_zenga\MyCharacter.gen.cpp.obj"
+"D:\Lecture\Unreal\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\leap_zenga\PCLaunch.rc.res"
+"D:\Lecture\Unreal\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Lecture\Unreal\Study\Leap_Zenga\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-leap_zenga.lib"
