@@ -1,3 +1,0 @@
-D:\Lecture\Unreal\Study\Leap_Zenga\Source\leap_zenga\leap_zenga.Build.cs
-D:\Lecture\Unreal\Study\Leap_Zenga\Source\leap_zenga.Target.cs
-D:\Lecture\Unreal\Study\Leap_Zenga\Source\leap_zengaEditor.Target.cs
