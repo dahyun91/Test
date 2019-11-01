@@ -1,0 +1,672 @@
+﻿Log file open, 10/30/19 16:02:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FastFood_1026
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1039149741) SRandInit(-1039149741).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.510692
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.242s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-PF0DSIS (192.168.0.5:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Lecture/Unreal/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.10.30-07.02.22:235][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.30-07.02.22:235][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.30-07.02.22:365][  0]LogInit: Computer: DESKTOP-PF0DSIS
+[2019.10.30-07.02.22:365][  0]LogInit: User: st
+[2019.10.30-07.02.22:365][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.10.30-07.02.22:365][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.30-07.02.22:370][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2019.10.30-07.02.22:370][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.30-07.02.22:370][  0]LogMemory: Process Physical Memory: 275.27 MB used, 275.27 MB peak
+[2019.10.30-07.02.22:370][  0]LogMemory: Process Virtual Memory: 271.41 MB used, 271.41 MB peak
+[2019.10.30-07.02.22:370][  0]LogMemory: Physical Memory: 5999.63 MB used,  26542.35 MB free, 32541.98 MB total
+[2019.10.30-07.02.22:370][  0]LogMemory: Virtual Memory: 4813.76 MB used,  26542.35 MB free, 134217728.00 MB total
+[2019.10.30-07.02.22:942][  0]LogInit: Using OS detected language (ko-KR).
+[2019.10.30-07.02.22:942][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.10.30-07.02.23:082][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.10.30-07.02.23:541][  0]LogStreaming: Display: Took  0.595s to EndInitTextLocalization.
+[2019.10.30-07.02.23:561][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.30-07.02.23:960][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.30-07.02.23:960][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.30-07.02.26:649][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.30-07.02.26:723][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.10.30-07.02.26:723][  0]LogD3D11RHI:       8010/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.30-07.02.26:740][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.10.30-07.02.26:740][  0]LogD3D11RHI:       128/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.10.30-07.02.26:741][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.30-07.02.26:741][  0]LogD3D11RHI:       0/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.30-07.02.26:741][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.30-07.02.26:750][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.30-07.02.26:751][  0]LogD3D11RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.30-07.02.26:751][  0]LogWindows: EnumDisplayDevices:
+[2019.10.30-07.02.26:751][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.10.30-07.02.26:751][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.30-07.02.26:751][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.30-07.02.26:752][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.30-07.02.26:752][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2019.10.30-07.02.26:752][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.30-07.02.26:752][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.30-07.02.26:752][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.10.30-07.02.26:752][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.10.30-07.02.26:752][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.10.30-07.02.26:752][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.10.30-07.02.26:753][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.10.30-07.02.26:815][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.10.30-07.02.26:815][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.10.30-07.02.26:815][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.30-07.02.27:025][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.30-07.02.27:152][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Intermediate/Shaders/WorkingDirectory/14524/).
+[2019.10.30-07.02.27:156][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/st/AppData/Local/Temp/UnrealShaderWorkingDir/6B86615E4CE0FD947F6E7DB075C05BD4/'.
+[2019.10.30-07.02.28:045][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.10.30-07.02.28:061][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.10.30-07.02.28:073][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.10.30-07.02.28:083][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.10.30-07.02.28:100][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.10.30-07.02.28:109][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.10.30-07.02.28:119][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.10.30-07.02.28:128][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.10.30-07.02.28:133][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.10.30-07.02.28:142][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.10.30-07.02.28:150][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.10.30-07.02.28:158][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.10.30-07.02.28:167][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.10.30-07.02.28:175][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.10.30-07.02.28:183][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.10.30-07.02.28:201][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.10.30-07.02.28:201][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.10.30-07.02.28:217][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.30-07.02.28:218][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.10.30-07.02.28:294][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.30-07.02.28:303][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.30-07.02.28:311][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.10.30-07.02.28:320][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.10.30-07.02.28:329][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.10.30-07.02.28:341][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.10.30-07.02.28:341][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.30-07.02.28:980][  0]LogXGEController: Cleaning working directory: C:/Users/st/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.30-07.02.28:980][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.30-07.02.28:994][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.30-07.02.28:994][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.30-07.02.30:846][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.30-07.02.31:099][  0]LogDerivedDataCache: Loaded boot cache 0.25s 74MB C:/Users/st/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.10.30-07.02.31:099][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/st/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.10.30-07.02.31:099][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.30-07.02.31:099][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.30-07.02.31:100][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.30-07.02.31:100][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.30-07.02.31:151][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.30-07.02.31:164][  0]LogDerivedDataCache: Using Local data cache path C:/Users/st/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.30-07.02.31:164][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.30-07.02.31:164][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.30-07.02.31:224][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.30-07.02.31:265][  0]LogSlate: Using Freetype 2.6.0
+[2019.10.30-07.02.31:315][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.30-07.02.31:315][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.30-07.02.36:359][  0]LogAssetRegistry: FAssetRegistry took 0.0398 seconds to start up
+[2019.10.30-07.02.38:751][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.30-07.02.39:814][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.10.30-07.02.39:838][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.10.30-07.02.39:848][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.30-07.02.39:849][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.10.30-07.02.39:849][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.10.30-07.02.39:849][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.10.30-07.02.40:127][  0]LogNetVersion: FastFood_1026 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1598029859)
+[2019.10.30-07.02.43:782][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.100775 seconds
+[2019.10.30-07.02.43:828][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.10.30-07.02.43:828][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2019.10.30-07.02.43:828][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.30-07.03.02:592][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.30-07.03.02:612][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.30-07.03.03:354][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.10.30-07.03.03:354][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.10.30-07.03.03:364][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.10.30-07.03.03:373][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.10.30-07.03.03:826][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.30-07.03.03:948][  0]LogOcInput: OculusInput pre-init called
+[2019.10.30-07.03.04:450][  0]LogEngine: Initializing Engine...
+[2019.10.30-07.03.04:477][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.30-07.03.04:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.30-07.03.04:491][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.30-07.03.05:421][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.30-07.03.05:572][  0]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-07.03.05:584][  0]LogInit: FAudioDevice initialized.
+[2019.10.30-07.03.05:667][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/st/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.10.30-07.03.05:674][  0]LogInit: Texture streaming: Enabled
+[2019.10.30-07.03.05:716][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.30-07.03.05:812][  0]LogInit: Transaction tracking system initialized
+[2019.10.30-07.03.06:045][  0]BlueprintLog: New page: 에디터 로드
+[2019.10.30-07.03.06:659][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.10.30-07.03.07:112][  0]LogConsoleResponse: Display: 
+[2019.10.30-07.03.08:779][  0]LogFileCache: Scanning file cache for directory 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/' took 0.02s
+[2019.10.30-07.03.08:779][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.30-07.03.08:780][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.30-07.03.08:780][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.10.30-07.03.08:780][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.30-07.03.08:780][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.30-07.03.09:945][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.10.30-07.03.09:976][  0]Cmd: MAP LOAD FILE="C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.30-07.03.09:979][  0]LightingResults: New page: 라이팅 빌드
+[2019.10.30-07.03.10:064][  0]MapCheck: New page: 맵 체크
+[2019.10.30-07.03.10:064][  0]LightingResults: New page: 라이팅 빌드
+[2019.10.30-07.03.10:591][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb76e39990, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.10.30-07.03.10:652][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb76e39990, Size=72
+[2019.10.30-07.03.10:652][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb00947790, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.10.30-07.03.10:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb00e119e0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.10.30-07.03.10:766][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb00df3c00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2019.10.30-07.03.10:806][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb00df3c00, Size=256
+[2019.10.30-07.03.10:807][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb00df3c00, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
+[2019.10.30-07.03.10:808][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb00df0b00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2019.10.30-07.03.11:368][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0164ab00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.10.30-07.03.11:385][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb0164ab00, Size=688
+[2019.10.30-07.03.11:385][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0164ab00, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
+[2019.10.30-07.03.11:394][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb015ce500, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.10.30-07.03.11:654][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb09461078, Size=4, Default__WB_Test_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:667][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb09441990, Size=24, Default__WB_00_SizeBox_C Function /Game/ATM_pch/WB_00_SizeBox.WB_00_SizeBox_C:ExecuteUbergraph_WB_00_SizeBox
+[2019.10.30-07.03.11:667][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb09461080, Size=4, Default__WB_00_SizeBox_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:722][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01dd6f80, Size=128, Default__WB_08_Ongoing_13_16_C Function /Game/ATM_pch/WB_08_Ongoing_13_16.WB_08_Ongoing_13_16_C:ExecuteUbergraph_WB_08_Ongoing_13_16
+[2019.10.30-07.03.11:722][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb094602f0, Size=4, Default__WB_08_Ongoing_13_16_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:723][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d883a0, Size=216, Default__WB_09_SelectBank_C Function /Game/ATM_pch/WB_09_SelectBank.WB_09_SelectBank_C:ExecuteUbergraph_WB_09_SelectBank
+[2019.10.30-07.03.11:723][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb094602e8, Size=4, Default__WB_09_SelectBank_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:724][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d70900, Size=312, Default__WB_10_AcNum_C Function /Game/ATM_pch/WB_10_AcNum.WB_10_AcNum_C:ExecuteUbergraph_WB_10_AcNum
+[2019.10.30-07.03.11:724][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb094602d0, Size=4, Default__WB_10_AcNum_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:725][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d97b00, Size=232, Default__WB_11_SelectMoney_C Function /Game/ATM_pch/WB_11_SelectMoney.WB_11_SelectMoney_C:ExecuteUbergraph_WB_11_SelectMoney
+[2019.10.30-07.03.11:725][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb094602c8, Size=4, Default__WB_11_SelectMoney_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:726][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d97700, Size=248, Default__WB_12_Password_C Function /Game/ATM_pch/WB_12_Password.WB_12_Password_C:ExecuteUbergraph_WB_12_Password
+[2019.10.30-07.03.11:726][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb094602b0, Size=4, Default__WB_12_Password_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:731][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d62ea0, Size=16, Default__WB_01_Main_C Function /Game/ATM_pch/WB_01_Main.WB_01_Main_C:ExecuteUbergraph_WB_01_Main
+[2019.10.30-07.03.11:731][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb09460268, Size=4, Default__WB_01_Main_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:732][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01de9a20, Size=32, Default__WB_02_Fraud_C Function /Game/ATM_pch/WB_02_Fraud.WB_02_Fraud_C:ExecuteUbergraph_WB_02_Fraud
+[2019.10.30-07.03.11:732][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb09460258, Size=4, Default__WB_02_Fraud_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:732][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d62e90, Size=16, Default__WB_03_VoiceFishing_C Function /Game/ATM_pch/WB_03_VoiceFishing.WB_03_VoiceFishing_C:ExecuteUbergraph_WB_03_VoiceFishing
+[2019.10.30-07.03.11:732][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb09460248, Size=4, Default__WB_03_VoiceFishing_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:733][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d62eb0, Size=16, Default__WB_04_IsCard_C Function /Game/ATM_pch/WB_04_IsCard.WB_04_IsCard_C:ExecuteUbergraph_WB_04_IsCard
+[2019.10.30-07.03.11:733][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb09460238, Size=4, Default__WB_04_IsCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:734][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d62e70, Size=16, Default__WB_05_ThrowCard_C Function /Game/ATM_pch/WB_05_ThrowCard.WB_05_ThrowCard_C:ExecuteUbergraph_WB_05_ThrowCard
+[2019.10.30-07.03.11:734][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb09460228, Size=4, Default__WB_05_ThrowCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:734][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d62e60, Size=16, Default__WB_06_ReadCard_C Function /Game/ATM_pch/WB_06_ReadCard.WB_06_ReadCard_C:ExecuteUbergraph_WB_06_ReadCard
+[2019.10.30-07.03.11:734][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb09460220, Size=4, Default__WB_06_ReadCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:735][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01561cd8, Size=40, Default__WB_07_BankTransform_C Function /Game/ATM_pch/WB_07_BankTransform.WB_07_BankTransform_C:ExecuteUbergraph_WB_07_BankTransform
+[2019.10.30-07.03.11:735][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb09460210, Size=4, Default__WB_07_BankTransform_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01562250, Size=40, Default__WB_07_BankTransform_C Function /Game/ATM_pch/WB_07_BankTransform.WB_07_BankTransform_C:ExecuteUbergraph_WB_07_BankTransform
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb09460208, Size=4, Default__WB_07_BankTransform_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d62e80, Size=16, Default__WB_06_ReadCard_C Function /Game/ATM_pch/WB_06_ReadCard.WB_06_ReadCard_C:ExecuteUbergraph_WB_06_ReadCard
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb09460200, Size=4, Default__WB_06_ReadCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d62e50, Size=16, Default__WB_05_ThrowCard_C Function /Game/ATM_pch/WB_05_ThrowCard.WB_05_ThrowCard_C:ExecuteUbergraph_WB_05_ThrowCard
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb094601f8, Size=4, Default__WB_05_ThrowCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d62e40, Size=16, Default__WB_04_IsCard_C Function /Game/ATM_pch/WB_04_IsCard.WB_04_IsCard_C:ExecuteUbergraph_WB_04_IsCard
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb094601f0, Size=4, Default__WB_04_IsCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d62e30, Size=16, Default__WB_03_VoiceFishing_C Function /Game/ATM_pch/WB_03_VoiceFishing.WB_03_VoiceFishing_C:ExecuteUbergraph_WB_03_VoiceFishing
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb094601e8, Size=4, Default__WB_03_VoiceFishing_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01de9700, Size=32, Default__WB_02_Fraud_C Function /Game/ATM_pch/WB_02_Fraud.WB_02_Fraud_C:ExecuteUbergraph_WB_02_Fraud
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb094601e0, Size=4, Default__WB_02_Fraud_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d62e20, Size=16, Default__WB_01_Main_C Function /Game/ATM_pch/WB_01_Main.WB_01_Main_C:ExecuteUbergraph_WB_01_Main
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb094601d8, Size=4, Default__WB_01_Main_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d95b00, Size=248, Default__WB_12_Password_C Function /Game/ATM_pch/WB_12_Password.WB_12_Password_C:ExecuteUbergraph_WB_12_Password
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb094601d0, Size=4, Default__WB_12_Password_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d95a00, Size=232, Default__WB_11_SelectMoney_C Function /Game/ATM_pch/WB_11_SelectMoney.WB_11_SelectMoney_C:ExecuteUbergraph_WB_11_SelectMoney
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb094601c8, Size=4, Default__WB_11_SelectMoney_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d07240, Size=312, Default__WB_10_AcNum_C Function /Game/ATM_pch/WB_10_AcNum.WB_10_AcNum_C:ExecuteUbergraph_WB_10_AcNum
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb094601c0, Size=4, Default__WB_10_AcNum_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a465c0, Size=216, Default__WB_09_SelectBank_C Function /Game/ATM_pch/WB_09_SelectBank.WB_09_SelectBank_C:ExecuteUbergraph_WB_09_SelectBank
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb094601b8, Size=4, Default__WB_09_SelectBank_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01dd6000, Size=128, Default__WB_08_Ongoing_13_16_C Function /Game/ATM_pch/WB_08_Ongoing_13_16.WB_08_Ongoing_13_16_C:ExecuteUbergraph_WB_08_Ongoing_13_16
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb094601b0, Size=4, Default__WB_08_Ongoing_13_16_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a4be38, Size=24, Default__WB_00_SizeBox_C Function /Game/ATM_pch/WB_00_SizeBox.WB_00_SizeBox_C:ExecuteUbergraph_WB_00_SizeBox
+[2019.10.30-07.03.11:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb094601a8, Size=4, Default__WB_00_SizeBox_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:759][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01da6200, Size=88, Default__WB_15_AccountTransferCheck_C Function /Game/ATM_pch/WB_15_AccountTransferCheck.WB_15_AccountTransferCheck_C:ExecuteUbergraph_WB_15_AccountTransferCheck
+[2019.10.30-07.03.11:759][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a1bd28, Size=4, Default__WB_15_AccountTransferCheck_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:760][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d62660, Size=16, Default__WB_14_LoanTrick_C Function /Game/ATM_pch/WB_14_LoanTrick.WB_14_LoanTrick_C:ExecuteUbergraph_WB_14_LoanTrick
+[2019.10.30-07.03.11:760][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a1bd18, Size=4, Default__WB_14_LoanTrick_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:772][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d621a0, Size=16, Default__WB_19_Thanks_C Function /Game/ATM_pch/WB_19_Thanks.WB_19_Thanks_C:ExecuteUbergraph_WB_19_Thanks
+[2019.10.30-07.03.11:772][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a1b8a8, Size=4, Default__WB_19_Thanks_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:778][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01d62080, Size=16, Default__WB_18_Mungse_C Function /Game/ATM_pch/WB_18_Mungse.WB_18_Mungse_C:ExecuteUbergraph_WB_18_Mungse
+[2019.10.30-07.03.11:778][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a1b850, Size=4, Default__WB_18_Mungse_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:781][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01da6e00, Size=88, Default__WB_17_SendContinue_C Function /Game/ATM_pch/WB_17_SendContinue.WB_17_SendContinue_C:ExecuteUbergraph_WB_17_SendContinue
+[2019.10.30-07.03.11:781][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a1b800, Size=4, Default__WB_17_SendContinue_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:965][  0]LogBlueprint: Warning: [Compiler WB_01_Main] Get : 'WidgetSwitcher_1' variable not found. Base class was probably changed. /Game/ATM_pch/WB_01_Main.WB_01_Main
+[2019.10.30-07.03.11:965][  0]LogBlueprint: Warning: [Compiler WB_01_Main] Get : 'WB_02_Fraud' variable not found. Base class was probably changed. /Game/ATM_pch/WB_01_Main.WB_01_Main
+[2019.10.30-07.03.11:984][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb09461078, Size=4
+[2019.10.30-07.03.11:984][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a19aa0, Size=4, Default__WB_Test_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:984][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a4be38, Size=24
+[2019.10.30-07.03.11:984][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb094601a8, Size=4
+[2019.10.30-07.03.11:984][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0970f9b8, Size=24, Default__WB_00_SizeBox_C Function /Engine/Transient.REINST_WB_00_SizeBox_C_1:ExecuteUbergraph_WB_00_SizeBox
+[2019.10.30-07.03.11:984][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a19a78, Size=4, Default__WB_00_SizeBox_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:984][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01d62e20, Size=16
+[2019.10.30-07.03.11:984][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb094601d8, Size=4
+[2019.10.30-07.03.11:984][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb605f6b50, Size=16, Default__WB_01_Main_C Function /Engine/Transient.REINST_WB_01_Main_C_2:ExecuteUbergraph_WB_01_Main
+[2019.10.30-07.03.11:984][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a19a68, Size=4, Default__WB_01_Main_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:984][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01de9700, Size=32
+[2019.10.30-07.03.11:984][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb094601e0, Size=4
+[2019.10.30-07.03.11:984][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb096ca6a0, Size=32, Default__WB_02_Fraud_C Function /Engine/Transient.REINST_WB_02_Fraud_C_3:ExecuteUbergraph_WB_02_Fraud
+[2019.10.30-07.03.11:984][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a19a58, Size=4, Default__WB_02_Fraud_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01d62e30, Size=16
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb094601e8, Size=4
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb605f6b30, Size=16, Default__WB_03_VoiceFishing_C Function /Engine/Transient.REINST_WB_03_VoiceFishing_C_4:ExecuteUbergraph_WB_03_VoiceFishing
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a19a48, Size=4, Default__WB_03_VoiceFishing_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01d62e40, Size=16
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb094601f0, Size=4
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb605f6b20, Size=16, Default__WB_04_IsCard_C Function /Engine/Transient.REINST_WB_04_IsCard_C_5:ExecuteUbergraph_WB_04_IsCard
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a19a38, Size=4, Default__WB_04_IsCard_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01d62e50, Size=16
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb094601f8, Size=4
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb605f6ae0, Size=16, Default__WB_05_ThrowCard_C Function /Engine/Transient.REINST_WB_05_ThrowCard_C_6:ExecuteUbergraph_WB_05_ThrowCard
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a19a28, Size=4, Default__WB_05_ThrowCard_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01d62e80, Size=16
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb09460200, Size=4
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb605f6ad0, Size=16, Default__WB_06_ReadCard_C Function /Engine/Transient.REINST_WB_06_ReadCard_C_7:ExecuteUbergraph_WB_06_ReadCard
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a19a20, Size=4, Default__WB_06_ReadCard_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01562250, Size=40
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb09460208, Size=4
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01984a40, Size=40, Default__WB_07_BankTransform_C Function /Engine/Transient.REINST_WB_07_BankTransform_C_8:ExecuteUbergraph_WB_07_BankTransform
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a19a10, Size=4, Default__WB_07_BankTransform_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01dd6000, Size=128
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb094601b0, Size=4
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb09756f00, Size=128, Default__WB_08_Ongoing_13_16_C Function /Engine/Transient.REINST_WB_08_Ongoing_13_16_C_9:ExecuteUbergraph_WB_08_Ongoing_13_16
+[2019.10.30-07.03.11:985][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a19a08, Size=4, Default__WB_08_Ongoing_13_16_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:986][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a465c0, Size=216
+[2019.10.30-07.03.11:986][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb094601b8, Size=4
+[2019.10.30-07.03.11:986][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb09677740, Size=216, Default__WB_09_SelectBank_C Function /Engine/Transient.REINST_WB_09_SelectBank_C_10:ExecuteUbergraph_WB_09_SelectBank
+[2019.10.30-07.03.11:986][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a199f8, Size=4, Default__WB_09_SelectBank_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:986][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01d07240, Size=312
+[2019.10.30-07.03.11:986][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb094601c0, Size=4
+[2019.10.30-07.03.11:986][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0195c7c0, Size=312, Default__WB_10_AcNum_C Function /Engine/Transient.REINST_WB_10_AcNum_C_11:ExecuteUbergraph_WB_10_AcNum
+[2019.10.30-07.03.11:986][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a199e8, Size=4, Default__WB_10_AcNum_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:986][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01d95a00, Size=232
+[2019.10.30-07.03.11:986][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb094601c8, Size=4
+[2019.10.30-07.03.11:986][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb09743500, Size=232, Default__WB_11_SelectMoney_C Function /Engine/Transient.REINST_WB_11_SelectMoney_C_12:ExecuteUbergraph_WB_11_SelectMoney
+[2019.10.30-07.03.11:986][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a199d8, Size=4, Default__WB_11_SelectMoney_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01d95b00, Size=248
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb094601d0, Size=4
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb09743300, Size=248, Default__WB_12_Password_C Function /Engine/Transient.REINST_WB_12_Password_C_13:ExecuteUbergraph_WB_12_Password
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a199c8, Size=4, Default__WB_12_Password_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01d62660, Size=16
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a1bd18, Size=4
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb605f6ac0, Size=16, Default__WB_14_LoanTrick_C Function /Engine/Transient.REINST_WB_14_LoanTrick_C_14:ExecuteUbergraph_WB_14_LoanTrick
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a1bd18, Size=4, Default__WB_14_LoanTrick_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01da6200, Size=88
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a1bd28, Size=4
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb096f7700, Size=88, Default__WB_15_AccountTransferCheck_C Function /Engine/Transient.REINST_WB_15_AccountTransferCheck_C_15:ExecuteUbergraph_WB_15_AccountTransferCheck
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a1bd28, Size=4, Default__WB_15_AccountTransferCheck_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01da6e00, Size=88
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a1b800, Size=4
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb096f77c0, Size=88, Default__WB_17_SendContinue_C Function /Engine/Transient.REINST_WB_17_SendContinue_C_16:ExecuteUbergraph_WB_17_SendContinue
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a1b800, Size=4, Default__WB_17_SendContinue_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01d62080, Size=16
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a1b850, Size=4
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb605f6ab0, Size=16, Default__WB_18_Mungse_C Function /Engine/Transient.REINST_WB_18_Mungse_C_17:ExecuteUbergraph_WB_18_Mungse
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a1b850, Size=4, Default__WB_18_Mungse_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01d621a0, Size=16
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a1b8a8, Size=4
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb605f6aa0, Size=16, Default__WB_19_Thanks_C Function /Engine/Transient.REINST_WB_19_Thanks_C_18:ExecuteUbergraph_WB_19_Thanks
+[2019.10.30-07.03.11:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a1b8a8, Size=4, Default__WB_19_Thanks_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:014][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a18860, Size=4, Default__WB_Test_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:014][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a37f148, Size=24, Default__WB_00_SizeBox_C Function /Game/ATM_pch/WB_00_SizeBox.WB_00_SizeBox_C:ExecuteUbergraph_WB_00_SizeBox
+[2019.10.30-07.03.12:014][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a18828, Size=4, Default__WB_00_SizeBox_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:015][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a47ced0, Size=16, Default__WB_01_Main_C Function /Game/ATM_pch/WB_01_Main.WB_01_Main_C:ExecuteUbergraph_WB_01_Main
+[2019.10.30-07.03.12:015][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a18750, Size=4, Default__WB_01_Main_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:016][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a307060, Size=32, Default__WB_02_Fraud_C Function /Game/ATM_pch/WB_02_Fraud.WB_02_Fraud_C:ExecuteUbergraph_WB_02_Fraud
+[2019.10.30-07.03.12:016][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a186f0, Size=4, Default__WB_02_Fraud_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:017][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a47cd00, Size=16, Default__WB_03_VoiceFishing_C Function /Game/ATM_pch/WB_03_VoiceFishing.WB_03_VoiceFishing_C:ExecuteUbergraph_WB_03_VoiceFishing
+[2019.10.30-07.03.12:017][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a186a0, Size=4, Default__WB_03_VoiceFishing_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:018][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a47cc70, Size=16, Default__WB_04_IsCard_C Function /Game/ATM_pch/WB_04_IsCard.WB_04_IsCard_C:ExecuteUbergraph_WB_04_IsCard
+[2019.10.30-07.03.12:018][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a18608, Size=4, Default__WB_04_IsCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:018][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a47cbf0, Size=16, Default__WB_05_ThrowCard_C Function /Game/ATM_pch/WB_05_ThrowCard.WB_05_ThrowCard_C:ExecuteUbergraph_WB_05_ThrowCard
+[2019.10.30-07.03.12:018][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a185c0, Size=4, Default__WB_05_ThrowCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:019][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a47cb30, Size=16, Default__WB_06_ReadCard_C Function /Game/ATM_pch/WB_06_ReadCard.WB_06_ReadCard_C:ExecuteUbergraph_WB_06_ReadCard
+[2019.10.30-07.03.12:019][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a18588, Size=4, Default__WB_06_ReadCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:020][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0958ef70, Size=40, Default__WB_07_BankTransform_C Function /Game/ATM_pch/WB_07_BankTransform.WB_07_BankTransform_C:ExecuteUbergraph_WB_07_BankTransform
+[2019.10.30-07.03.12:020][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a18500, Size=4, Default__WB_07_BankTransform_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:021][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a348a80, Size=128, Default__WB_08_Ongoing_13_16_C Function /Game/ATM_pch/WB_08_Ongoing_13_16.WB_08_Ongoing_13_16_C:ExecuteUbergraph_WB_08_Ongoing_13_16
+[2019.10.30-07.03.12:021][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a183b0, Size=4, Default__WB_08_Ongoing_13_16_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:023][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a360c60, Size=216, Default__WB_09_SelectBank_C Function /Game/ATM_pch/WB_09_SelectBank.WB_09_SelectBank_C:ExecuteUbergraph_WB_09_SelectBank
+[2019.10.30-07.03.12:023][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb01a18278, Size=4, Default__WB_09_SelectBank_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:025][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb095d5580, Size=312, Default__WB_10_AcNum_C Function /Game/ATM_pch/WB_10_AcNum.WB_10_AcNum_C:ExecuteUbergraph_WB_10_AcNum
+[2019.10.30-07.03.12:025][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a23be48, Size=4, Default__WB_10_AcNum_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:028][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a20ae00, Size=232, Default__WB_11_SelectMoney_C Function /Game/ATM_pch/WB_11_SelectMoney.WB_11_SelectMoney_C:ExecuteUbergraph_WB_11_SelectMoney
+[2019.10.30-07.03.12:028][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a23ba90, Size=4, Default__WB_11_SelectMoney_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a1ccb00, Size=248, Default__WB_12_Password_C Function /Game/ATM_pch/WB_12_Password.WB_12_Password_C:ExecuteUbergraph_WB_12_Password
+[2019.10.30-07.03.12:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a23b7e8, Size=4, Default__WB_12_Password_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a47c390, Size=16, Default__WB_14_LoanTrick_C Function /Game/ATM_pch/WB_14_LoanTrick.WB_14_LoanTrick_C:ExecuteUbergraph_WB_14_LoanTrick
+[2019.10.30-07.03.12:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a23b798, Size=4, Default__WB_14_LoanTrick_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:032][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a1c7760, Size=88, Default__WB_15_AccountTransferCheck_C Function /Game/ATM_pch/WB_15_AccountTransferCheck.WB_15_AccountTransferCheck_C:ExecuteUbergraph_WB_15_AccountTransferCheck
+[2019.10.30-07.03.12:032][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a23b6d8, Size=4, Default__WB_15_AccountTransferCheck_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:033][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a1c75e0, Size=88, Default__WB_17_SendContinue_C Function /Game/ATM_pch/WB_17_SendContinue.WB_17_SendContinue_C:ExecuteUbergraph_WB_17_SendContinue
+[2019.10.30-07.03.12:033][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a23b5f8, Size=4, Default__WB_17_SendContinue_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:034][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a167fe0, Size=16, Default__WB_18_Mungse_C Function /Game/ATM_pch/WB_18_Mungse.WB_18_Mungse_C:ExecuteUbergraph_WB_18_Mungse
+[2019.10.30-07.03.12:034][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a23b5c0, Size=4, Default__WB_18_Mungse_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:034][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a167f00, Size=16, Default__WB_19_Thanks_C Function /Game/ATM_pch/WB_19_Thanks.WB_19_Thanks_C:ExecuteUbergraph_WB_19_Thanks
+[2019.10.30-07.03.12:034][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a23b588, Size=4, Default__WB_19_Thanks_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-07.03.12:043][  0]LogBlueprint: Warning: [Compiler WB_01_Main] [0059.86] WB_01_Main 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 166 ms] (/Game/ATM_pch/WB_01_Main.WB_01_Main)
+[2019.10.30-07.03.12:178][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a239068, Size=4, Default__WD_01_FastFood_C Function /Game/Fastfood/WD_01_FastFood.WD_01_FastFood_C:ExecuteUbergraph_WD_01_FastFood
+[2019.10.30-07.03.12:270][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb0a239068, Size=4
+[2019.10.30-07.03.12:270][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a032fb8, Size=4, Default__WD_01_FastFood_C Function /Engine/Transient.REINST_WD_01_FastFood_C_19:ExecuteUbergraph_WD_01_FastFood
+[2019.10.30-07.03.12:295][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a031e78, Size=4, Default__WD_01_FastFood_C Function /Game/Fastfood/WD_01_FastFood.WD_01_FastFood_C:ExecuteUbergraph_WD_01_FastFood
+[2019.10.30-07.03.12:316][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a032af8, Size=4, Default__ss_C Function /Game/Fastfood/ss.ss_C:ExecuteUbergraph_ss
+[2019.10.30-07.03.12:319][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb0a032af8, Size=4
+[2019.10.30-07.03.12:319][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a032af8, Size=4, Default__ss_C Function /Engine/Transient.REINST_ss_C_20:ExecuteUbergraph_ss
+[2019.10.30-07.03.12:320][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a033d68, Size=4, Default__ss_C Function /Game/Fastfood/ss.ss_C:ExecuteUbergraph_ss
+[2019.10.30-07.03.12:347][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a289018, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2019.10.30-07.03.12:349][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb0a289018, Size=52
+[2019.10.30-07.03.12:350][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a289018, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_39:ExecuteUbergraph_FirstPersonHUD
+[2019.10.30-07.03.12:351][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fb0a288a68, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2019.10.30-07.03.12:801][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [13.903900ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2019.10.30-07.03.13:171][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [6.084900ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2019.10.30-07.03.13:210][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.30-07.03.13:567][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.10.30-07.03.13:567][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.10.30-07.03.13:764][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.30-07.03.13:866][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb00947790, Size=72
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb00df3c00, Size=256
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb0164ab00, Size=688
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a19aa0, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb0970f9b8, Size=24
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a19a78, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb09756f00, Size=128
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a19a08, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb09677740, Size=216
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a199f8, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb0195c7c0, Size=312
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a199e8, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb09743500, Size=232
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a199d8, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb09743300, Size=248
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a199c8, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb605f6b50, Size=16
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a19a68, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb096ca6a0, Size=32
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a19a58, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb605f6b30, Size=16
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a19a48, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb605f6b20, Size=16
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a19a38, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb605f6ae0, Size=16
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a19a28, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb605f6ad0, Size=16
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a19a20, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01984a40, Size=40
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a19a10, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb096f7700, Size=88
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a1bd28, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb605f6ac0, Size=16
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a1bd18, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb605f6aa0, Size=16
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a1b8a8, Size=4
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb605f6ab0, Size=16
+[2019.10.30-07.03.13:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a1b850, Size=4
+[2019.10.30-07.03.13:877][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb096f77c0, Size=88
+[2019.10.30-07.03.13:877][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb01a1b800, Size=4
+[2019.10.30-07.03.13:877][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb0a032fb8, Size=4
+[2019.10.30-07.03.13:877][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb0a032af8, Size=4
+[2019.10.30-07.03.13:877][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fb0a289018, Size=52
+[2019.10.30-07.03.13:897][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.30-07.03.13:934][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 37.327ms.
+[2019.10.30-07.03.13:934][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 3.960
+[2019.10.30-07.03.14:853][  0]LogCollectionManager: Loaded 0 collections in 0.001243 seconds
+[2019.10.30-07.03.14:981][  0]LogFileCache: Scanning file cache for directory 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/Collections/' took 0.01s
+[2019.10.30-07.03.14:981][  0]LogFileCache: Scanning file cache for directory 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Developers/st/Collections/' took 0.01s
+[2019.10.30-07.03.14:981][  0]LogFileCache: Scanning file cache for directory 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Collections/' took 0.01s
+[2019.10.30-07.03.14:981][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.30-07.03.15:006][  0]LogContentBrowser: Native class hierarchy populated in 0.0221 seconds. Added 2452 classes and 558 folders.
+[2019.10.30-07.03.15:082][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.10.30-07.03.15:867][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.30-07.03.15:914][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.30-07.03.16:618][  0]LogSlate: Took 0.024991 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.30-07.03.16:657][  0]LogSlate: Took 0.034902 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.10.30-07.03.16:687][  0]LogSlate: Took 0.030534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.10.30-07.03.16:697][  0]LogSlate: Took 0.009650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.30-07.03.16:759][  0]LogSlate: Took 0.017380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.30-07.03.17:119][  0]LogRenderer: Reallocating scene render targets to support 1156x600 Format 10 NumSamples 1 (Frame:1).
+[2019.10.30-07.03.17:494][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.10.30-07.03.17:494][  0]LogLoad: (Engine Initialization) Total time: 65.31 seconds
+[2019.10.30-07.03.17:494][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.30-07.03.17:879][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.30-07.03.17:970][  0]LogSlate: Took 0.015133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.30-07.03.18:227][  1]LogAssetRegistry: Asset discovery search completed in 41.9010 seconds
+[2019.10.30-07.03.18:228][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.10.30-07.03.18:228][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2019.10.30-07.03.18:306][  1]LogSlate: Took 0.001597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.10.30-07.03.18:846][  3]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.30-07.04.11:532][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-07.04.11:619][542]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.30-07.04.11:639][542]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-07.04.11:640][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-07.04.11:653][542]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 31. 오전 1:04:11)
+[2019.10.30-07.04.11:653][542]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.30-07.04.11:688][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035792s)
+[2019.10.30-07.04.11:689][542]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.30-07.04.11:689][542]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2019.10.30-07.04.11:689][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036776s)
+[2019.10.30-07.04.11:710][542]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-07.04.11:715][542]LogInit: FAudioDevice initialized.
+[2019.10.30-07.04.11:761][542]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.30-07.04.11:836][542]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.30-16.04.11
+[2019.10.30-07.04.11:837][542]LogWorld: Bringing up level for play took: 0.059079
+[2019.10.30-07.04.11:894][542]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2019.10.30-07.04.11:895][542]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.18
+[2019.10.30-07.04.11:895][542]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-07.04.43:056][260]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-07.04.43:131][260]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-07.04.58:427][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-07.50.10:085][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2019.10.30-07.50.12:066][261]LogD3D11RHI: Error: Direct3DDeviceIMContext->Map(TempTexture2D,0,D3D11_MAP_READ,0,&LockedRect) failed 
+ at D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11RenderTarget.cpp:613 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_RESET
+[2019.10.30-07.50.12:066][261]LogRHI: Error: [Aftermath] Status: Timeout
+[2019.10.30-07.50.12:066][261]LogRHI: Error: [Aftermath] GPU Stack Dump
+[2019.10.30-07.50.12:066][261]LogRHI: Error: [Aftermath] 0: FRAME
+[2019.10.30-07.50.12:066][261]LogRHI: Error: [Aftermath] 1: SlateUI
+[2019.10.30-07.50.12:066][261]LogRHI: Error: [Aftermath] GPU Stack Dump
+[2019.10.30-07.50.12:066][261]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
