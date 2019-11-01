@@ -1,0 +1,1324 @@
+﻿Log file open, 10/30/19 19:45:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FastFood_1026
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-181739455) SRandInit(-181739455).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.388913
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LeapMotion/Binaries/Win64/UE4Editor-LeapMotion.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/VaRestPlugin/Binaries/Win64/UE4Editor-VaRestPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/VaRestPlugin/Binaries/Win64/UE4Editor-VaRestEditorPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin VaRestPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.656s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-PF0DSIS (192.168.0.5:0)
+LeapPluginLog: Using LeapPlugin version 2.0.0
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Lecture/Unreal/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.10.30-10.45.34:366][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.30-10.45.34:366][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.30-10.45.34:377][  0]LogInit: Computer: DESKTOP-PF0DSIS
+[2019.10.30-10.45.34:377][  0]LogInit: User: st
+[2019.10.30-10.45.34:377][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.10.30-10.45.34:377][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.30-10.45.34:377][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2019.10.30-10.45.34:377][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.30-10.45.34:377][  0]LogMemory: Process Physical Memory: 278.29 MB used, 278.30 MB peak
+[2019.10.30-10.45.34:377][  0]LogMemory: Process Virtual Memory: 266.96 MB used, 266.96 MB peak
+[2019.10.30-10.45.34:377][  0]LogMemory: Physical Memory: 7245.70 MB used,  25296.27 MB free, 32541.98 MB total
+[2019.10.30-10.45.34:377][  0]LogMemory: Virtual Memory: 4859.82 MB used,  25296.27 MB free, 134217728.00 MB total
+[2019.10.30-10.45.34:389][  0]LogInit: Using OS detected language (ko-KR).
+[2019.10.30-10.45.34:389][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.10.30-10.45.34:391][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.10.30-10.45.34:690][  0]LogStreaming: Display: Took  0.301s to EndInitTextLocalization.
+[2019.10.30-10.45.34:690][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.30-10.45.34:727][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.30-10.45.34:727][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.30-10.45.34:858][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.30-10.45.34:927][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.10.30-10.45.34:927][  0]LogD3D11RHI:       8010/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.30-10.45.34:941][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.10.30-10.45.34:941][  0]LogD3D11RHI:       128/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.10.30-10.45.34:942][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.30-10.45.34:942][  0]LogD3D11RHI:       0/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.30-10.45.34:942][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.30-10.45.34:949][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.30-10.45.34:949][  0]LogD3D11RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.30-10.45.34:949][  0]LogWindows: EnumDisplayDevices:
+[2019.10.30-10.45.34:950][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.10.30-10.45.34:950][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.30-10.45.34:950][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.30-10.45.34:950][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.30-10.45.34:950][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2019.10.30-10.45.34:950][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.30-10.45.34:951][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.30-10.45.34:951][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.10.30-10.45.34:951][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.10.30-10.45.34:951][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.10.30-10.45.34:951][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.10.30-10.45.34:951][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.10.30-10.45.34:994][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.10.30-10.45.34:994][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.10.30-10.45.34:994][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.30-10.45.35:005][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.30-10.45.35:055][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Intermediate/Shaders/WorkingDirectory/14956/).
+[2019.10.30-10.45.35:055][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/st/AppData/Local/Temp/UnrealShaderWorkingDir/5418966240C709F3CAE7E0BC17C77827/'.
+[2019.10.30-10.45.35:210][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.10.30-10.45.35:220][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.10.30-10.45.35:229][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.10.30-10.45.35:239][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.10.30-10.45.35:249][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.10.30-10.45.35:258][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.10.30-10.45.35:268][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.10.30-10.45.35:278][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.10.30-10.45.35:282][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.10.30-10.45.35:291][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.10.30-10.45.35:300][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.10.30-10.45.35:308][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.10.30-10.45.35:317][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.10.30-10.45.35:325][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.10.30-10.45.35:334][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.10.30-10.45.35:351][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.10.30-10.45.35:351][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.10.30-10.45.35:360][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.30-10.45.35:361][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.10.30-10.45.35:394][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.30-10.45.35:401][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.30-10.45.35:410][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.10.30-10.45.35:418][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.10.30-10.45.35:427][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.10.30-10.45.35:436][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.10.30-10.45.35:436][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.30-10.45.35:509][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.30-10.45.35:509][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.30-10.45.35:509][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.30-10.45.36:018][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.30-10.45.36:066][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/st/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.10.30-10.45.36:066][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/st/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.10.30-10.45.36:066][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.30-10.45.36:066][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.30-10.45.36:066][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.30-10.45.36:066][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.30-10.45.36:077][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.30-10.45.36:089][  0]LogDerivedDataCache: Using Local data cache path C:/Users/st/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.30-10.45.36:089][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.30-10.45.36:089][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.30-10.45.36:097][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.30-10.45.36:097][  0]LogSlate: Using Freetype 2.6.0
+[2019.10.30-10.45.36:098][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.30-10.45.36:098][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.30-10.45.36:181][  0]LogAssetRegistry: FAssetRegistry took 0.0245 seconds to start up
+[2019.10.30-10.45.36:418][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.30-10.45.36:525][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.10.30-10.45.36:527][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.10.30-10.45.36:527][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.30-10.45.36:527][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.10.30-10.45.36:527][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.10.30-10.45.36:527][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.10.30-10.45.36:548][  0]LogNetVersion: FastFood_1026 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1598029859)
+[2019.10.30-10.45.36:873][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.059086 seconds
+[2019.10.30-10.45.36:877][  0]LogUObjectArray: 37413 objects as part of root set at end of initial load.
+[2019.10.30-10.45.36:877][  0]LogUObjectAllocator: 7431000 out of 0 bytes used by permanent object pool.
+[2019.10.30-10.45.36:877][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.30-10.45.38:034][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.30-10.45.38:067][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.30-10.45.38:307][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.10.30-10.45.38:308][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.10.30-10.45.38:319][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.10.30-10.45.38:329][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.10.30-10.45.38:657][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.30-10.45.38:773][  0]LogOcInput: OculusInput pre-init called
+[2019.10.30-10.45.38:850][  0]LogEngine: Initializing Engine...
+[2019.10.30-10.45.38:851][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.30-10.45.38:852][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.30-10.45.38:852][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.30-10.45.39:009][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.30-10.45.39:034][  0]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.45.39:109][  0]LogInit: FAudioDevice initialized.
+[2019.10.30-10.45.39:175][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/st/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.10.30-10.45.39:187][  0]LogInit: Texture streaming: Enabled
+[2019.10.30-10.45.39:198][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.30-10.45.39:208][  0]LogInit: Transaction tracking system initialized
+[2019.10.30-10.45.39:223][  0]BlueprintLog: New page: 에디터 로드
+[2019.10.30-10.45.39:282][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.10.30-10.45.39:348][  0]LogConsoleResponse: Display: 
+[2019.10.30-10.45.39:465][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.30-10.45.39:465][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.30-10.45.39:465][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.10.30-10.45.39:465][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.30-10.45.39:465][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.30-10.45.39:694][  0]LogFileCache: Scanning file cache for directory 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/' took 0.02s
+[2019.10.30-10.45.39:694][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.10.30-10.45.39:694][  0]Cmd: MAP LOAD FILE="C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.30-10.45.39:694][  0]LightingResults: New page: 라이팅 빌드
+[2019.10.30-10.45.39:696][  0]MapCheck: New page: 맵 체크
+[2019.10.30-10.45.39:696][  0]LightingResults: New page: 라이팅 빌드
+[2019.10.30-10.45.39:738][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be857d9a30, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.10.30-10.45.39:744][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be857d9a30, Size=72
+[2019.10.30-10.45.39:744][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8574b790, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.10.30-10.45.39:750][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8543d9e0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.10.30-10.45.39:760][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8540e600, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2019.10.30-10.45.39:762][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8540e600, Size=256
+[2019.10.30-10.45.39:762][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8540e600, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
+[2019.10.30-10.45.39:764][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8540cb00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2019.10.30-10.45.39:806][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be904ed900, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.10.30-10.45.39:814][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be904ed900, Size=688
+[2019.10.30-10.45.39:814][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8503ae00, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
+[2019.10.30-10.45.39:820][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be85039000, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.10.30-10.45.39:879][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e21078, Size=4, Default__WB_Test_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:881][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be84f74a78, Size=24, Default__WB_00_SizeBox_C Function /Game/ATM_pch/WB_00_SizeBox.WB_00_SizeBox_C:ExecuteUbergraph_WB_00_SizeBox
+[2019.10.30-10.45.39:881][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e21080, Size=4, Default__WB_00_SizeBox_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:910][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8505c700, Size=128, Default__WB_08_Ongoing_13_16_C Function /Game/ATM_pch/WB_08_Ongoing_13_16.WB_08_Ongoing_13_16_C:ExecuteUbergraph_WB_08_Ongoing_13_16
+[2019.10.30-10.45.39:911][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e202f0, Size=4, Default__WB_08_Ongoing_13_16_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:911][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8993eb00, Size=216, Default__WB_09_SelectBank_C Function /Game/ATM_pch/WB_09_SelectBank.WB_09_SelectBank_C:ExecuteUbergraph_WB_09_SelectBank
+[2019.10.30-10.45.39:911][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e202e8, Size=4, Default__WB_09_SelectBank_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:912][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8d843740, Size=312, Default__WB_10_AcNum_C Function /Game/ATM_pch/WB_10_AcNum.WB_10_AcNum_C:ExecuteUbergraph_WB_10_AcNum
+[2019.10.30-10.45.39:912][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e202d0, Size=4, Default__WB_10_AcNum_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:913][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89993a00, Size=232, Default__WB_11_SelectMoney_C Function /Game/ATM_pch/WB_11_SelectMoney.WB_11_SelectMoney_C:ExecuteUbergraph_WB_11_SelectMoney
+[2019.10.30-10.45.39:913][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e202c8, Size=4, Default__WB_11_SelectMoney_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:914][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89992f00, Size=248, Default__WB_12_Password_C Function /Game/ATM_pch/WB_12_Password.WB_12_Password_C:ExecuteUbergraph_WB_12_Password
+[2019.10.30-10.45.39:914][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e202b0, Size=4, Default__WB_12_Password_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:920][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8994ed30, Size=16, Default__WB_01_Main_C Function /Game/ATM_pch/WB_01_Main.WB_01_Main_C:ExecuteUbergraph_WB_01_Main
+[2019.10.30-10.45.39:920][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e20268, Size=4, Default__WB_01_Main_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:920][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be899d8b40, Size=32, Default__WB_02_Fraud_C Function /Game/ATM_pch/WB_02_Fraud.WB_02_Fraud_C:ExecuteUbergraph_WB_02_Fraud
+[2019.10.30-10.45.39:920][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e20258, Size=4, Default__WB_02_Fraud_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:921][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8994ed20, Size=16, Default__WB_03_VoiceFishing_C Function /Game/ATM_pch/WB_03_VoiceFishing.WB_03_VoiceFishing_C:ExecuteUbergraph_WB_03_VoiceFishing
+[2019.10.30-10.45.39:921][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e20248, Size=4, Default__WB_03_VoiceFishing_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:921][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8994ed40, Size=16, Default__WB_04_IsCard_C Function /Game/ATM_pch/WB_04_IsCard.WB_04_IsCard_C:ExecuteUbergraph_WB_04_IsCard
+[2019.10.30-10.45.39:921][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e20238, Size=4, Default__WB_04_IsCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:922][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8994ed00, Size=16, Default__WB_05_ThrowCard_C Function /Game/ATM_pch/WB_05_ThrowCard.WB_05_ThrowCard_C:ExecuteUbergraph_WB_05_ThrowCard
+[2019.10.30-10.45.39:922][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e20228, Size=4, Default__WB_05_ThrowCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:922][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8994ecf0, Size=16, Default__WB_06_ReadCard_C Function /Game/ATM_pch/WB_06_ReadCard.WB_06_ReadCard_C:ExecuteUbergraph_WB_06_ReadCard
+[2019.10.30-10.45.39:922][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e20220, Size=4, Default__WB_06_ReadCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:923][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be90500d88, Size=40, Default__WB_07_BankTransform_C Function /Game/ATM_pch/WB_07_BankTransform.WB_07_BankTransform_C:ExecuteUbergraph_WB_07_BankTransform
+[2019.10.30-10.45.39:923][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e20210, Size=4, Default__WB_07_BankTransform_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be90501300, Size=40, Default__WB_07_BankTransform_C Function /Game/ATM_pch/WB_07_BankTransform.WB_07_BankTransform_C:ExecuteUbergraph_WB_07_BankTransform
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e20208, Size=4, Default__WB_07_BankTransform_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8994ed10, Size=16, Default__WB_06_ReadCard_C Function /Game/ATM_pch/WB_06_ReadCard.WB_06_ReadCard_C:ExecuteUbergraph_WB_06_ReadCard
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e20200, Size=4, Default__WB_06_ReadCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8994ece0, Size=16, Default__WB_05_ThrowCard_C Function /Game/ATM_pch/WB_05_ThrowCard.WB_05_ThrowCard_C:ExecuteUbergraph_WB_05_ThrowCard
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e201f8, Size=4, Default__WB_05_ThrowCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8994ecd0, Size=16, Default__WB_04_IsCard_C Function /Game/ATM_pch/WB_04_IsCard.WB_04_IsCard_C:ExecuteUbergraph_WB_04_IsCard
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e201f0, Size=4, Default__WB_04_IsCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8994ecc0, Size=16, Default__WB_03_VoiceFishing_C Function /Game/ATM_pch/WB_03_VoiceFishing.WB_03_VoiceFishing_C:ExecuteUbergraph_WB_03_VoiceFishing
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e201e8, Size=4, Default__WB_03_VoiceFishing_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be899d88c0, Size=32, Default__WB_02_Fraud_C Function /Game/ATM_pch/WB_02_Fraud.WB_02_Fraud_C:ExecuteUbergraph_WB_02_Fraud
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e201e0, Size=4, Default__WB_02_Fraud_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8994ecb0, Size=16, Default__WB_01_Main_C Function /Game/ATM_pch/WB_01_Main.WB_01_Main_C:ExecuteUbergraph_WB_01_Main
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e201d8, Size=4, Default__WB_01_Main_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89991a00, Size=248, Default__WB_12_Password_C Function /Game/ATM_pch/WB_12_Password.WB_12_Password_C:ExecuteUbergraph_WB_12_Password
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e201d0, Size=4, Default__WB_12_Password_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89991900, Size=232, Default__WB_11_SelectMoney_C Function /Game/ATM_pch/WB_11_SelectMoney.WB_11_SelectMoney_C:ExecuteUbergraph_WB_11_SelectMoney
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e201c8, Size=4, Default__WB_11_SelectMoney_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8d842340, Size=312, Default__WB_10_AcNum_C Function /Game/ATM_pch/WB_10_AcNum.WB_10_AcNum_C:ExecuteUbergraph_WB_10_AcNum
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e201c0, Size=4, Default__WB_10_AcNum_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89648e20, Size=216, Default__WB_09_SelectBank_C Function /Game/ATM_pch/WB_09_SelectBank.WB_09_SelectBank_C:ExecuteUbergraph_WB_09_SelectBank
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e201b8, Size=4, Default__WB_09_SelectBank_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89647680, Size=128, Default__WB_08_Ongoing_13_16_C Function /Game/ATM_pch/WB_08_Ongoing_13_16.WB_08_Ongoing_13_16_C:ExecuteUbergraph_WB_08_Ongoing_13_16
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e201b0, Size=4, Default__WB_08_Ongoing_13_16_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89936f20, Size=24, Default__WB_00_SizeBox_C Function /Game/ATM_pch/WB_00_SizeBox.WB_00_SizeBox_C:ExecuteUbergraph_WB_00_SizeBox
+[2019.10.30-10.45.39:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88e201a8, Size=4, Default__WB_00_SizeBox_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:937][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8999a200, Size=88, Default__WB_15_AccountTransferCheck_C Function /Game/ATM_pch/WB_15_AccountTransferCheck.WB_15_AccountTransferCheck_C:ExecuteUbergraph_WB_15_AccountTransferCheck
+[2019.10.30-10.45.39:937][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895efd28, Size=4, Default__WB_15_AccountTransferCheck_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:937][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8994e4f0, Size=16, Default__WB_14_LoanTrick_C Function /Game/ATM_pch/WB_14_LoanTrick.WB_14_LoanTrick_C:ExecuteUbergraph_WB_14_LoanTrick
+[2019.10.30-10.45.39:937][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895efd18, Size=4, Default__WB_14_LoanTrick_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:949][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8994e030, Size=16, Default__WB_19_Thanks_C Function /Game/ATM_pch/WB_19_Thanks.WB_19_Thanks_C:ExecuteUbergraph_WB_19_Thanks
+[2019.10.30-10.45.39:949][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ef8a8, Size=4, Default__WB_19_Thanks_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:952][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8994df10, Size=16, Default__WB_18_Mungse_C Function /Game/ATM_pch/WB_18_Mungse.WB_18_Mungse_C:ExecuteUbergraph_WB_18_Mungse
+[2019.10.30-10.45.39:952][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ef850, Size=4, Default__WB_18_Mungse_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.39:954][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8999ae00, Size=88, Default__WB_17_SendContinue_C Function /Game/ATM_pch/WB_17_SendContinue.WB_17_SendContinue_C:ExecuteUbergraph_WB_17_SendContinue
+[2019.10.30-10.45.39:954][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ef800, Size=4, Default__WB_17_SendContinue_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:020][  0]LogBlueprint: Warning: [Compiler WB_01_Main] Get : 'WidgetSwitcher_1' variable not found. Base class was probably changed. /Game/ATM_pch/WB_01_Main.WB_01_Main
+[2019.10.30-10.45.40:021][  0]LogBlueprint: Warning: [Compiler WB_01_Main] Get : 'WB_02_Fraud' variable not found. Base class was probably changed. /Game/ATM_pch/WB_01_Main.WB_01_Main
+[2019.10.30-10.45.40:029][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be88e21078, Size=4
+[2019.10.30-10.45.40:029][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895edaa0, Size=4, Default__WB_Test_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be89936f20, Size=24
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be88e201a8, Size=4
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89181b70, Size=24, Default__WB_00_SizeBox_C Function /Engine/Transient.REINST_WB_00_SizeBox_C_1:ExecuteUbergraph_WB_00_SizeBox
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895eda78, Size=4, Default__WB_00_SizeBox_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8994ecb0, Size=16
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be88e201d8, Size=4
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be891a69f0, Size=16, Default__WB_01_Main_C Function /Engine/Transient.REINST_WB_01_Main_C_2:ExecuteUbergraph_WB_01_Main
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895eda68, Size=4, Default__WB_01_Main_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be899d88c0, Size=32
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be88e201e0, Size=4
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88fe5900, Size=32, Default__WB_02_Fraud_C Function /Engine/Transient.REINST_WB_02_Fraud_C_3:ExecuteUbergraph_WB_02_Fraud
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895eda58, Size=4, Default__WB_02_Fraud_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8994ecc0, Size=16
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be88e201e8, Size=4
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be891a69d0, Size=16, Default__WB_03_VoiceFishing_C Function /Engine/Transient.REINST_WB_03_VoiceFishing_C_4:ExecuteUbergraph_WB_03_VoiceFishing
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895eda48, Size=4, Default__WB_03_VoiceFishing_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8994ecd0, Size=16
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be88e201f0, Size=4
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be891a69c0, Size=16, Default__WB_04_IsCard_C Function /Engine/Transient.REINST_WB_04_IsCard_C_5:ExecuteUbergraph_WB_04_IsCard
+[2019.10.30-10.45.40:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895eda38, Size=4, Default__WB_04_IsCard_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8994ece0, Size=16
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be88e201f8, Size=4
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be891a6980, Size=16, Default__WB_05_ThrowCard_C Function /Engine/Transient.REINST_WB_05_ThrowCard_C_6:ExecuteUbergraph_WB_05_ThrowCard
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895eda28, Size=4, Default__WB_05_ThrowCard_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8994ed10, Size=16
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be88e20200, Size=4
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be891a6970, Size=16, Default__WB_06_ReadCard_C Function /Engine/Transient.REINST_WB_06_ReadCard_C_7:ExecuteUbergraph_WB_06_ReadCard
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895eda20, Size=4, Default__WB_06_ReadCard_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be90501300, Size=40
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be88e20208, Size=4
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8919b948, Size=40, Default__WB_07_BankTransform_C Function /Engine/Transient.REINST_WB_07_BankTransform_C_8:ExecuteUbergraph_WB_07_BankTransform
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895eda10, Size=4, Default__WB_07_BankTransform_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be89647680, Size=128
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be88e201b0, Size=4
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89128600, Size=128, Default__WB_08_Ongoing_13_16_C Function /Engine/Transient.REINST_WB_08_Ongoing_13_16_C_9:ExecuteUbergraph_WB_08_Ongoing_13_16
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895eda08, Size=4, Default__WB_08_Ongoing_13_16_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be89648e20, Size=216
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be88e201b8, Size=4
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be88faa080, Size=216, Default__WB_09_SelectBank_C Function /Engine/Transient.REINST_WB_09_SelectBank_C_10:ExecuteUbergraph_WB_09_SelectBank
+[2019.10.30-10.45.40:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ed9f8, Size=4, Default__WB_09_SelectBank_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:032][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8d842340, Size=312
+[2019.10.30-10.45.40:032][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be88e201c0, Size=4
+[2019.10.30-10.45.40:032][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8918ec00, Size=312, Default__WB_10_AcNum_C Function /Engine/Transient.REINST_WB_10_AcNum_C_11:ExecuteUbergraph_WB_10_AcNum
+[2019.10.30-10.45.40:032][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ed9e8, Size=4, Default__WB_10_AcNum_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:032][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be89991900, Size=232
+[2019.10.30-10.45.40:032][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be88e201c8, Size=4
+[2019.10.30-10.45.40:032][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8906a700, Size=232, Default__WB_11_SelectMoney_C Function /Engine/Transient.REINST_WB_11_SelectMoney_C_12:ExecuteUbergraph_WB_11_SelectMoney
+[2019.10.30-10.45.40:032][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ed9d8, Size=4, Default__WB_11_SelectMoney_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:032][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be89991a00, Size=248
+[2019.10.30-10.45.40:032][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be88e201d0, Size=4
+[2019.10.30-10.45.40:032][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8906a500, Size=248, Default__WB_12_Password_C Function /Engine/Transient.REINST_WB_12_Password_C_13:ExecuteUbergraph_WB_12_Password
+[2019.10.30-10.45.40:032][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ed9c8, Size=4, Default__WB_12_Password_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:032][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8994e4f0, Size=16
+[2019.10.30-10.45.40:032][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895efd18, Size=4
+[2019.10.30-10.45.40:032][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be891a6960, Size=16, Default__WB_14_LoanTrick_C Function /Engine/Transient.REINST_WB_14_LoanTrick_C_14:ExecuteUbergraph_WB_14_LoanTrick
+[2019.10.30-10.45.40:032][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895efd18, Size=4, Default__WB_14_LoanTrick_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:033][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8999a200, Size=88
+[2019.10.30-10.45.40:033][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895efd28, Size=4
+[2019.10.30-10.45.40:033][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89158700, Size=88, Default__WB_15_AccountTransferCheck_C Function /Engine/Transient.REINST_WB_15_AccountTransferCheck_C_15:ExecuteUbergraph_WB_15_AccountTransferCheck
+[2019.10.30-10.45.40:033][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895efd28, Size=4, Default__WB_15_AccountTransferCheck_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:033][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8999ae00, Size=88
+[2019.10.30-10.45.40:033][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895ef800, Size=4
+[2019.10.30-10.45.40:033][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be891587c0, Size=88, Default__WB_17_SendContinue_C Function /Engine/Transient.REINST_WB_17_SendContinue_C_16:ExecuteUbergraph_WB_17_SendContinue
+[2019.10.30-10.45.40:033][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ef800, Size=4, Default__WB_17_SendContinue_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:033][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8994df10, Size=16
+[2019.10.30-10.45.40:033][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895ef850, Size=4
+[2019.10.30-10.45.40:033][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be891a6950, Size=16, Default__WB_18_Mungse_C Function /Engine/Transient.REINST_WB_18_Mungse_C_17:ExecuteUbergraph_WB_18_Mungse
+[2019.10.30-10.45.40:033][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ef850, Size=4, Default__WB_18_Mungse_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:033][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8994e030, Size=16
+[2019.10.30-10.45.40:033][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895ef8a8, Size=4
+[2019.10.30-10.45.40:033][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be891a6940, Size=16, Default__WB_19_Thanks_C Function /Engine/Transient.REINST_WB_19_Thanks_C_18:ExecuteUbergraph_WB_19_Thanks
+[2019.10.30-10.45.40:033][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ef8a8, Size=4, Default__WB_19_Thanks_C Function /Engine/Transient.REINST_WB_Test_C_0:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:059][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ec860, Size=4, Default__WB_Test_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:059][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89dc5300, Size=24, Default__WB_00_SizeBox_C Function /Game/ATM_pch/WB_00_SizeBox.WB_00_SizeBox_C:ExecuteUbergraph_WB_00_SizeBox
+[2019.10.30-10.45.40:059][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ec828, Size=4, Default__WB_00_SizeBox_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:060][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89dd8c40, Size=16, Default__WB_01_Main_C Function /Game/ATM_pch/WB_01_Main.WB_01_Main_C:ExecuteUbergraph_WB_01_Main
+[2019.10.30-10.45.40:060][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ec750, Size=4, Default__WB_01_Main_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:061][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89c82340, Size=32, Default__WB_02_Fraud_C Function /Game/ATM_pch/WB_02_Fraud.WB_02_Fraud_C:ExecuteUbergraph_WB_02_Fraud
+[2019.10.30-10.45.40:061][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ec6f0, Size=4, Default__WB_02_Fraud_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:062][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89dd8a70, Size=16, Default__WB_03_VoiceFishing_C Function /Game/ATM_pch/WB_03_VoiceFishing.WB_03_VoiceFishing_C:ExecuteUbergraph_WB_03_VoiceFishing
+[2019.10.30-10.45.40:062][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ec6a0, Size=4, Default__WB_03_VoiceFishing_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:062][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89dd89e0, Size=16, Default__WB_04_IsCard_C Function /Game/ATM_pch/WB_04_IsCard.WB_04_IsCard_C:ExecuteUbergraph_WB_04_IsCard
+[2019.10.30-10.45.40:062][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ec608, Size=4, Default__WB_04_IsCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:063][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89dd8960, Size=16, Default__WB_05_ThrowCard_C Function /Game/ATM_pch/WB_05_ThrowCard.WB_05_ThrowCard_C:ExecuteUbergraph_WB_05_ThrowCard
+[2019.10.30-10.45.40:063][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ec5c0, Size=4, Default__WB_05_ThrowCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:064][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89dd88a0, Size=16, Default__WB_06_ReadCard_C Function /Game/ATM_pch/WB_06_ReadCard.WB_06_ReadCard_C:ExecuteUbergraph_WB_06_ReadCard
+[2019.10.30-10.45.40:064][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ec588, Size=4, Default__WB_06_ReadCard_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:065][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89199f08, Size=40, Default__WB_07_BankTransform_C Function /Game/ATM_pch/WB_07_BankTransform.WB_07_BankTransform_C:ExecuteUbergraph_WB_07_BankTransform
+[2019.10.30-10.45.40:065][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ec500, Size=4, Default__WB_07_BankTransform_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:066][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89c98b00, Size=128, Default__WB_08_Ongoing_13_16_C Function /Game/ATM_pch/WB_08_Ongoing_13_16.WB_08_Ongoing_13_16_C:ExecuteUbergraph_WB_08_Ongoing_13_16
+[2019.10.30-10.45.40:066][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ec3b0, Size=4, Default__WB_08_Ongoing_13_16_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:068][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89c6b4a0, Size=216, Default__WB_09_SelectBank_C Function /Game/ATM_pch/WB_09_SelectBank.WB_09_SelectBank_C:ExecuteUbergraph_WB_09_SelectBank
+[2019.10.30-10.45.40:068][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be895ec278, Size=4, Default__WB_09_SelectBank_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:071][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89bcb9c0, Size=312, Default__WB_10_AcNum_C Function /Game/ATM_pch/WB_10_AcNum.WB_10_AcNum_C:ExecuteUbergraph_WB_10_AcNum
+[2019.10.30-10.45.40:071][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89b67e48, Size=4, Default__WB_10_AcNum_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:073][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89b3e300, Size=232, Default__WB_11_SelectMoney_C Function /Game/ATM_pch/WB_11_SelectMoney.WB_11_SelectMoney_C:ExecuteUbergraph_WB_11_SelectMoney
+[2019.10.30-10.45.40:073][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89b67a90, Size=4, Default__WB_11_SelectMoney_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:075][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89adff00, Size=248, Default__WB_12_Password_C Function /Game/ATM_pch/WB_12_Password.WB_12_Password_C:ExecuteUbergraph_WB_12_Password
+[2019.10.30-10.45.40:075][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89b677e8, Size=4, Default__WB_12_Password_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:076][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89b23d70, Size=16, Default__WB_14_LoanTrick_C Function /Game/ATM_pch/WB_14_LoanTrick.WB_14_LoanTrick_C:ExecuteUbergraph_WB_14_LoanTrick
+[2019.10.30-10.45.40:076][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89b67798, Size=4, Default__WB_14_LoanTrick_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:077][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89b0b700, Size=88, Default__WB_15_AccountTransferCheck_C Function /Game/ATM_pch/WB_15_AccountTransferCheck.WB_15_AccountTransferCheck_C:ExecuteUbergraph_WB_15_AccountTransferCheck
+[2019.10.30-10.45.40:077][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89b676d8, Size=4, Default__WB_15_AccountTransferCheck_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:079][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89b0b580, Size=88, Default__WB_17_SendContinue_C Function /Game/ATM_pch/WB_17_SendContinue.WB_17_SendContinue_C:ExecuteUbergraph_WB_17_SendContinue
+[2019.10.30-10.45.40:079][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89b675f8, Size=4, Default__WB_17_SendContinue_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:079][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89b23b10, Size=16, Default__WB_18_Mungse_C Function /Game/ATM_pch/WB_18_Mungse.WB_18_Mungse_C:ExecuteUbergraph_WB_18_Mungse
+[2019.10.30-10.45.40:079][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89b675c0, Size=4, Default__WB_18_Mungse_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:080][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89b23b00, Size=16, Default__WB_19_Thanks_C Function /Game/ATM_pch/WB_19_Thanks.WB_19_Thanks_C:ExecuteUbergraph_WB_19_Thanks
+[2019.10.30-10.45.40:080][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89b67588, Size=4, Default__WB_19_Thanks_C Function /Game/ATM_pch/WB_Test.WB_Test_C:ExecuteUbergraph_WB_Test
+[2019.10.30-10.45.40:089][  0]LogBlueprint: Warning: [Compiler WB_01_Main] [0007.66] WB_01_Main 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 82 ms] (/Game/ATM_pch/WB_01_Main.WB_01_Main)
+[2019.10.30-10.45.40:106][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89b65068, Size=4, Default__WD_01_FastFood_C Function /Game/Fastfood/WD_01_FastFood.WD_01_FastFood_C:ExecuteUbergraph_WD_01_FastFood
+[2019.10.30-10.45.40:185][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be89b65068, Size=4
+[2019.10.30-10.45.40:185][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bea9cb72a8, Size=4, Default__WD_01_FastFood_C Function /Engine/Transient.REINST_WD_01_FastFood_C_19:ExecuteUbergraph_WD_01_FastFood
+[2019.10.30-10.45.40:210][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bea9cb6140, Size=4, Default__WD_01_FastFood_C Function /Game/Fastfood/WD_01_FastFood.WD_01_FastFood_C:ExecuteUbergraph_WD_01_FastFood
+[2019.10.30-10.45.40:220][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bea9cb6dc0, Size=4, Default__ss_C Function /Game/Fastfood/ss.ss_C:ExecuteUbergraph_ss
+[2019.10.30-10.45.40:222][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bea9cb6dc0, Size=4
+[2019.10.30-10.45.40:222][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bea9cb6dc0, Size=4, Default__ss_C Function /Engine/Transient.REINST_ss_C_20:ExecuteUbergraph_ss
+[2019.10.30-10.45.40:224][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bea9cb5f68, Size=4, Default__ss_C Function /Game/Fastfood/ss.ss_C:ExecuteUbergraph_ss
+[2019.10.30-10.45.40:297][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bea9b9aac0, Size=288, Default__BasicCharacter_AnimBlueprint_C Function /LeapMotion/Character/Basic/BasicCharacter_AnimBlueprint.BasicCharacter_AnimBlueprint_C:ExecuteUbergraph_BasicCharacter_AnimBlueprint
+[2019.10.30-10.45.40:367][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bea9b9aac0, Size=288
+[2019.10.30-10.45.40:367][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bea9996c00, Size=288, Default__BasicCharacter_AnimBlueprint_C Function /Engine/Transient.REINST_BasicCharacter_AnimBlueprint_C_1:ExecuteUbergraph_BasicCharacter_AnimBlueprint
+[2019.10.30-10.45.40:422][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beaa467c40, Size=288, Default__BasicCharacter_AnimBlueprint_C Function /LeapMotion/Character/Basic/BasicCharacter_AnimBlueprint.BasicCharacter_AnimBlueprint_C:ExecuteUbergraph_BasicCharacter_AnimBlueprint
+[2019.10.30-10.45.40:493][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beaa4609c0, Size=200, Default__LeapEchoHands_AnimBlueprint_C Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+[2019.10.30-10.45.40:563][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001beaa4609c0, Size=200
+[2019.10.30-10.45.40:563][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beaa62fc80, Size=200, Default__LeapEchoHands_AnimBlueprint_C Function /Engine/Transient.REINST_LeapEchoHands_AnimBlueprint_C_2:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+[2019.10.30-10.45.40:614][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beaa8f1520, Size=200, Default__LeapEchoHands_AnimBlueprint_C Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+[2019.10.30-10.45.40:619][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be8a02b100, Size=544, Default__BP_LeapFloatingHandsCharacter_C Function /Game/FirstPersonBP/Blueprints/BP_LeapFloatingHandsCharacter.BP_LeapFloatingHandsCharacter_C:ExecuteUbergraph_BP_LeapFloatingHandsCharacter
+[2019.10.30-10.45.40:667][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beaa8c5300, Size=240, Default__LeapAnimBodyConnector_C Function /LeapMotion/Blueprints/LeapConnectors/LeapAnimBodyConnector.LeapAnimBodyConnector_C:ExecuteUbergraph_LeapAnimBodyConnector
+[2019.10.30-10.45.40:698][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beaac9b4a8, Size=24, Default__LeapHandsActorBase_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.45.40:829][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beab537900, Size=1640, Default__LeapEchoImageHands_AnimBlueprint_C Function /LeapMotion/Character/Echo/LeapEchoImageHands_AnimBlueprint.LeapEchoImageHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoImageHands_AnimBlueprint
+[2019.10.30-10.45.40:946][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beab421e40, Size=4, Default__PostProcessChanger_C Function /LeapMotion/Blueprints/Utility/PostProcessChanger.PostProcessChanger_C:ExecuteUbergraph_PostProcessChanger
+[2019.10.30-10.45.40:997][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beb145a180, Size=120, Default__LeapAnimBodyConnectorWithPassthrough_C Function /LeapMotion/Blueprints/LeapConnectors/LeapAnimBodyConnectorWithPassthrough.LeapAnimBodyConnectorWithPassthrough_C:ExecuteUbergraph_LeapAnimBodyConnectorWithPassthrough
+[2019.10.30-10.45.40:997][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be89bbca00, Size=240, Default__LeapAnimBodyConnectorWithPassthrough_C Function /LeapMotion/Blueprints/LeapConnectors/LeapAnimBodyConnector.LeapAnimBodyConnector_C:ExecuteUbergraph_LeapAnimBodyConnector
+[2019.10.30-10.45.41:025][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beb249f4e0, Size=12, Default__LeapRiggedEchoHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapRiggedEchoHandsActor.LeapRiggedEchoHandsActor_C:ExecuteUbergraph_LeapRiggedEchoHandsActor
+[2019.10.30-10.45.41:025][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beb2487f70, Size=24, Default__LeapRiggedEchoHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.45.41:045][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beb1967440, Size=64, Default__LeapImageHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapImageHandsActor.LeapImageHandsActor_C:ExecuteUbergraph_LeapImageHandsActor
+[2019.10.30-10.45.41:045][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beb249d880, Size=12, Default__LeapImageHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapRiggedEchoHandsActor.LeapRiggedEchoHandsActor_C:ExecuteUbergraph_LeapRiggedEchoHandsActor
+[2019.10.30-10.45.41:045][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beb2487b50, Size=24, Default__LeapImageHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.45.41:055][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beb1cf7b00, Size=608, Default__BP_LeapRiggedEchoHandsActor_C Function /Game/FirstPersonBP/Blueprints/BP_LeapRiggedEchoHandsActor.BP_LeapRiggedEchoHandsActor_C:ExecuteUbergraph_BP_LeapRiggedEchoHandsActor
+[2019.10.30-10.45.41:055][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beb24865a8, Size=24, Default__BP_LeapRiggedEchoHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.45.41:156][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be97af7e80, Size=32, Default__LeapComponentHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapComponentHandsActor.LeapComponentHandsActor_C:ExecuteUbergraph_LeapComponentHandsActor
+[2019.10.30-10.45.41:156][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be97a73220, Size=24, Default__LeapComponentHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.45.41:290][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001beaa8c5300, Size=240
+[2019.10.30-10.45.41:290][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be975e6d00, Size=240, Default__LeapAnimBodyConnector_C Function /Engine/Transient.REINST_LeapAnimBodyConnector_C_49:ExecuteUbergraph_LeapAnimBodyConnector
+[2019.10.30-10.45.41:293][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001beab537900, Size=1640
+[2019.10.30-10.45.41:293][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be97e4b900, Size=1640, Default__LeapEchoImageHands_AnimBlueprint_C Function /Engine/Transient.REINST_LeapEchoImageHands_AnimBlueprint_C_3:ExecuteUbergraph_LeapEchoImageHands_AnimBlueprint
+[2019.10.30-10.45.41:293][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001beaac9b4a8, Size=24
+[2019.10.30-10.45.41:293][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be975f6e60, Size=24, Default__LeapHandsActorBase_C Function /Engine/Transient.REINST_LeapHandsActorBase_C_52:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.45.41:293][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001beab421e40, Size=4
+[2019.10.30-10.45.41:293][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be972ae700, Size=4, Default__PostProcessChanger_C Function /Engine/Transient.REINST_PostProcessChanger_C_53:ExecuteUbergraph_PostProcessChanger
+[2019.10.30-10.45.41:294][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001beb1cf7b00, Size=608
+[2019.10.30-10.45.41:294][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001beb24865a8, Size=24
+[2019.10.30-10.45.41:294][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beb1d97600, Size=608, Default__BP_LeapRiggedEchoHandsActor_C Function /Engine/Transient.REINST_BP_LeapRiggedEchoHandsActor_C_54:ExecuteUbergraph_BP_LeapRiggedEchoHandsActor
+[2019.10.30-10.45.41:294][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be975f6e00, Size=24, Default__BP_LeapRiggedEchoHandsActor_C Function /Engine/Transient.REINST_LeapHandsActorBase_C_52:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.45.41:294][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001beb145a180, Size=120
+[2019.10.30-10.45.41:294][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be89bbca00, Size=240
+[2019.10.30-10.45.41:294][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be9754c980, Size=120, Default__LeapAnimBodyConnectorWithPassthrough_C Function /Engine/Transient.REINST_LeapAnimBodyConnectorWithPassthrough_C_56:ExecuteUbergraph_LeapAnimBodyConnectorWithPassthrough
+[2019.10.30-10.45.41:294][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be975e5c00, Size=240, Default__LeapAnimBodyConnectorWithPassthrough_C Function /Engine/Transient.REINST_LeapAnimBodyConnector_C_49:ExecuteUbergraph_LeapAnimBodyConnector
+[2019.10.30-10.45.41:295][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be97af7e80, Size=32
+[2019.10.30-10.45.41:295][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be97a73220, Size=24
+[2019.10.30-10.45.41:295][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be97e8bae0, Size=32, Default__LeapComponentHandsActor_C Function /Engine/Transient.REINST_LeapComponentHandsActor_C_57:ExecuteUbergraph_LeapComponentHandsActor
+[2019.10.30-10.45.41:295][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be975f6d88, Size=24, Default__LeapComponentHandsActor_C Function /Engine/Transient.REINST_LeapHandsActorBase_C_52:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.45.41:295][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001beb249f4e0, Size=12
+[2019.10.30-10.45.41:295][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001beb2487f70, Size=24
+[2019.10.30-10.45.41:295][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be97eafa80, Size=12, Default__LeapRiggedEchoHandsActor_C Function /Engine/Transient.REINST_LeapRiggedEchoHandsActor_C_58:ExecuteUbergraph_LeapRiggedEchoHandsActor
+[2019.10.30-10.45.41:295][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be975f6d58, Size=24, Default__LeapRiggedEchoHandsActor_C Function /Engine/Transient.REINST_LeapHandsActorBase_C_52:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.45.41:296][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8a02b100, Size=544
+[2019.10.30-10.45.41:296][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be97e27600, Size=544, Default__BP_LeapFloatingHandsCharacter_C Function /Engine/Transient.REINST_BP_LeapFloatingHandsCharacter_C_59:ExecuteUbergraph_BP_LeapFloatingHandsCharacter
+[2019.10.30-10.45.41:296][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001beb1967440, Size=64
+[2019.10.30-10.45.41:296][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001beb249d880, Size=12
+[2019.10.30-10.45.41:296][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001beb2487b50, Size=24
+[2019.10.30-10.45.41:296][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be97e21680, Size=64, Default__LeapImageHandsActor_C Function /Engine/Transient.REINST_LeapImageHandsActor_C_60:ExecuteUbergraph_LeapImageHandsActor
+[2019.10.30-10.45.41:296][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be97eafa90, Size=12, Default__LeapImageHandsActor_C Function /Engine/Transient.REINST_LeapRiggedEchoHandsActor_C_58:ExecuteUbergraph_LeapRiggedEchoHandsActor
+[2019.10.30-10.45.41:296][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be975f6ce0, Size=24, Default__LeapImageHandsActor_C Function /Engine/Transient.REINST_LeapHandsActorBase_C_52:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.45.41:427][  0]LogBlueprint: Warning: [Compiler PostProcessChanger] PostProcessSettings 분해  /  PostProcessChanger  에서 오버라이드 핀이 제거되었으니, 블루프린트가 예상대로 작동하는지 검증해 주세요! 자세한 정보는 핀 표시여부 활성화 팁을 참고하세요. 이 경고는 애셋을 저장하면 사라질 것입니다!
+[2019.10.30-10.45.41:473][  0]LogBlueprint: Warning: [Compiler BP_LeapFloatingHandsCharacter] InputAction Event 가  ChangeImageHandTint 입력 액션  에 대해 알려지지 않은 'ChangeImageHandTint' 액션을 레퍼런싱합니다.
+[2019.10.30-10.45.41:473][  0]LogBlueprint: Warning: [Compiler BP_LeapFloatingHandsCharacter] InputAction Event 가  ChangeHands 입력 액션  에 대해 알려지지 않은 'ChangeHands' 액션을 레퍼런싱합니다.
+[2019.10.30-10.45.41:473][  0]LogBlueprint: Warning: [Compiler BP_LeapFloatingHandsCharacter] InputAction Event 가  ResetHMDOrientation 입력 액션  에 대해 알려지지 않은 'ResetHMDOrientation' 액션을 레퍼런싱합니다.
+[2019.10.30-10.45.41:473][  0]LogBlueprint: Warning: [Compiler BP_LeapFloatingHandsCharacter] InputAction Event 가  ComfortTurnRight 입력 액션  에 대해 알려지지 않은 'ComfortTurnRight' 액션을 레퍼런싱합니다.
+[2019.10.30-10.45.41:473][  0]LogBlueprint: Warning: [Compiler BP_LeapFloatingHandsCharacter] InputAction Event 가  ComfortTurnLeft 입력 액션  에 대해 알려지지 않은 'ComfortTurnLeft' 액션을 레퍼런싱합니다.
+[2019.10.30-10.45.41:482][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be98090b00, Size=240, Default__LeapAnimBodyConnector_C Function /LeapMotion/Blueprints/LeapConnectors/LeapAnimBodyConnector.LeapAnimBodyConnector_C:ExecuteUbergraph_LeapAnimBodyConnector
+[2019.10.30-10.45.41:498][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be98ef1d00, Size=1640, Default__LeapEchoImageHands_AnimBlueprint_C Function /LeapMotion/Character/Echo/LeapEchoImageHands_AnimBlueprint.LeapEchoImageHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoImageHands_AnimBlueprint
+[2019.10.30-10.45.41:500][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be98051d50, Size=24, Default__LeapHandsActorBase_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.45.41:506][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be980e06d0, Size=4, Default__PostProcessChanger_C Function /LeapMotion/Blueprints/Utility/PostProcessChanger.PostProcessChanger_C:ExecuteUbergraph_PostProcessChanger
+[2019.10.30-10.45.41:509][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be98cf3d80, Size=608, Default__BP_LeapRiggedEchoHandsActor_C Function /Game/FirstPersonBP/Blueprints/BP_LeapRiggedEchoHandsActor.BP_LeapRiggedEchoHandsActor_C:ExecuteUbergraph_BP_LeapRiggedEchoHandsActor
+[2019.10.30-10.45.41:509][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be98e0b430, Size=24, Default__BP_LeapRiggedEchoHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.45.41:512][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be98e34800, Size=128, Default__LeapAnimBodyConnectorWithPassthrough_C Function /LeapMotion/Blueprints/LeapConnectors/LeapAnimBodyConnectorWithPassthrough.LeapAnimBodyConnectorWithPassthrough_C:ExecuteUbergraph_LeapAnimBodyConnectorWithPassthrough
+[2019.10.30-10.45.41:512][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be98c91c00, Size=240, Default__LeapAnimBodyConnectorWithPassthrough_C Function /LeapMotion/Blueprints/LeapConnectors/LeapAnimBodyConnector.LeapAnimBodyConnector_C:ExecuteUbergraph_LeapAnimBodyConnector
+[2019.10.30-10.45.41:514][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be98cdd3c0, Size=32, Default__LeapComponentHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapComponentHandsActor.LeapComponentHandsActor_C:ExecuteUbergraph_LeapComponentHandsActor
+[2019.10.30-10.45.41:514][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be98e0aba8, Size=24, Default__LeapComponentHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.45.41:515][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be97f64b60, Size=12, Default__LeapRiggedEchoHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapRiggedEchoHandsActor.LeapRiggedEchoHandsActor_C:ExecuteUbergraph_LeapRiggedEchoHandsActor
+[2019.10.30-10.45.41:515][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be98e0a9f8, Size=24, Default__LeapRiggedEchoHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.45.41:517][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be98c65080, Size=544, Default__BP_LeapFloatingHandsCharacter_C Function /Game/FirstPersonBP/Blueprints/BP_LeapFloatingHandsCharacter.BP_LeapFloatingHandsCharacter_C:ExecuteUbergraph_BP_LeapFloatingHandsCharacter
+[2019.10.30-10.45.41:519][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be98babd40, Size=64, Default__LeapImageHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapImageHandsActor.LeapImageHandsActor_C:ExecuteUbergraph_LeapImageHandsActor
+[2019.10.30-10.45.41:519][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be97f643f0, Size=12, Default__LeapImageHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapRiggedEchoHandsActor.LeapRiggedEchoHandsActor_C:ExecuteUbergraph_LeapRiggedEchoHandsActor
+[2019.10.30-10.45.41:519][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be98e0a080, Size=24, Default__LeapImageHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.45.41:545][  0]LogBlueprint: Warning: [Compiler PostProcessChanger] [0009.11] PostProcessChanger 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 372 ms] (/LeapMotion/Blueprints/Utility/PostProcessChanger.PostProcessChanger)
+[2019.10.30-10.45.41:545][  0]LogBlueprint: Warning: [Compiler BP_LeapFloatingHandsCharacter] [0009.11] BP_LeapFloatingHandsCharacter 컴파일에 성공했습니다만, 경고가 5 회 있습니다. [소요시간 372 ms] (/Game/FirstPersonBP/Blueprints/BP_LeapFloatingHandsCharacter.BP_LeapFloatingHandsCharacter)
+[2019.10.30-10.45.41:697][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [4.853500ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2019.10.30-10.45.41:932][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.507900ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2019.10.30-10.45.42:382][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.615800ms] /LeapMotion/Character/Echo/echo_lo_R.echo_lo_R
+[2019.10.30-10.45.42:386][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.538900ms] /LeapMotion/Character/Echo/echo_lo_L.echo_lo_L
+[2019.10.30-10.45.42:396][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.30-10.45.42:440][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.10.30-10.45.42:440][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.10.30-10.45.42:515][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8574b790, Size=72
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8540e600, Size=256
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8503ae00, Size=688
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895edaa0, Size=4
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be89181b70, Size=24
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895eda78, Size=4
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be89128600, Size=128
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895eda08, Size=4
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be88faa080, Size=216
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895ed9f8, Size=4
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8918ec00, Size=312
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895ed9e8, Size=4
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8906a700, Size=232
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895ed9d8, Size=4
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8906a500, Size=248
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895ed9c8, Size=4
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be891a69f0, Size=16
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895eda68, Size=4
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be88fe5900, Size=32
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895eda58, Size=4
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be891a69d0, Size=16
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895eda48, Size=4
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be891a69c0, Size=16
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895eda38, Size=4
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be891a6980, Size=16
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895eda28, Size=4
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be891a6970, Size=16
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895eda20, Size=4
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be8919b948, Size=40
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895eda10, Size=4
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be89158700, Size=88
+[2019.10.30-10.45.42:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895efd28, Size=4
+[2019.10.30-10.45.42:541][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be891a6960, Size=16
+[2019.10.30-10.45.42:541][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895efd18, Size=4
+[2019.10.30-10.45.42:541][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be891a6940, Size=16
+[2019.10.30-10.45.42:541][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895ef8a8, Size=4
+[2019.10.30-10.45.42:541][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be891a6950, Size=16
+[2019.10.30-10.45.42:541][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895ef850, Size=4
+[2019.10.30-10.45.42:541][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be891587c0, Size=88
+[2019.10.30-10.45.42:541][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be895ef800, Size=4
+[2019.10.30-10.45.42:541][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bea9cb72a8, Size=4
+[2019.10.30-10.45.42:541][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bea9cb6dc0, Size=4
+[2019.10.30-10.45.42:541][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bea9996c00, Size=288
+[2019.10.30-10.45.42:541][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001beaa62fc80, Size=200
+[2019.10.30-10.45.42:541][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be97e27600, Size=544
+[2019.10.30-10.45.42:541][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be975e6d00, Size=240
+[2019.10.30-10.45.42:542][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be975f6e60, Size=24
+[2019.10.30-10.45.42:542][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be97e4b900, Size=1640
+[2019.10.30-10.45.42:542][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be972ae700, Size=4
+[2019.10.30-10.45.42:542][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be9754c980, Size=120
+[2019.10.30-10.45.42:542][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be975e5c00, Size=240
+[2019.10.30-10.45.42:542][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be97eafa80, Size=12
+[2019.10.30-10.45.42:542][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be975f6d58, Size=24
+[2019.10.30-10.45.42:542][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be97e21680, Size=64
+[2019.10.30-10.45.42:542][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be97eafa90, Size=12
+[2019.10.30-10.45.42:542][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be975f6ce0, Size=24
+[2019.10.30-10.45.42:542][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001beb1d97600, Size=608
+[2019.10.30-10.45.42:542][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be975f6e00, Size=24
+[2019.10.30-10.45.42:542][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be97e8bae0, Size=32
+[2019.10.30-10.45.42:542][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be975f6d88, Size=24
+[2019.10.30-10.45.42:552][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.30-10.45.42:593][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 40.76ms.
+[2019.10.30-10.45.42:593][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.900
+[2019.10.30-10.45.42:713][  0]LogCollectionManager: Loaded 0 collections in 0.001068 seconds
+[2019.10.30-10.45.42:768][  0]LogFileCache: Scanning file cache for directory 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/Collections/' took 0.01s
+[2019.10.30-10.45.42:768][  0]LogFileCache: Scanning file cache for directory 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Developers/st/Collections/' took 0.01s
+[2019.10.30-10.45.42:768][  0]LogFileCache: Scanning file cache for directory 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Collections/' took 0.01s
+[2019.10.30-10.45.42:768][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.30-10.45.42:781][  0]LogContentBrowser: Native class hierarchy populated in 0.0126 seconds. Added 2485 classes and 567 folders.
+[2019.10.30-10.45.42:788][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.30-10.45.42:815][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.30-10.45.42:819][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.30-10.45.42:903][  0]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Plugins/. Error: 지정된 파일을 찾을 수 없습니다. (0x00000002)
+[2019.10.30-10.45.42:907][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.30-10.45.42:910][  0]LogSlate: Took 0.001578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.10.30-10.45.42:912][  0]LogSlate: Took 0.001546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.10.30-10.45.42:912][  0]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.30-10.45.42:916][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.30-10.45.42:987][  0]LogRenderer: Reallocating scene render targets to support 1156x600 Format 10 NumSamples 1 (Frame:1).
+[2019.10.30-10.45.43:123][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.30-10.45.43:123][  0]LogLoad: (Engine Initialization) Total time: 10.69 seconds
+[2019.10.30-10.45.43:123][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.30-10.45.43:159][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.30-10.45.43:202][  0]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.30-10.45.43:234][  1]LogAssetRegistry: Asset discovery search completed in 7.0751 seconds
+[2019.10.30-10.45.43:236][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.30-10.45.43:236][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2019.10.30-10.45.43:238][  1]LogSlate: Took 0.001444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.10.30-10.45.43:326][  2]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2019.10.30-10.45.43:327][  2]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_0
+[2019.10.30-10.45.44:598][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-10.45.44:689][158]LogSlate: Window 'Plugins' being destroyed
+[2019.10.30-10.45.44:693][158]LogSlate: Window 'Plugins' being destroyed
+[2019.10.30-10.45.44:693][158]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.10.30-10.45.45:495][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-10.45.45:553][258]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.30-10.45.45:568][258]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.45.45:568][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-10.45.45:568][258]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 31. 오전 4:45:45)
+[2019.10.30-10.45.45:568][258]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.30-10.45.45:585][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016447s)
+[2019.10.30-10.45.45:585][258]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.30-10.45.45:585][258]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2019.10.30-10.45.45:585][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017237s)
+[2019.10.30-10.45.45:606][258]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.45.45:611][258]LogInit: FAudioDevice initialized.
+[2019.10.30-10.45.45:650][258]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.30-10.45.45:689][258]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.30-19.45.45
+[2019.10.30-10.45.45:689][258]LogWorld: Bringing up level for play took: 0.037975
+[2019.10.30-10.45.45:692][258]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2019.10.30-10.45.45:692][258]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.45.45:692][258]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.45.45:692][258]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.45.45:692][258]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.45.45:692][258]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.383
+[2019.10.30-10.45.45:692][258]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.45.47:208][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.45.47:251][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.45.53:074][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-10.46.01:828][123]LogEditorActor: Deleted Actor: FirstPersonCharacter_C
+[2019.10.30-10.46.01:839][123]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.10.30-10.46.04:315][415]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.30-10.46.04:330][415]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.46.04:330][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-10.46.04:330][415]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 31. 오전 4:46:04)
+[2019.10.30-10.46.04:330][415]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.30-10.46.04:339][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010115s)
+[2019.10.30-10.46.04:340][415]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.30-10.46.04:340][415]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2019.10.30-10.46.04:340][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011014s)
+[2019.10.30-10.46.04:363][415]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.46.04:368][415]LogInit: FAudioDevice initialized.
+[2019.10.30-10.46.04:407][415]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.30-10.46.04:460][415]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.30-19.46.04
+[2019.10.30-10.46.04:460][415]LogWorld: Bringing up level for play took: 0.051088
+[2019.10.30-10.46.04:475][415]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.46.04:475][415]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.46.04:475][415]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.46.04:476][415]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2019.10.30-10.46.04:478][415]LeapPluginLog: InterfaceObject: LeapHands_GEN_VARIABLE_BP_LeapRiggedEchoHandsActor_C_CAT_0
+[2019.10.30-10.46.04:479][415]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.46.04:491][415]Cmd: stereo reset
+[2019.10.30-10.46.04:528][415]Command not recognized: stereo reset
+[2019.10.30-10.46.04:529][415]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.46.04:529][415]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.46.04:530][415]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.455
+[2019.10.30-10.46.04:530][415]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.46.35:088][ 67]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.46.35:124][ 67]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.46.37:540][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-10.46.43:263][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.30-10.46.43:551][  0]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2019.10.30-10.46.43:825][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bf010041f8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.10.30-10.46.43:825][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bf010041c0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.10.30-10.46.44:292][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.30-10.46.46:318][177]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.30-10.47.09:309][360]BlueprintLog: New page: BP_Test 컴파일
+[2019.10.30-10.47.09:964][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ATM_pch/BP_Test" FILE="C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/ATM_pch/BP_Test.uasset" SILENT=true
+[2019.10.30-10.47.09:986][385]LogSavePackage: Save=8.93ms
+[2019.10.30-10.47.09:987][385]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/BP_TestBEC0758F42D04C3D1C0D0B8C70CE99A3.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/ATM_pch/BP_Test.uasset'
+[2019.10.30-10.47.09:988][385]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/ATM_pch/BP_Test.uasset
+[2019.10.30-10.47.11:135][494]LogSlate: Window 'BP_Test' being destroyed
+[2019.10.30-10.47.13:153][710]LogSavePackage: Save=108.17ms
+[2019.10.30-10.47.13:153][710]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/FirstPersonExampleMap1D25B64048496F1C57944689A4545458.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.30-10.47.13:155][710]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.10.30-10.47.13:873][710]LogSavePackage: Save=686.59ms
+[2019.10.30-10.47.13:873][710]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/FirstPersonExampleMap_BuiltData4D3D96F247B8264E388E248BAF8EEEF3.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.30-10.47.13:875][710]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2019.10.30-10.47.14:215][748]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.30-10.47.14:229][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.47.14:229][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-10.47.14:230][748]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 31. 오전 4:47:14)
+[2019.10.30-10.47.14:230][748]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.30-10.47.14:240][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010196s)
+[2019.10.30-10.47.14:240][748]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.30-10.47.14:241][748]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2019.10.30-10.47.14:241][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010900s)
+[2019.10.30-10.47.14:266][748]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.47.14:272][748]LogInit: FAudioDevice initialized.
+[2019.10.30-10.47.14:306][748]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.30-10.47.14:358][748]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.30-19.47.14
+[2019.10.30-10.47.14:358][748]LogWorld: Bringing up level for play took: 0.050445
+[2019.10.30-10.47.14:359][748]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.47.14:359][748]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.47.14:359][748]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.47.14:359][748]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2019.10.30-10.47.14:361][748]LeapPluginLog: InterfaceObject: LeapHands_GEN_VARIABLE_BP_LeapRiggedEchoHandsActor_C_CAT_0
+[2019.10.30-10.47.14:361][748]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.47.14:361][748]Cmd: stereo reset
+[2019.10.30-10.47.14:362][748]Command not recognized: stereo reset
+[2019.10.30-10.47.14:362][748]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.47.14:362][748]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.47.14:362][748]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.287
+[2019.10.30-10.47.14:362][748]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.47.24:224][927]LogScriptCore: Warning: Script Msg: Divide by zero detected: 25.309330 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2019.10.30-10.47.24:224][927]LogScriptCore: Warning: Script Msg: Divide by zero detected: 25.309330 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2019.10.30-10.47.47:799][754]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.47.47:837][754]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.47.49:821][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-10.47.52:492][257]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_1
+[2019.10.30-10.47.52:494][257]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_1
+[2019.10.30-10.48.03:331][216]BlueprintLog: New page: BP_LeapRiggedEchoHandsActor 컴파일
+[2019.10.30-10.48.03:370][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be98cf3d80, Size=608
+[2019.10.30-10.48.03:370][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be98e0b430, Size=24
+[2019.10.30-10.48.03:370][216]LogUObjectGlobals: Created PersistentFrame Addr=0x000001befa5b5f80, Size=608, Default__BP_LeapRiggedEchoHandsActor_C Function /Engine/Transient.REINST_BP_LeapRiggedEchoHandsActor_C_112:ExecuteUbergraph_BP_LeapRiggedEchoHandsActor
+[2019.10.30-10.48.03:370][216]LogUObjectGlobals: Created PersistentFrame Addr=0x000001befa427028, Size=24, Default__BP_LeapRiggedEchoHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.48.03:378][216]LogUObjectGlobals: Created PersistentFrame Addr=0x000001be9803c480, Size=416, Default__BP_LeapRiggedEchoHandsActor_C Function /Game/FirstPersonBP/Blueprints/BP_LeapRiggedEchoHandsActor.BP_LeapRiggedEchoHandsActor_C:ExecuteUbergraph_BP_LeapRiggedEchoHandsActor
+[2019.10.30-10.48.03:378][216]LogUObjectGlobals: Created PersistentFrame Addr=0x000001beb3c08778, Size=24, Default__BP_LeapRiggedEchoHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.48.03:383][216]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_4
+[2019.10.30-10.48.03:384][216]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_0
+[2019.10.30-10.48.03:454][216]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_5
+[2019.10.30-10.48.03:455][216]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_1
+[2019.10.30-10.48.03:681][216]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_7
+[2019.10.30-10.48.03:682][216]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_0
+[2019.10.30-10.48.03:683][216]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_0
+[2019.10.30-10.48.03:684][216]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_9
+[2019.10.30-10.48.03:685][216]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_1
+[2019.10.30-10.48.03:687][216]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_1
+[2019.10.30-10.48.03:688][216]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_11
+[2019.10.30-10.48.03:688][216]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_20
+[2019.10.30-10.48.03:699][216]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_13
+[2019.10.30-10.48.03:700][216]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_1
+[2019.10.30-10.48.03:702][216]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_1
+[2019.10.30-10.48.03:703][216]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_15
+[2019.10.30-10.48.03:703][216]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_20
+[2019.10.30-10.48.03:704][216]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_20
+[2019.10.30-10.48.03:962][218]LogSavePackage: Save=66.58ms
+[2019.10.30-10.48.03:962][218]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/BP_LeapRiggedEchoHandsActor0BFB9DA44D36F1FA561D81BF73B98B98.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Blueprints/BP_LeapRiggedEchoHandsActor.uasset'
+[2019.10.30-10.48.03:964][218]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Blueprints/BP_LeapRiggedEchoHandsActor.uasset
+[2019.10.30-10.48.15:101][188]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_17
+[2019.10.30-10.48.15:102][188]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_1
+[2019.10.30-10.48.15:104][188]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_1
+[2019.10.30-10.48.15:105][188]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_19
+[2019.10.30-10.48.15:105][188]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_20
+[2019.10.30-10.48.15:106][188]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_20
+[2019.10.30-10.48.19:651][551]BlueprintLog: New page: BP_LeapRiggedEchoHandsActor 컴파일
+[2019.10.30-10.48.19:689][551]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001be9803c480, Size=416
+[2019.10.30-10.48.19:689][551]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001beb3c08778, Size=24
+[2019.10.30-10.48.19:689][551]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bec7b76e80, Size=416, BP_LeapRiggedEchoHandsActor_C_57 Function /Engine/Transient.REINST_BP_LeapRiggedEchoHandsActor_C_116:ExecuteUbergraph_BP_LeapRiggedEchoHandsActor
+[2019.10.30-10.48.19:689][551]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bec8913808, Size=24, BP_LeapRiggedEchoHandsActor_C_57 Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.48.19:698][551]LogUObjectGlobals: Created PersistentFrame Addr=0x000001befa5ab880, Size=624, Default__BP_LeapRiggedEchoHandsActor_C Function /Game/FirstPersonBP/Blueprints/BP_LeapRiggedEchoHandsActor.BP_LeapRiggedEchoHandsActor_C:ExecuteUbergraph_BP_LeapRiggedEchoHandsActor
+[2019.10.30-10.48.19:698][551]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bec8910d18, Size=24, Default__BP_LeapRiggedEchoHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.48.19:703][551]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_22
+[2019.10.30-10.48.19:705][551]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_1
+[2019.10.30-10.48.19:777][551]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_23
+[2019.10.30-10.48.19:777][551]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_20
+[2019.10.30-10.48.19:933][551]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001befa5b5f80, Size=608
+[2019.10.30-10.48.19:933][551]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001befa427028, Size=24
+[2019.10.30-10.48.20:268][551]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_25
+[2019.10.30-10.48.20:269][551]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_1
+[2019.10.30-10.48.20:271][551]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_1
+[2019.10.30-10.48.20:272][551]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_27
+[2019.10.30-10.48.20:272][551]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_20
+[2019.10.30-10.48.20:273][551]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_20
+[2019.10.30-10.48.20:273][551]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_29
+[2019.10.30-10.48.20:274][551]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_76
+[2019.10.30-10.48.20:284][551]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_31
+[2019.10.30-10.48.20:285][551]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_1
+[2019.10.30-10.48.20:286][551]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_1
+[2019.10.30-10.48.20:287][551]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_33
+[2019.10.30-10.48.20:288][551]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_76
+[2019.10.30-10.48.20:288][551]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_76
+[2019.10.30-10.48.20:631][563]LogSavePackage: Save=67.12ms
+[2019.10.30-10.48.20:631][563]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/BP_LeapRiggedEchoHandsActor965D1F2147960D94CAB9ABAA5985EC73.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Blueprints/BP_LeapRiggedEchoHandsActor.uasset'
+[2019.10.30-10.48.20:633][563]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Blueprints/BP_LeapRiggedEchoHandsActor.uasset
+[2019.10.30-10.48.30:119][343]LogSlate: Window 'BP_LeapRiggedEchoHandsActor' being destroyed
+[2019.10.30-10.48.31:418][488]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.30-10.48.31:442][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.48.31:442][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-10.48.31:442][488]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 31. 오전 4:48:31)
+[2019.10.30-10.48.31:442][488]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.30-10.48.31:453][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010386s)
+[2019.10.30-10.48.31:453][488]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.30-10.48.31:453][488]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2019.10.30-10.48.31:453][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011284s)
+[2019.10.30-10.48.31:470][488]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bec7b76e80, Size=416
+[2019.10.30-10.48.31:471][488]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bec8913808, Size=24
+[2019.10.30-10.48.31:698][488]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.48.31:703][488]LogInit: FAudioDevice initialized.
+[2019.10.30-10.48.31:731][488]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.30-10.48.31:771][488]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.30-19.48.31
+[2019.10.30-10.48.31:771][488]LogWorld: Bringing up level for play took: 0.038892
+[2019.10.30-10.48.31:771][488]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.48.31:771][488]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.48.31:771][488]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.48.31:772][488]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2019.10.30-10.48.31:773][488]LeapPluginLog: InterfaceObject: LeapHands_GEN_VARIABLE_BP_LeapRiggedEchoHandsActor_C_CAT_0
+[2019.10.30-10.48.31:773][488]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.48.31:774][488]Cmd: stereo reset
+[2019.10.30-10.48.31:774][488]Command not recognized: stereo reset
+[2019.10.30-10.48.31:774][488]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.48.31:774][488]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.48.31:774][488]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.301
+[2019.10.30-10.48.31:775][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.48.35:795][968]LogScriptCore: Warning: Script Msg: Divide by zero detected: 25.578026 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2019.10.30-10.48.35:795][968]LogScriptCore: Warning: Script Msg: Divide by zero detected: 25.578026 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2019.10.30-10.48.41:379][638]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.48.41:414][638]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.48.43:790][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-10.48.46:630][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-10.48.46:697][244]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.30-10.48.46:711][244]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.48.46:711][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-10.48.46:711][244]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 31. 오전 4:48:46)
+[2019.10.30-10.48.46:712][244]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.30-10.48.46:720][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008694s)
+[2019.10.30-10.48.46:721][244]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.30-10.48.46:721][244]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2019.10.30-10.48.46:721][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009662s)
+[2019.10.30-10.48.46:748][244]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.48.46:752][244]LogInit: FAudioDevice initialized.
+[2019.10.30-10.48.46:784][244]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.30-10.48.46:831][244]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.30-19.48.46
+[2019.10.30-10.48.46:831][244]LogWorld: Bringing up level for play took: 0.045823
+[2019.10.30-10.48.46:832][244]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.48.46:832][244]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.48.46:832][244]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.48.46:833][244]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2019.10.30-10.48.46:834][244]LeapPluginLog: InterfaceObject: LeapHands_GEN_VARIABLE_BP_LeapRiggedEchoHandsActor_C_CAT_0
+[2019.10.30-10.48.46:834][244]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.48.46:835][244]Cmd: stereo reset
+[2019.10.30-10.48.46:835][244]Command not recognized: stereo reset
+[2019.10.30-10.48.46:835][244]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.48.46:835][244]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.48.46:835][244]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.76
+[2019.10.30-10.48.46:835][244]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.48.51:174][761]LogScriptCore: Warning: Script Msg: Divide by zero detected: 25.578022 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2019.10.30-10.48.51:175][761]LogScriptCore: Warning: Script Msg: Divide by zero detected: 25.578022 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2019.10.30-10.48.59:735][788]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.48.59:770][788]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.49.03:961][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-10.49.16:273][454]BlueprintLog: New page: BP_Test 컴파일
+[2019.10.30-10.49.16:731][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ATM_pch/BP_Test" FILE="C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/ATM_pch/BP_Test.uasset" SILENT=true
+[2019.10.30-10.49.16:747][466]LogSavePackage: Save=8.73ms
+[2019.10.30-10.49.16:747][466]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/BP_TestF40108F14232E8AD4D72ED8C3D71BEA0.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/ATM_pch/BP_Test.uasset'
+[2019.10.30-10.49.16:748][466]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/ATM_pch/BP_Test.uasset
+[2019.10.30-10.49.17:528][539]LogSlate: Window 'BP_Test' being destroyed
+[2019.10.30-10.49.31:847][ 99]BlueprintLog: New page: BP_switcher 컴파일
+[2019.10.30-10.49.32:695][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fastfood/BP_switcher" FILE="C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Fastfood/BP_switcher.uasset" SILENT=true
+[2019.10.30-10.49.32:715][ 99]LogSavePackage: Save=7.87ms
+[2019.10.30-10.49.32:715][ 99]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/BP_switcher1F0B04B348966E85B1F49EAA97E9A69B.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Fastfood/BP_switcher.uasset'
+[2019.10.30-10.49.32:717][ 99]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Fastfood/BP_switcher.uasset
+[2019.10.30-10.49.32:927][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fastfood/BP_switcher" FILE="C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Fastfood/BP_switcher.uasset" SILENT=true
+[2019.10.30-10.49.32:941][116]LogSavePackage: Save=7.79ms
+[2019.10.30-10.49.32:941][116]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/BP_switcher3C714C91419C05DB3100879E23ECFED6.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Fastfood/BP_switcher.uasset'
+[2019.10.30-10.49.32:942][116]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Fastfood/BP_switcher.uasset
+[2019.10.30-10.49.34:293][253]LogSavePackage: Save=125.70ms
+[2019.10.30-10.49.34:293][253]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/FirstPersonExampleMapDFAF6E454FCE22607A87CE8A829EBF9F.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.30-10.49.34:296][253]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.10.30-10.49.34:740][253]LogSavePackage: Save=409.95ms
+[2019.10.30-10.49.34:740][253]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/FirstPersonExampleMap_BuiltDataD2E2BB7B48C1958D25C27A8C2653BD2E.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.30-10.49.34:742][253]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2019.10.30-10.49.35:035][288]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.30-10.49.35:061][288]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.49.35:061][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-10.49.35:062][288]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 31. 오전 4:49:35)
+[2019.10.30-10.49.35:062][288]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.30-10.49.35:070][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008558s)
+[2019.10.30-10.49.35:071][288]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.30-10.49.35:071][288]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2019.10.30-10.49.35:071][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009337s)
+[2019.10.30-10.49.35:116][288]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.49.35:121][288]LogInit: FAudioDevice initialized.
+[2019.10.30-10.49.35:156][288]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.30-10.49.35:206][288]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.30-19.49.35
+[2019.10.30-10.49.35:206][288]LogWorld: Bringing up level for play took: 0.048723
+[2019.10.30-10.49.35:207][288]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.49.35:207][288]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.49.35:207][288]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.49.35:207][288]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2019.10.30-10.49.35:208][288]LeapPluginLog: InterfaceObject: LeapHands_GEN_VARIABLE_BP_LeapRiggedEchoHandsActor_C_CAT_0
+[2019.10.30-10.49.35:209][288]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.49.35:209][288]Cmd: stereo reset
+[2019.10.30-10.49.35:209][288]Command not recognized: stereo reset
+[2019.10.30-10.49.35:209][288]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.49.35:210][288]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.49.35:210][288]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.135
+[2019.10.30-10.49.35:210][288]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.49.44:235][367]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.49.44:272][367]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.49.47:372][714]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.10.30-10.49.47:425][714]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.30-10.49.48:152][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2019.10.30-10.49.48:435][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2019.10.30-10.49.48:876][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2019.10.30-10.49.49:280][910]LogEditorViewport: Clicking on Actor (LMB): ert_C (ert)
+[2019.10.30-10.49.56:156][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-10.50.13:980][826]BlueprintLog: New page: ert 컴파일
+[2019.10.30-10.50.16:619][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fastfood/ert" FILE="C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Fastfood/ert.uasset" SILENT=true
+[2019.10.30-10.50.16:637][107]LogSavePackage: Save=7.75ms
+[2019.10.30-10.50.16:637][107]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/ertFED453414FCB553B5D4A43B98A918ACE.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Fastfood/ert.uasset'
+[2019.10.30-10.50.16:639][107]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Fastfood/ert.uasset
+[2019.10.30-10.50.19:076][362]LogSavePackage: Save=113.25ms
+[2019.10.30-10.50.19:076][362]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/FirstPersonExampleMapC091102F415792590F84D089992406C5.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.30-10.50.19:078][362]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.10.30-10.50.19:533][362]LogSavePackage: Save=414.11ms
+[2019.10.30-10.50.19:533][362]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/FirstPersonExampleMap_BuiltData3F4036674DA667512F935EAA28101747.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.30-10.50.19:534][362]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2019.10.30-10.50.19:936][410]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.30-10.50.19:952][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.50.19:953][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-10.50.19:953][410]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 31. 오전 4:50:19)
+[2019.10.30-10.50.19:953][410]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.30-10.50.19:963][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010066s)
+[2019.10.30-10.50.19:964][410]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.30-10.50.19:964][410]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2019.10.30-10.50.19:964][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010896s)
+[2019.10.30-10.50.19:993][410]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.50.19:998][410]LogInit: FAudioDevice initialized.
+[2019.10.30-10.50.20:027][410]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.30-10.50.20:066][410]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.30-19.50.20
+[2019.10.30-10.50.20:066][410]LogWorld: Bringing up level for play took: 0.038023
+[2019.10.30-10.50.20:066][410]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.50.20:066][410]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.50.20:066][410]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.50.20:067][410]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2019.10.30-10.50.20:068][410]LeapPluginLog: InterfaceObject: LeapHands_GEN_VARIABLE_BP_LeapRiggedEchoHandsActor_C_CAT_0
+[2019.10.30-10.50.20:069][410]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.50.20:069][410]Cmd: stereo reset
+[2019.10.30-10.50.20:069][410]Command not recognized: stereo reset
+[2019.10.30-10.50.20:069][410]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.50.20:069][410]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.50.20:070][410]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.006
+[2019.10.30-10.50.20:070][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.50.30:806][694]LogBlueprintUserMessages: [BP_LeapFloatingHandsCharacter_C_0] Grab
+[2019.10.30-10.50.30:831][697]LogBlueprintUserMessages: [BP_LeapFloatingHandsCharacter_C_0] Release
+[2019.10.30-10.50.31:715][803]LogBlueprintUserMessages: [BP_LeapFloatingHandsCharacter_C_0] Grab
+[2019.10.30-10.50.31:731][805]LogBlueprintUserMessages: [BP_LeapFloatingHandsCharacter_C_0] Release
+[2019.10.30-10.50.31:816][815]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.50.31:853][815]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.50.35:490][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-10.50.40:012][740]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_35
+[2019.10.30-10.50.40:013][740]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_95
+[2019.10.30-10.50.41:494][849]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_37
+[2019.10.30-10.50.41:495][849]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_95
+[2019.10.30-10.50.41:497][849]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_95
+[2019.10.30-10.50.41:498][849]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_39
+[2019.10.30-10.50.41:499][849]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_76
+[2019.10.30-10.50.41:499][849]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_76
+[2019.10.30-10.50.49:670][504]BlueprintLog: New page: BP_LeapRiggedEchoHandsActor 컴파일
+[2019.10.30-10.50.49:708][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001befa5ab880, Size=624
+[2019.10.30-10.50.49:708][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bec8910d18, Size=24
+[2019.10.30-10.50.49:708][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bed8a3f380, Size=624, Default__BP_LeapRiggedEchoHandsActor_C Function /Engine/Transient.REINST_BP_LeapRiggedEchoHandsActor_C_150:ExecuteUbergraph_BP_LeapRiggedEchoHandsActor
+[2019.10.30-10.50.49:708][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bed8ab4238, Size=24, Default__BP_LeapRiggedEchoHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.50.49:716][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bf4d1b7600, Size=608, Default__BP_LeapRiggedEchoHandsActor_C Function /Game/FirstPersonBP/Blueprints/BP_LeapRiggedEchoHandsActor.BP_LeapRiggedEchoHandsActor_C:ExecuteUbergraph_BP_LeapRiggedEchoHandsActor
+[2019.10.30-10.50.49:716][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bed8ab52a0, Size=24, Default__BP_LeapRiggedEchoHandsActor_C Function /LeapMotion/Blueprints/Rigging/FloatingHands/LeapHandsActorBase.LeapHandsActorBase_C:ExecuteUbergraph_LeapHandsActorBase
+[2019.10.30-10.50.49:722][504]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_42
+[2019.10.30-10.50.49:723][504]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_95
+[2019.10.30-10.50.49:795][504]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_43
+[2019.10.30-10.50.49:796][504]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_76
+[2019.10.30-10.50.50:101][504]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_45
+[2019.10.30-10.50.50:102][504]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_95
+[2019.10.30-10.50.50:104][504]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_95
+[2019.10.30-10.50.50:105][504]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_47
+[2019.10.30-10.50.50:105][504]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_76
+[2019.10.30-10.50.50:106][504]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_76
+[2019.10.30-10.50.50:106][504]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_49
+[2019.10.30-10.50.50:107][504]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_132
+[2019.10.30-10.50.50:117][504]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_51
+[2019.10.30-10.50.50:118][504]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_95
+[2019.10.30-10.50.50:120][504]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_95
+[2019.10.30-10.50.50:121][504]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_53
+[2019.10.30-10.50.50:121][504]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_132
+[2019.10.30-10.50.50:122][504]LeapPluginLog: InterfaceObject: BP_LeapRiggedEchoHandsActor_C_132
+[2019.10.30-10.50.50:336][506]LogSavePackage: Save=66.88ms
+[2019.10.30-10.50.50:336][506]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/BP_LeapRiggedEchoHandsActor6893774C43BF58752883BBA6E3D65CA1.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Blueprints/BP_LeapRiggedEchoHandsActor.uasset'
+[2019.10.30-10.50.50:338][506]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Blueprints/BP_LeapRiggedEchoHandsActor.uasset
+[2019.10.30-10.50.51:435][588]LogSavePackage: Save=60.94ms
+[2019.10.30-10.50.51:435][588]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/BP_LeapRiggedEchoHandsActorB9D1AA664B4077F107381990ADAD4A03.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Blueprints/BP_LeapRiggedEchoHandsActor.uasset'
+[2019.10.30-10.50.51:436][588]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Blueprints/BP_LeapRiggedEchoHandsActor.uasset
+[2019.10.30-10.50.53:756][778]LogSlate: Window 'BP_LeapRiggedEchoHandsActor' being destroyed
+[2019.10.30-10.50.55:747][  6]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.30-10.50.55:769][  6]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.50.55:769][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-10.50.55:769][  6]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 31. 오전 4:50:55)
+[2019.10.30-10.50.55:769][  6]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.30-10.50.55:776][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008085s)
+[2019.10.30-10.50.55:777][  6]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.30-10.50.55:777][  6]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2019.10.30-10.50.55:777][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.008827s)
+[2019.10.30-10.50.55:795][  6]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bed8a3f380, Size=624
+[2019.10.30-10.50.55:795][  6]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bed8ab4238, Size=24
+[2019.10.30-10.50.56:055][  6]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.50.56:059][  6]LogInit: FAudioDevice initialized.
+[2019.10.30-10.50.56:096][  6]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.30-10.50.56:140][  6]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.30-19.50.56
+[2019.10.30-10.50.56:140][  6]LogWorld: Bringing up level for play took: 0.041988
+[2019.10.30-10.50.56:141][  6]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.50.56:141][  6]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.50.56:141][  6]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.50.56:142][  6]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2019.10.30-10.50.56:143][  6]LeapPluginLog: InterfaceObject: LeapHands_GEN_VARIABLE_BP_LeapRiggedEchoHandsActor_C_CAT_0
+[2019.10.30-10.50.56:143][  6]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.50.56:144][  6]Cmd: stereo reset
+[2019.10.30-10.50.56:144][  6]Command not recognized: stereo reset
+[2019.10.30-10.50.56:144][  6]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.50.56:144][  6]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.50.56:144][  6]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.069
+[2019.10.30-10.50.56:144][  6]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.51.07:597][377]LogBlueprintUserMessages: [BP_LeapFloatingHandsCharacter_C_0] Grab
+[2019.10.30-10.51.08:847][525]LogBlueprintUserMessages: [BP_LeapFloatingHandsCharacter_C_0] Release
+[2019.10.30-10.51.09:471][600]LogBlueprintUserMessages: [BP_LeapFloatingHandsCharacter_C_0] Grab
+[2019.10.30-10.51.10:247][693]LogBlueprintUserMessages: [BP_LeapFloatingHandsCharacter_C_0] Release
+[2019.10.30-10.51.10:622][738]LogBlueprintUserMessages: [BP_LeapFloatingHandsCharacter_C_0] Grab
+[2019.10.30-10.51.10:805][760]LogBlueprintUserMessages: [BP_LeapFloatingHandsCharacter_C_0] Release
+[2019.10.30-10.51.23:899][331]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.51.23:940][331]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.51.25:870][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-10.51.33:825][278]BlueprintLog: New page: BP_Test 컴파일
+[2019.10.30-10.51.34:332][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ATM_pch/BP_Test" FILE="C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/ATM_pch/BP_Test.uasset" SILENT=true
+[2019.10.30-10.51.34:350][295]LogSavePackage: Save=8.68ms
+[2019.10.30-10.51.34:350][295]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/BP_Test687DF14641DD88A8D63DB2AFAAA8FF72.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/ATM_pch/BP_Test.uasset'
+[2019.10.30-10.51.34:351][295]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/ATM_pch/BP_Test.uasset
+[2019.10.30-10.51.36:711][544]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.30-10.51.36:729][544]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.51.36:729][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-10.51.36:729][544]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 31. 오전 4:51:36)
+[2019.10.30-10.51.36:730][544]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.30-10.51.36:738][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008481s)
+[2019.10.30-10.51.36:739][544]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.30-10.51.36:739][544]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2019.10.30-10.51.36:739][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009427s)
+[2019.10.30-10.51.36:773][544]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.51.36:777][544]LogInit: FAudioDevice initialized.
+[2019.10.30-10.51.36:810][544]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.30-10.51.36:849][544]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.30-19.51.36
+[2019.10.30-10.51.36:849][544]LogWorld: Bringing up level for play took: 0.038225
+[2019.10.30-10.51.36:850][544]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.51.36:850][544]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.51.36:850][544]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.51.36:851][544]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2019.10.30-10.51.36:851][544]LeapPluginLog: InterfaceObject: LeapHands_GEN_VARIABLE_BP_LeapRiggedEchoHandsActor_C_CAT_0
+[2019.10.30-10.51.36:851][544]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.51.36:852][544]Cmd: stereo reset
+[2019.10.30-10.51.36:852][544]Command not recognized: stereo reset
+[2019.10.30-10.51.36:852][544]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.51.36:852][544]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.51.36:852][544]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.778
+[2019.10.30-10.51.36:852][544]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.51.44:231][424]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.51.44:271][424]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.51.45:431][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-10.51.55:660][485]BlueprintLog: New page: BP_Test 컴파일
+[2019.10.30-10.51.56:188][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ATM_pch/BP_Test" FILE="C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/ATM_pch/BP_Test.uasset" SILENT=true
+[2019.10.30-10.51.56:204][503]LogSavePackage: Save=10.05ms
+[2019.10.30-10.51.56:204][503]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/BP_Test4F431A2948091E00B2B97C93615CA4D7.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/ATM_pch/BP_Test.uasset'
+[2019.10.30-10.51.56:206][503]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/ATM_pch/BP_Test.uasset
+[2019.10.30-10.51.57:887][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2019.10.30-10.51.58:523][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-10.51.58:590][747]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.30-10.51.58:609][747]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.51.58:609][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-10.51.58:609][747]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 31. 오전 4:51:58)
+[2019.10.30-10.51.58:609][747]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.30-10.51.58:618][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008581s)
+[2019.10.30-10.51.58:618][747]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.30-10.51.58:619][747]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2019.10.30-10.51.58:619][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009456s)
+[2019.10.30-10.51.58:650][747]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.51.58:655][747]LogInit: FAudioDevice initialized.
+[2019.10.30-10.51.58:686][747]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.30-10.51.58:725][747]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.30-19.51.58
+[2019.10.30-10.51.58:725][747]LogWorld: Bringing up level for play took: 0.038480
+[2019.10.30-10.51.58:726][747]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.51.58:726][747]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.30-10.51.58:726][747]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.51.58:727][747]LeapPluginLog: InterfaceObject: LeapAnimBodyConnector_C_0
+[2019.10.30-10.51.58:728][747]LeapPluginLog: InterfaceObject: LeapHands_GEN_VARIABLE_BP_LeapRiggedEchoHandsActor_C_CAT_0
+[2019.10.30-10.51.58:728][747]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.51.58:729][747]Cmd: stereo reset
+[2019.10.30-10.51.58:729][747]Command not recognized: stereo reset
+[2019.10.30-10.51.58:729][747]LeapPluginLog: InterfaceObject: BP_LeapFloatingHandsCharacter_C_0
+[2019.10.30-10.51.58:729][747]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.30-10.51.58:729][747]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.654
+[2019.10.30-10.51.58:729][747]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.52.02:872][237]LogScriptCore: Warning: Script Msg: Divide by zero detected: 25.860077 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2019.10.30-10.52.02:872][237]LogScriptCore: Warning: Script Msg: Divide by zero detected: 25.860077 / 0
+Script call stack:
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:ExecuteUbergraph_LeapEchoHands_AnimBlueprint
+	Function /LeapMotion/Character/Echo/LeapEchoHands_AnimBlueprint.LeapEchoHands_AnimBlueprint_C:Set Scaling If Enabled
+
+[2019.10.30-10.52.20:554][355]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.52.20:593][355]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.52.20:611][355]PIE: '/Engine/Transient.UnrealEdEngine_0:GameInstance_9.None' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2019.10.30-10.52.22:330][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-10.52.28:276][ 84]LogSlate: Window 'BP_Test' being destroyed
+[2019.10.30-10.52.33:340][667]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.30-10.52.33:345][667]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bf4a68ecf8, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2019.10.30-10.52.33:347][667]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bf4a68ecf8, Size=52
+[2019.10.30-10.52.33:347][667]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bf4a68ecf8, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_180:ExecuteUbergraph_FirstPersonHUD
+[2019.10.30-10.52.33:349][667]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bf4a96cb80, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2019.10.30-10.52.34:857][840]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bf4a68ecf8, Size=52
+[2019.10.30-10.52.34:977][840]LogSavePackage: Save=111.22ms
+[2019.10.30-10.52.34:977][840]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/FirstPersonExampleMapCC4B0FDA42A0335E552E3B9C8348F417.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.30-10.52.34:979][840]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.10.30-10.52.35:425][840]LogSavePackage: Save=416.25ms
+[2019.10.30-10.52.35:426][840]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/FirstPersonExampleMap_BuiltDataED221EE141B04B7299500098CA9DCA00.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.30-10.52.35:428][840]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2019.10.30-10.53.17:116][252]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2019.10.30-10.53.17:116][252]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2019.10.30-10.53.17:116][252]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2019.10.30-10.53.26:659][ 83]BlueprintLog: New page: BP_switcher 컴파일
+[2019.10.30-10.53.28:575][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fastfood/BP_switcher" FILE="C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Fastfood/BP_switcher.uasset" SILENT=true
+[2019.10.30-10.53.28:590][ 83]LogSavePackage: Save=8.75ms
+[2019.10.30-10.53.28:590][ 83]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/BP_switcher40B1C1B04E6161263DB29296578DC120.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Fastfood/BP_switcher.uasset'
+[2019.10.30-10.53.28:592][ 83]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Fastfood/BP_switcher.uasset
+[2019.10.30-10.53.28:906][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fastfood/BP_switcher" FILE="C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Fastfood/BP_switcher.uasset" SILENT=true
+[2019.10.30-10.53.28:920][112]LogSavePackage: Save=7.92ms
+[2019.10.30-10.53.28:920][112]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/BP_switcherD00EBD5A407D29C7D862CEA14047ED35.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Fastfood/BP_switcher.uasset'
+[2019.10.30-10.53.28:921][112]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/Fastfood/BP_switcher.uasset
+[2019.10.30-10.53.32:292][315]LogSavePackage: Save=256.32ms
+[2019.10.30-10.53.32:292][315]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/FirstPersonExampleMapBFB01E5F4966348A2444A29C9358C3FE.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.30-10.53.32:294][315]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.10.30-10.53.32:767][315]LogSavePackage: Save=410.26ms
+[2019.10.30-10.53.32:767][315]LogSavePackage: Moving 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Saved/FirstPersonExampleMap_BuiltData28CE2B064AC471CCD01126BCF5D61189.tmp' to 'C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.30-10.53.32:769][315]LogSavePackage: Display: Finished SavePackage C:/Users/st/Documents/GitHub/Test/FastFood_1029 - 18시/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2019.10.30-10.53.33:524][405]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.30-10.53.33:555][405]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.53.33:555][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-10.53.33:555][405]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 31. 오전 4:53:33)
+[2019.10.30-10.53.33:555][405]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.30-10.53.33:565][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009442s)
+[2019.10.30-10.53.33:565][405]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.30-10.53.33:565][405]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2019.10.30-10.53.33:565][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010339s)
+[2019.10.30-10.53.33:773][405]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.53.33:778][405]LogInit: FAudioDevice initialized.
+[2019.10.30-10.53.33:811][405]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.30-10.53.33:856][405]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.30-19.53.33
+[2019.10.30-10.53.33:856][405]LogWorld: Bringing up level for play took: 0.041947
+[2019.10.30-10.53.33:857][405]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.218
+[2019.10.30-10.53.33:857][405]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.53.43:592][566]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.53.43:632][566]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.30-10.53.45:633][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
