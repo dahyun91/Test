@@ -1,0 +1,1068 @@
+﻿Log file open, 11/01/19 18:45:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Card_1029
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1541162298) SRandInit(1541162298).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.396730
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.887s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-6G76LJJ (192.168.0.155:0)
+LogHMD: Failed initializing OVRPlugin 1.21.0
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Unreal/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.11.01-09.45.55:958][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.01-09.45.55:958][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.01-09.45.55:968][  0]LogInit: Computer: DESKTOP-6G76LJJ
+[2019.11.01-09.45.55:968][  0]LogInit: User: st
+[2019.11.01-09.45.55:968][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.11.01-09.45.55:968][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.01-09.45.55:968][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2019.11.01-09.45.55:968][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.01-09.45.55:968][  0]LogMemory: Process Physical Memory: 280.06 MB used, 280.06 MB peak
+[2019.11.01-09.45.55:968][  0]LogMemory: Process Virtual Memory: 276.04 MB used, 276.04 MB peak
+[2019.11.01-09.45.55:968][  0]LogMemory: Physical Memory: 10911.59 MB used,  21630.39 MB free, 32541.98 MB total
+[2019.11.01-09.45.55:968][  0]LogMemory: Virtual Memory: 4850.13 MB used,  21630.39 MB free, 134217728.00 MB total
+[2019.11.01-09.45.55:984][  0]LogInit: Using OS detected language (ko-KR).
+[2019.11.01-09.45.55:984][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.11.01-09.45.55:986][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.11.01-09.45.56:278][  0]LogStreaming: Display: Took  0.295s to EndInitTextLocalization.
+[2019.11.01-09.45.56:279][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.01-09.45.56:319][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.01-09.45.56:319][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.01-09.45.56:468][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.01-09.45.56:538][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.11.01-09.45.56:538][  0]LogD3D11RHI:       8010/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.01-09.45.56:555][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.11.01-09.45.56:555][  0]LogD3D11RHI:       128/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.01-09.45.56:557][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.01-09.45.56:557][  0]LogD3D11RHI:       0/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.01-09.45.56:557][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.01-09.45.56:566][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.01-09.45.56:566][  0]LogD3D11RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.01-09.45.56:566][  0]LogWindows: EnumDisplayDevices:
+[2019.11.01-09.45.56:566][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.11.01-09.45.56:567][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.11.01-09.45.56:567][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.11.01-09.45.56:567][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.11.01-09.45.56:568][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.01-09.45.56:568][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.01-09.45.56:568][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.01-09.45.56:568][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.11.01-09.45.56:568][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.11.01-09.45.56:568][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.11.01-09.45.56:568][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.11.01-09.45.56:568][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.11.01-09.45.56:612][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.11.01-09.45.56:612][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.11.01-09.45.56:612][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.01-09.45.56:624][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.01-09.45.56:678][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../Test_Project/Card_1029/Intermediate/Shaders/WorkingDirectory/66132/).
+[2019.11.01-09.45.56:679][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/st/AppData/Local/Temp/UnrealShaderWorkingDir/69FE7F624CBCBAEF2E09A2856DEE9A9A/'.
+[2019.11.01-09.45.56:881][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.11.01-09.45.56:891][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.11.01-09.45.56:903][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.11.01-09.45.56:913][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.11.01-09.45.56:923][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.11.01-09.45.56:933][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.11.01-09.45.56:943][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.11.01-09.45.56:953][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.11.01-09.45.56:958][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.11.01-09.45.56:967][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.11.01-09.45.56:975][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.11.01-09.45.56:984][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.11.01-09.45.56:993][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.11.01-09.45.57:001][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.11.01-09.45.57:010][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.11.01-09.45.57:027][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.11.01-09.45.57:028][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.11.01-09.45.57:037][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.01-09.45.57:037][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.11.01-09.45.57:070][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.11.01-09.45.57:078][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.11.01-09.45.57:087][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.11.01-09.45.57:096][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.11.01-09.45.57:105][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.11.01-09.45.57:115][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.11.01-09.45.57:115][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.01-09.45.57:207][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.01-09.45.57:207][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.01-09.45.57:207][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.01-09.45.57:751][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.01-09.45.57:806][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/st/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.11.01-09.45.57:806][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/st/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.11.01-09.45.57:807][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Test_Project/Card_1029/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.01-09.45.57:807][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.01-09.45.57:807][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Test_Project/Card_1029/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.01-09.45.57:807][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.01-09.45.57:819][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.01-09.45.57:831][  0]LogDerivedDataCache: Using Local data cache path C:/Users/st/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.01-09.45.57:831][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.01-09.45.57:831][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.01-09.45.57:839][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.01-09.45.57:840][  0]LogSlate: Using Freetype 2.6.0
+[2019.11.01-09.45.57:840][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.01-09.45.57:840][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.01-09.45.57:945][  0]LogAssetRegistry: FAssetRegistry took 0.0249 seconds to start up
+[2019.11.01-09.45.58:169][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.01-09.45.58:282][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.11.01-09.45.58:284][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.11.01-09.45.58:284][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.01-09.45.58:284][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.11.01-09.45.58:284][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.11.01-09.45.58:284][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.11.01-09.45.58:315][  0]LogNetVersion: Card_1029 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1359408002)
+[2019.11.01-09.45.58:689][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.050025 seconds
+[2019.11.01-09.45.58:693][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.11.01-09.45.58:693][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2019.11.01-09.45.58:693][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.01-09.46.00:088][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.01-09.46.00:116][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.01-09.46.00:457][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.11.01-09.46.00:457][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.11.01-09.46.00:474][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.11.01-09.46.00:491][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.11.01-09.46.00:945][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.01-09.46.01:121][  0]LogOcInput: OculusInput pre-init called
+[2019.11.01-09.46.01:216][  0]LogEngine: Initializing Engine...
+[2019.11.01-09.46.01:249][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.11.01-09.46.01:250][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.11.01-09.46.01:250][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.11.01-09.46.01:429][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.01-09.46.01:502][  0]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.01-09.46.01:516][  0]LogInit: FAudioDevice initialized.
+[2019.11.01-09.46.01:593][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/st/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.11.01-09.46.01:606][  0]LogInit: Texture streaming: Enabled
+[2019.11.01-09.46.01:618][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.01-09.46.01:631][  0]LogInit: Transaction tracking system initialized
+[2019.11.01-09.46.01:648][  0]BlueprintLog: New page: 에디터 로드
+[2019.11.01-09.46.01:702][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.11.01-09.46.01:954][  0]LogConsoleResponse: Display: 
+[2019.11.01-09.46.02:071][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.01-09.46.02:071][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.01-09.46.02:071][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.11.01-09.46.02:071][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.11.01-09.46.02:071][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.11.01-09.46.02:413][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Test_Project/Card_1029/Content/' took 0.01s
+[2019.11.01-09.46.02:413][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.11.01-09.46.02:413][  0]Cmd: MAP LOAD FILE="../../../../Test_Project/Card_1029/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.01-09.46.02:413][  0]LightingResults: New page: 라이팅 빌드
+[2019.11.01-09.46.02:415][  0]MapCheck: New page: 맵 체크
+[2019.11.01-09.46.02:415][  0]LightingResults: New page: 라이팅 빌드
+[2019.11.01-09.46.02:455][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d5987600, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.11.01-09.46.02:463][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d5987600, Size=72
+[2019.11.01-09.46.02:463][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d59339c0, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.11.01-09.46.02:473][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d58fcf90, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.11.01-09.46.02:483][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d58cee00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2019.11.01-09.46.02:486][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d58cee00, Size=256
+[2019.11.01-09.46.02:486][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d58cee00, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
+[2019.11.01-09.46.02:489][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d58cca00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2019.11.01-09.46.02:532][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8b71000, Size=752, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.11.01-09.46.02:540][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d8b71000, Size=752
+[2019.11.01-09.46.02:540][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d9782200, Size=752, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
+[2019.11.01-09.46.02:548][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d9780700, Size=752, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.11.01-09.46.02:609][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8eaec80, Size=368, Default__BP_Card_1_C Function /Game/card/BluePrint/BP_Card_1.BP_Card_1_C:ExecuteUbergraph_BP_Card_1
+[2019.11.01-09.46.02:612][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d8eaec80, Size=368
+[2019.11.01-09.46.02:612][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d934a980, Size=368, Default__BP_Card_1_C Function /Engine/Transient.REINST_BP_Card_1_C_10:ExecuteUbergraph_BP_Card_1
+[2019.11.01-09.46.02:614][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d935ec80, Size=368, Default__BP_Card_1_C Function /Game/card/BluePrint/BP_Card_1.BP_Card_1_C:ExecuteUbergraph_BP_Card_1
+[2019.11.01-09.46.02:620][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8f8e200, Size=368, Default__BP_Card_2_C Function /Game/card/BluePrint/BP_Card_2.BP_Card_2_C:ExecuteUbergraph_BP_Card_2
+[2019.11.01-09.46.02:623][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d8f8e200, Size=368
+[2019.11.01-09.46.02:623][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d9387700, Size=368, Default__BP_Card_2_C Function /Engine/Transient.REINST_BP_Card_2_C_12:ExecuteUbergraph_BP_Card_2
+[2019.11.01-09.46.02:625][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8e44880, Size=368, Default__BP_Card_2_C Function /Game/card/BluePrint/BP_Card_2.BP_Card_2_C:ExecuteUbergraph_BP_Card_2
+[2019.11.01-09.46.02:630][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d9373580, Size=368, Default__BP_Card_3_C Function /Game/card/BluePrint/BP_Card_3.BP_Card_3_C:ExecuteUbergraph_BP_Card_3
+[2019.11.01-09.46.02:632][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d9373580, Size=368
+[2019.11.01-09.46.02:632][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8e24700, Size=368, Default__BP_Card_3_C Function /Engine/Transient.REINST_BP_Card_3_C_14:ExecuteUbergraph_BP_Card_3
+[2019.11.01-09.46.02:634][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8e18d00, Size=368, Default__BP_Card_3_C Function /Game/card/BluePrint/BP_Card_3.BP_Card_3_C:ExecuteUbergraph_BP_Card_3
+[2019.11.01-09.46.02:639][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8e2e800, Size=368, Default__BP_Card_4_C Function /Game/card/BluePrint/BP_Card_4.BP_Card_4_C:ExecuteUbergraph_BP_Card_4
+[2019.11.01-09.46.02:641][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d8e2e800, Size=368
+[2019.11.01-09.46.02:641][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8de9480, Size=368, Default__BP_Card_4_C Function /Engine/Transient.REINST_BP_Card_4_C_16:ExecuteUbergraph_BP_Card_4
+[2019.11.01-09.46.02:644][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8dd9a80, Size=368, Default__BP_Card_4_C Function /Game/card/BluePrint/BP_Card_4.BP_Card_4_C:ExecuteUbergraph_BP_Card_4
+[2019.11.01-09.46.02:648][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8def7e0, Size=144, Default__BP_Stage_C Function /Game/card/BluePrint/BP_Stage.BP_Stage_C:ExecuteUbergraph_BP_Stage
+[2019.11.01-09.46.02:649][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8e4d660, Size=32, Default__WD_Stage_C Function /Game/card/BluePrint/WD_Stage.WD_Stage_C:ExecuteUbergraph_WD_Stage
+[2019.11.01-09.46.02:655][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d8def7e0, Size=144
+[2019.11.01-09.46.02:655][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8d83560, Size=144, Default__BP_Stage_C Function /Engine/Transient.REINST_BP_Stage_C_18:ExecuteUbergraph_BP_Stage
+[2019.11.01-09.46.02:655][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d8e4d660, Size=32
+[2019.11.01-09.46.02:655][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8d7fe20, Size=32, Default__WD_Stage_C Function /Engine/Transient.REINST_WD_Stage_C_0:ExecuteUbergraph_WD_Stage
+[2019.11.01-09.46.02:659][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d969f6a0, Size=144, Default__BP_Stage_C Function /Game/card/BluePrint/BP_Stage.BP_Stage_C:ExecuteUbergraph_BP_Stage
+[2019.11.01-09.46.02:660][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8d7c9a0, Size=32, Default__WD_Stage_C Function /Game/card/BluePrint/WD_Stage.WD_Stage_C:ExecuteUbergraph_WD_Stage
+[2019.11.01-09.46.02:670][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8d55900, Size=752, Default__FirstPersonCharacter_Card_C Function /Game/card/BluePrint/FirstPersonCharacter_Card.FirstPersonCharacter_Card_C:ExecuteUbergraph_FirstPersonCharacter_Card
+[2019.11.01-09.46.02:680][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d8d55900, Size=752
+[2019.11.01-09.46.02:680][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8dcd000, Size=752, Default__FirstPersonCharacter_Card_C Function /Engine/Transient.REINST_FirstPersonCharacter_Card_C_21:ExecuteUbergraph_FirstPersonCharacter_Card
+[2019.11.01-09.46.02:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8d8fb7100, Size=752, Default__FirstPersonCharacter_Card_C Function /Game/card/BluePrint/FirstPersonCharacter_Card.FirstPersonCharacter_Card_C:ExecuteUbergraph_FirstPersonCharacter_Card
+[2019.11.01-09.46.02:705][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8e14231c0, Size=4, Default__FirstPersonExampleMap_C Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2019.11.01-09.46.02:708][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8e14231c0, Size=4
+[2019.11.01-09.46.02:708][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8e14231c0, Size=4, Default__FirstPersonExampleMap_C Function /Engine/Transient.REINST_FirstPersonExampleMap_C_25:ExecuteUbergraph_FirstPersonExampleMap
+[2019.11.01-09.46.02:712][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8e1422ed8, Size=4, Default__FirstPersonExampleMap_C Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2019.11.01-09.46.02:797][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.647900ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2019.11.01-09.46.02:893][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [4.198800ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2019.11.01-09.46.02:950][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.01-09.46.02:957][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.11.01-09.46.02:957][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.11.01-09.46.02:962][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.01-09.46.02:973][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d59339c0, Size=72
+[2019.11.01-09.46.02:973][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d58cee00, Size=256
+[2019.11.01-09.46.02:973][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d9782200, Size=752
+[2019.11.01-09.46.02:973][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d934a980, Size=368
+[2019.11.01-09.46.02:973][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d9387700, Size=368
+[2019.11.01-09.46.02:973][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d8e24700, Size=368
+[2019.11.01-09.46.02:973][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d8de9480, Size=368
+[2019.11.01-09.46.02:973][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d8d83560, Size=144
+[2019.11.01-09.46.02:973][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d8d7fe20, Size=32
+[2019.11.01-09.46.02:973][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d8dcd000, Size=752
+[2019.11.01-09.46.02:973][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8e14231c0, Size=4
+[2019.11.01-09.46.02:975][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.01-09.46.03:018][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 43.652ms.
+[2019.11.01-09.46.03:018][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.605
+[2019.11.01-09.46.03:132][  0]LogCollectionManager: Loaded 0 collections in 0.001420 seconds
+[2019.11.01-09.46.03:171][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Test_Project/Card_1029/Saved/Collections/' took 0.01s
+[2019.11.01-09.46.03:171][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Test_Project/Card_1029/Content/Developers/st/Collections/' took 0.01s
+[2019.11.01-09.46.03:171][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Test_Project/Card_1029/Content/Collections/' took 0.01s
+[2019.11.01-09.46.03:171][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.11.01-09.46.03:178][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2452 classes and 558 folders.
+[2019.11.01-09.46.03:187][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.01-09.46.03:236][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.01-09.46.03:239][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.01-09.46.03:301][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.01-09.46.03:304][  0]LogSlate: Took 0.001844 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.11.01-09.46.03:306][  0]LogSlate: Took 0.001840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.11.01-09.46.03:306][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.01-09.46.03:310][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.01-09.46.03:385][  0]LogRenderer: Reallocating scene render targets to support 1208x552 Format 10 NumSamples 1 (Frame:1).
+[2019.11.01-09.46.03:531][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.01-09.46.03:532][  0]LogLoad: (Engine Initialization) Total time: 10.64 seconds
+[2019.11.01-09.46.03:532][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.01-09.46.03:561][  0]LogAssetRegistry: Asset discovery search completed in 5.6371 seconds
+[2019.11.01-09.46.03:562][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.01-09.46.03:562][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2019.11.01-09.46.03:565][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.01-09.46.03:626][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.01-09.46.03:659][  1]LogSlate: Took 0.001779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.11.01-09.46.24:601][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-09.46.39:376][270]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.01-09.46.39:571][270]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 116 classes and 0 folders.
+[2019.11.01-09.46.39:788][270]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f91ec25000, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.11.01-09.46.39:789][270]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f91ec24fc8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.11.01-09.46.40:116][270]LogSlate: Took 0.003302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.01-09.46.58:281][408]LogMetaData: Removing '/Game/card/BluePrint/FirstPersonGameMode_Card.SKEL_FirstPersonGameMode_Card_C' ref from Metadata '/Game/card/BluePrint/FirstPersonGameMode.PackageMetaData'
+[2019.11.01-09.46.58:281][408]LogMetaData: Removing '/Game/card/BluePrint/FirstPersonGameMode_Card.FirstPersonGameMode_Card_C' ref from Metadata '/Game/card/BluePrint/FirstPersonGameMode.PackageMetaData'
+[2019.11.01-09.46.58:295][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/card/BluePrint/FirstPersonGameMode_Card" FILE="../../../../Test_Project/Card_1029/Content/card/BluePrint/FirstPersonGameMode_Card.uasset" SILENT=true
+[2019.11.01-09.46.58:304][408]LogSavePackage: Save=7.34ms
+[2019.11.01-09.46.58:304][408]LogSavePackage: Moving '../../../../Test_Project/Card_1029/Saved/FirstPersonGameMode_Card1F84BE45472A354224C62587DC268EC7.tmp' to '../../../../Test_Project/Card_1029/Content/card/BluePrint/FirstPersonGameMode_Card.uasset'
+[2019.11.01-09.46.58:307][408]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/Card_1029/Content/card/BluePrint/FirstPersonGameMode_Card.uasset
+[2019.11.01-09.47.04:450][ 52]LogSlate: Window 'FirstPersonGameMode_Card' being destroyed
+[2019.11.01-09.47.09:509][633]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.11.01-09.47.09:532][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-09.47.09:532][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.01-09.47.09:532][633]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 11. 2. 오전 3:47:09)
+[2019.11.01-09.47.09:532][633]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.01-09.47.09:549][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016721s)
+[2019.11.01-09.47.09:550][633]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.01-09.47.09:550][633]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2019.11.01-09.47.09:550][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017574s)
+[2019.11.01-09.47.09:578][633]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.01-09.47.09:585][633]LogInit: FAudioDevice initialized.
+[2019.11.01-09.47.09:627][633]LogLoad: Game class is 'FirstPersonGameMode_Card_C'
+[2019.11.01-09.47.09:630][633]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.01-18.47.09
+[2019.11.01-09.47.09:631][633]LogWorld: Bringing up level for play took: 0.002017
+[2019.11.01-09.47.09:631][633]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.11.01-09.47.09:633][633]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2019.11.01-09.47.09:634][633]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.8
+[2019.11.01-09.47.09:634][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-09.47.13:674][114]LogBlueprintUserMessages: [BP_Card_1_C_0] 1
+[2019.11.01-09.47.15:850][375]LogBlueprintUserMessages: [BP_Card_3_C_1] 3
+[2019.11.01-09.47.20:594][944]LogBlueprintUserMessages: [BP_Card_1_C_1] 1
+[2019.11.01-09.47.22:952][227]LogBlueprintUserMessages: [BP_Card_2_C_0] 2
+[2019.11.01-09.47.24:672][433]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-09.47.24:703][433]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-09.47.29:014][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-09.47.40:698][312]LogSlate: Window 'FirstPersonGameMode_Card' being destroyed
+[2019.11.01-09.47.43:087][552]LogSlate: Took 0.003348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.01-09.47.46:194][921]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f92b582c48, Size=4, Default__SKEL_FirstPersonCharacter_Card_C Function /Game/card/BluePrint/FirstPersonCharacter_Card.SKEL_FirstPersonCharacter_Card_C:ExecuteUbergraph_FirstPersonCharacter_Card
+[2019.11.01-09.47.48:299][152]BlueprintLog: New page: FirstPersonCharacter_Card 컴파일
+[2019.11.01-09.47.48:313][152]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f92b582c48, Size=4
+[2019.11.01-09.47.48:313][152]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f918f0e830, Size=4, Default__SKEL_FirstPersonCharacter_Card_C Function /Engine/Transient.REINST_SKEL_FirstPersonCharacter_Card_C_53:ExecuteUbergraph_FirstPersonCharacter_Card
+[2019.11.01-09.47.48:328][152]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d8fb7100, Size=752
+[2019.11.01-09.47.48:328][152]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f91ca4fa00, Size=752, Default__FirstPersonCharacter_Card_C Function /Engine/Transient.REINST_FirstPersonCharacter_Card_C_55:ExecuteUbergraph_FirstPersonCharacter_Card
+[2019.11.01-09.47.48:334][152]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f91ca4d600, Size=752, Default__FirstPersonCharacter_Card_C Function /Game/card/BluePrint/FirstPersonCharacter_Card.FirstPersonCharacter_Card_C:ExecuteUbergraph_FirstPersonCharacter_Card
+[2019.11.01-09.47.48:512][152]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f918f0e830, Size=4
+[2019.11.01-09.47.49:002][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/card/BluePrint/FirstPersonCharacter_Card" FILE="../../../../Test_Project/Card_1029/Content/card/BluePrint/FirstPersonCharacter_Card.uasset" SILENT=true
+[2019.11.01-09.47.49:072][193]LogSavePackage: Save=61.82ms
+[2019.11.01-09.47.49:072][193]LogSavePackage: Moving '../../../../Test_Project/Card_1029/Saved/FirstPersonCharacter_CardBB3E0CC14220A70EF44ED9BE4995E810.tmp' to '../../../../Test_Project/Card_1029/Content/card/BluePrint/FirstPersonCharacter_Card.uasset'
+[2019.11.01-09.47.49:074][193]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/Card_1029/Content/card/BluePrint/FirstPersonCharacter_Card.uasset
+[2019.11.01-09.50.32:531][718]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f93de32100, Size=16, Default__NewWidgetBlueprint_C Function /Game/card/BluePrint/NewWidgetBlueprint.NewWidgetBlueprint_C:ExecuteUbergraph_NewWidgetBlueprint
+[2019.11.01-09.50.32:533][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f93de32100, Size=16
+[2019.11.01-09.50.32:533][718]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f93de32100, Size=16, Default__NewWidgetBlueprint_C Function /Engine/Transient.REINST_NewWidgetBlueprint_C_1:ExecuteUbergraph_NewWidgetBlueprint
+[2019.11.01-09.50.32:534][718]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f93de30430, Size=16, Default__NewWidgetBlueprint_C Function /Game/card/BluePrint/NewWidgetBlueprint.NewWidgetBlueprint_C:ExecuteUbergraph_NewWidgetBlueprint
+[2019.11.01-09.52.14:306][656]LogSlate: Window '애셋을 다른 이름으로 저장' being destroyed
+[2019.11.01-09.52.26:321][ 48]LogMaterial: Missing cached shader map for material 화투뒷_Mat, compiling. 
+[2019.11.01-09.52.26:341][ 49]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.01-09.52.26:341][ 49]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.01-09.52.33:049][681]LogSlate: Window '애셋을 다른 이름으로 저장' being destroyed
+[2019.11.01-09.52.44:745][ 17]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.11.01-09.52.44:768][ 17]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-09.52.44:769][ 17]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.11.01-09.52.44:769][ 17]LogPlayLevel: [PlayLevel] Compiling WD_Click before play...
+[2019.11.01-09.52.44:890][ 17]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f93de32100, Size=16
+[2019.11.01-09.52.44:892][ 17]LogPlayLevel: PlayLevel: Blueprint regeneration took 124 ms (1 blueprints)
+[2019.11.01-09.52.44:892][ 17]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 11. 2. 오전 3:52:44)
+[2019.11.01-09.52.44:892][ 17]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.01-09.52.44:904][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011435s)
+[2019.11.01-09.52.44:904][ 17]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.01-09.52.44:905][ 17]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2019.11.01-09.52.44:905][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012366s)
+[2019.11.01-09.52.44:940][ 17]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.01-09.52.44:948][ 17]LogInit: FAudioDevice initialized.
+[2019.11.01-09.52.44:993][ 17]LogLoad: Game class is 'FirstPersonGameMode_Card_C'
+[2019.11.01-09.52.44:996][ 17]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.01-18.52.44
+[2019.11.01-09.52.44:996][ 17]LogWorld: Bringing up level for play took: 0.001993
+[2019.11.01-09.52.44:997][ 17]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.11.01-09.52.44:997][ 17]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.164
+[2019.11.01-09.52.44:997][ 17]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-09.52.46:824][231]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-09.52.46:860][231]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-09.52.50:536][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-09.52.52:140][850]LogMaterial: Missing cached shader map for material 화투뒷_Mat, compiling. 
+[2019.11.01-09.52.52:376][850]LogMaterial: Missing cached shader map for material 화투뒷_Mat, compiling. 
+[2019.11.01-09.52.52:380][850]LogMaterial: Missing cached shader map for material 화투뒷_Mat, compiling. 
+[2019.11.01-09.52.52:397][850]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.01-09.52.52:397][850]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.01-09.52.52:397][850]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.01-09.52.52:397][850]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.01-09.52.52:397][850]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.01-09.52.52:397][850]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.01-09.52.52:397][850]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.01-09.52.52:397][850]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.01-09.52.52:409][850]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.11.01-09.52.52:411][850]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.01-09.52.52:414][850]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2019.11.01-09.52.53:019][914]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.01-09.52.53:033][916]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.01-09.52.53:049][918]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.01-09.52.53:049][918]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.01-09.52.53:049][918]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.01-09.52.53:049][918]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.01-09.52.53:092][923]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.01-09.52.53:100][924]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.01-09.52.53:128][927]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.01-09.52.53:166][931]MaterialEditorStats: Default UI Pixel Shader: 15 instructions
+[2019.11.01-09.52.53:166][931]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2019.11.01-09.52.53:166][931]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2019.11.01-09.52.53:166][931]MaterialEditorStats: Texture samplers: 1/16
+[2019.11.01-09.52.57:842][489]LogEditorTransaction: Undo 프로퍼티 편집
+[2019.11.01-09.52.57:867][489]LogMaterial: Missing cached shader map for material 화투뒷_Mat, compiling. 
+[2019.11.01-09.52.57:896][490]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.01-09.52.57:896][490]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.01-09.52.57:896][490]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.01-09.52.57:896][490]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.01-09.52.57:896][490]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.01-09.52.57:896][490]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.01-09.52.57:896][490]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.01-09.52.57:896][490]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.01-09.52.58:029][504]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.01-09.52.58:050][505]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.01-09.52.58:052][506]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.01-09.52.58:157][517]MaterialEditorStats: Default UI Pixel Shader: 15 instructions
+[2019.11.01-09.52.58:157][517]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2019.11.01-09.52.58:157][517]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2019.11.01-09.52.58:157][517]MaterialEditorStats: Texture samplers: 1/16
+[2019.11.01-09.52.58:982][615]LogEditorTransaction: Undo Image 편집
+[2019.11.01-09.52.59:007][615]LogMaterial: Missing cached shader map for material 화투뒷_Mat, compiling. 
+[2019.11.01-09.52.59:032][616]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.01-09.52.59:032][616]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.01-09.52.59:032][616]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.01-09.52.59:032][616]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.01-09.52.59:032][616]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.01-09.52.59:032][616]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.01-09.52.59:032][616]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.01-09.52.59:032][616]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.01-09.52.59:179][632]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.01-09.52.59:196][634]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.01-09.52.59:196][634]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.01-09.52.59:297][646]MaterialEditorStats: Default UI Pixel Shader: 15 instructions
+[2019.11.01-09.52.59:298][646]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2019.11.01-09.52.59:298][646]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2019.11.01-09.52.59:298][646]MaterialEditorStats: Texture samplers: 1/16
+[2019.11.01-09.53.24:944][698]LogMaterial: Missing cached shader map for material 화투뒷면_Mat, compiling. 
+[2019.11.01-09.53.25:014][698]LogMaterial: Missing cached shader map for material 화투뒷면_Mat, compiling. 
+[2019.11.01-09.53.25:021][698]LogMaterial: Missing cached shader map for material 화투뒷면_Mat, compiling. 
+[2019.11.01-09.53.25:041][698]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.01-09.53.25:041][698]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.01-09.53.25:041][698]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.01-09.53.25:041][698]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.01-09.53.25:041][698]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.01-09.53.25:041][698]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.01-09.53.25:041][698]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.01-09.53.25:041][698]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.01-09.53.25:710][764]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.01-09.53.25:718][765]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.01-09.53.25:718][765]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.01-09.53.25:751][769]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.01-09.53.25:759][770]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.01-09.53.25:759][770]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.01-09.53.25:759][770]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.01-09.53.25:878][783]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.01-09.53.26:084][807]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.11.01-09.53.26:084][807]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.11.01-09.53.26:084][807]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.11.01-09.53.26:084][807]MaterialEditorStats: Texture samplers: 2/16
+[2019.11.01-09.53.40:285][506]LogMaterial: Missing cached shader map for material 화투뒷면_Mat, compiling. 
+[2019.11.01-09.53.40:292][506]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.11.01-09.53.40:294][506]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.01-09.53.40:297][506]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2019.11.01-09.53.40:310][507]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.01-09.53.40:310][507]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.01-09.53.40:310][507]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.01-09.53.40:310][507]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.01-09.53.40:310][507]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.01-09.53.40:310][507]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.01-09.53.40:310][507]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.01-09.53.40:310][507]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.01-09.53.40:461][525]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.01-09.53.40:477][527]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.01-09.53.40:487][528]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.01-09.53.40:487][528]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.01-09.53.40:510][531]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.01-09.53.40:510][531]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.01-09.53.40:510][531]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.01-09.53.40:653][546]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.01-09.53.40:672][548]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.01-09.53.40:702][551]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.01-09.53.40:792][561]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.01-09.53.40:811][563]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.01-09.53.40:822][564]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.01-09.53.40:843][566]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.01-09.53.40:875][569]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.11.01-09.53.40:875][569]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.11.01-09.53.40:875][569]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.11.01-09.53.40:875][569]MaterialEditorStats: Texture samplers: 2/16
+[2019.11.01-09.53.43:900][931]LogMaterial: Missing cached shader map for material 화투뒷면_Mat, compiling. 
+[2019.11.01-09.53.43:913][931]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.11.01-09.53.43:926][931]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.01-09.53.43:926][931]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.01-09.53.43:926][931]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.01-09.53.43:926][931]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.01-09.53.43:926][931]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.01-09.53.43:926][931]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.01-09.53.43:926][931]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.01-09.53.43:926][931]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.01-09.53.43:942][931]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.01-09.53.43:971][931]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2019.11.01-09.53.44:091][940]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.01-09.53.44:107][942]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.01-09.53.44:107][942]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.01-09.53.44:131][945]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.01-09.53.44:131][945]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.01-09.53.44:131][945]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.01-09.53.44:131][945]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.01-09.53.44:307][963]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.01-09.53.44:317][964]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.01-09.53.44:338][966]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.01-09.53.44:465][980]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.01-09.53.44:476][981]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.01-09.53.44:496][983]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.01-09.53.44:496][983]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.01-09.53.44:542][987]MaterialEditorStats: Base pass shader: 100 instructions
+[2019.11.01-09.53.44:542][987]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2019.11.01-09.53.44:542][987]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.11.01-09.53.44:542][987]MaterialEditorStats: Texture samplers: 2/16
+[2019.11.01-09.53.45:822][140]LogMaterial: Missing cached shader map for material 화투뒷면_Mat, compiling. 
+[2019.11.01-09.53.45:833][140]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.01-09.53.45:833][140]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.01-09.53.45:833][140]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.01-09.53.45:833][140]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.01-09.53.45:833][140]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.01-09.53.45:833][140]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.01-09.53.45:833][140]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.01-09.53.45:833][140]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.01-09.53.45:835][140]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.01-09.53.46:013][154]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.01-09.53.46:039][157]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.01-09.53.46:040][157]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.01-09.53.46:058][159]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.01-09.53.46:073][161]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.01-09.53.46:073][161]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.01-09.53.46:073][161]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.01-09.53.46:216][177]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.01-09.53.46:242][178]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.01-09.53.46:291][184]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.01-09.53.46:439][201]MaterialEditorStats: Base pass shader: 102 instructions
+[2019.11.01-09.53.46:439][201]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2019.11.01-09.53.46:439][201]MaterialEditorStats: Vertex shader: 38 instructions
+[2019.11.01-09.53.46:439][201]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.01-09.53.46:439][201]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.01-09.53.48:819][486]LogMaterial: Missing cached shader map for material 화투뒷면_Mat, compiling. 
+[2019.11.01-09.53.48:831][486]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.01-09.53.48:831][486]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.01-09.53.48:831][486]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.01-09.53.48:831][486]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.01-09.53.48:831][486]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.01-09.53.48:831][486]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.01-09.53.48:831][486]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.01-09.53.48:831][486]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.01-09.53.48:833][486]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2019.11.01-09.53.49:000][503]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.01-09.53.49:014][505]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.01-09.53.49:023][506]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.01-09.53.49:031][507]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.01-09.53.49:049][509]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.01-09.53.49:049][509]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.01-09.53.49:066][511]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.01-09.53.49:185][524]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.01-09.53.49:213][527]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.01-09.53.49:256][532]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.01-09.53.49:413][550]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.11.01-09.53.49:413][550]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.11.01-09.53.49:413][550]MaterialEditorStats: Vertex shader: 38 instructions
+[2019.11.01-09.53.49:414][550]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.01-09.53.49:414][550]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.01-09.53.50:790][715]LogMaterialEditor: Saving and Compiling material 화투뒷면_Mat
+[2019.11.01-09.53.51:187][715]LogMaterial: Missing cached shader map for material 화투뒷면_Mat, compiling. 
+[2019.11.01-09.53.51:208][715]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.01-09.53.51:208][715]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.01-09.53.51:208][715]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.01-09.53.51:208][715]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.01-09.53.51:208][715]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.01-09.53.51:208][715]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.01-09.53.51:208][715]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.01-09.53.51:208][715]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.01-09.53.51:221][715]LogMaterial: Missing cached shader map for material 화투뒷면_Mat, compiling. 
+[2019.11.01-09.53.51:235][715]LogMaterial: Missing cached shader map for material 화투뒷면_Mat, compiling. 
+[2019.11.01-09.53.51:268][715]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 화투뒷면_Mat, compiling. 
+[2019.11.01-09.53.51:731][715]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.11.01-09.53.51:731][715]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.01-09.53.51:731][715]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.11.01-09.53.51:731][715]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.11.01-09.53.51:731][715]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.11.01-09.53.51:731][715]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.11.01-09.53.51:731][715]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.11.01-09.53.51:731][715]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.11.01-09.53.51:731][715]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.11.01-09.53.51:731][715]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.11.01-09.53.51:732][715]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.01-09.53.51:732][715]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.01-09.53.51:733][715]TextureStreamingBuild: Display: Compiling optional shaders took 0.470 seconds.
+[2019.11.01-09.53.53:196][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/card/Material/화투뒷면_Mat" FILE="../../../../Test_Project/Card_1029/Content/card/Material/화투뒷면_Mat.uasset" SILENT=true
+[2019.11.01-09.53.53:211][715]LogSavePackage: Save=13.95ms
+[2019.11.01-09.53.53:211][715]LogSavePackage: Moving '../../../../Test_Project/Card_1029/Saved/화투뒷면_Mat0839063546F99E27EC3FFB882403F0EA.tmp' to '../../../../Test_Project/Card_1029/Content/card/Material/화투뒷면_Mat.uasset'
+[2019.11.01-09.53.53:213][715]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/Card_1029/Content/card/Material/화투뒷면_Mat.uasset
+[2019.11.01-09.53.53:243][715]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.11.01-09.53.53:243][715]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.11.01-09.53.53:243][715]MaterialEditorStats: Vertex shader: 38 instructions
+[2019.11.01-09.53.53:243][715]MaterialEditorStats: Texture samplers: 5/16
+[2019.11.01-09.53.53:243][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.01-09.53.56:947][995]LogSlate: Window '메시지' being destroyed
+[2019.11.01-09.54.05:710][  8]LogRenderer: Reallocating scene render targets to support 1208x792 Format 10 NumSamples 1 (Frame:1).
+[2019.11.01-09.54.12:774][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-09.54.12:841][850]BlueprintLog: New page: BP_Card_1 컴파일
+[2019.11.01-09.54.12:849][850]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8d935ec80, Size=368
+[2019.11.01-09.54.12:849][850]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f91b4d2200, Size=368, Default__BP_Card_1_C Function /Engine/Transient.REINST_BP_Card_1_C_73:ExecuteUbergraph_BP_Card_1
+[2019.11.01-09.54.12:851][850]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f88d6d5000, Size=368, Default__BP_Card_1_C Function /Game/card/BluePrint/BP_Card_1.BP_Card_1_C:ExecuteUbergraph_BP_Card_1
+[2019.11.01-09.54.13:435][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/card/BluePrint/BP_Card_1" FILE="../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card_1.uasset" SILENT=true
+[2019.11.01-09.54.13:467][887]LogSavePackage: Save=22.88ms
+[2019.11.01-09.54.13:467][887]LogSavePackage: Moving '../../../../Test_Project/Card_1029/Saved/BP_Card_128B9FCF64FC9D3D98A751DAC7C7C76B5.tmp' to '../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card_1.uasset'
+[2019.11.01-09.54.13:469][887]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card_1.uasset
+[2019.11.01-09.54.19:908][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/card/BluePrint/BP_Card_2" FILE="../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card_2.uasset" SILENT=true
+[2019.11.01-09.54.19:938][607]LogSavePackage: Save=22.90ms
+[2019.11.01-09.54.19:938][607]LogSavePackage: Moving '../../../../Test_Project/Card_1029/Saved/BP_Card_2509C226D497575E1E563E5988098BC00.tmp' to '../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card_2.uasset'
+[2019.11.01-09.54.19:940][607]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card_2.uasset
+[2019.11.01-09.54.25:343][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/card/BluePrint/BP_Card_3" FILE="../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card_3.uasset" SILENT=true
+[2019.11.01-09.54.25:374][203]LogSavePackage: Save=23.37ms
+[2019.11.01-09.54.25:374][203]LogSavePackage: Moving '../../../../Test_Project/Card_1029/Saved/BP_Card_3279903EC47CB636D5DAEC082799B394B.tmp' to '../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card_3.uasset'
+[2019.11.01-09.54.25:376][203]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card_3.uasset
+[2019.11.01-09.54.31:067][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/card/BluePrint/BP_Card_4" FILE="../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card_4.uasset" SILENT=true
+[2019.11.01-09.54.31:098][833]LogSavePackage: Save=22.87ms
+[2019.11.01-09.54.31:098][833]LogSavePackage: Moving '../../../../Test_Project/Card_1029/Saved/BP_Card_4F7844033458AB4124A27EDBDFF5CD41F.tmp' to '../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card_4.uasset'
+[2019.11.01-09.54.31:100][833]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card_4.uasset
+[2019.11.01-09.54.42:319][162]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f91b4d2200, Size=368
+[2019.11.01-09.54.43:261][162]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.01-09.54.47:754][689]BlueprintLog: New page: WD_Click 컴파일
+[2019.11.01-09.54.48:429][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/card/BluePrint/WD_Click" FILE="../../../../Test_Project/Card_1029/Content/card/BluePrint/WD_Click.uasset" SILENT=true
+[2019.11.01-09.54.48:438][760]LogSavePackage: Save=8.29ms
+[2019.11.01-09.54.48:438][760]LogSavePackage: Moving '../../../../Test_Project/Card_1029/Saved/WD_Click1D63258E40D8A4DD197ED18C4780BF09.tmp' to '../../../../Test_Project/Card_1029/Content/card/BluePrint/WD_Click.uasset'
+[2019.11.01-09.54.48:440][760]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/Card_1029/Content/card/BluePrint/WD_Click.uasset
+[2019.11.01-09.54.54:780][324]LogSlate: Window '애셋을 다른 이름으로 저장' being destroyed
+[2019.11.01-09.55.38:638][867]BlueprintLog: New page: WD_Click 컴파일
+[2019.11.01-09.55.39:342][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/card/BluePrint/WD_Click" FILE="../../../../Test_Project/Card_1029/Content/card/BluePrint/WD_Click.uasset" SILENT=true
+[2019.11.01-09.55.39:356][941]LogSavePackage: Save=6.64ms
+[2019.11.01-09.55.39:356][941]LogSavePackage: Moving '../../../../Test_Project/Card_1029/Saved/WD_Click615DCD6F4FBE44C91DEC929F52BFA7E2.tmp' to '../../../../Test_Project/Card_1029/Content/card/BluePrint/WD_Click.uasset'
+[2019.11.01-09.55.39:358][941]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/Card_1029/Content/card/BluePrint/WD_Click.uasset
+[2019.11.01-09.56.15:050][190]LogMaterial: Missing cached shader map for material 화투뒷면_Mat, compiling. 
+[2019.11.01-09.56.15:109][190]LogMaterial: Missing cached shader map for material 화투뒷면_Mat, compiling. 
+[2019.11.01-09.56.15:116][190]LogMaterial: Missing cached shader map for material 화투뒷면_Mat, compiling. 
+[2019.11.01-09.56.15:128][190]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.01-09.56.15:128][190]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.01-09.56.15:128][190]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.01-09.56.15:128][190]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.01-09.56.15:128][190]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.01-09.56.15:128][190]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.01-09.56.15:128][190]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.01-09.56.15:128][190]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.01-09.56.15:152][190]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.11.01-09.56.15:154][190]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.01-09.56.15:157][190]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2019.11.01-09.56.15:774][249]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.01-09.56.15:792][251]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.01-09.56.15:800][252]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.01-09.56.15:800][252]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.01-09.56.15:800][252]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.01-09.56.15:800][252]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.01-09.56.15:800][252]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.01-09.56.15:922][266]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.01-09.56.15:999][273]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.01-09.56.16:031][276]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.01-09.56.16:124][286]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.01-09.56.16:143][288]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.01-09.56.16:150][289]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.01-09.56.16:150][289]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.01-09.56.16:206][295]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.11.01-09.56.16:206][295]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.11.01-09.56.16:206][295]MaterialEditorStats: Vertex shader: 38 instructions
+[2019.11.01-09.56.16:206][295]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.01-09.56.16:206][295]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.01-09.56.39:924][118]LogEditorTransaction: Undo 컴포넌트 변경
+[2019.11.01-09.56.43:407][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-09.57.26:145][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-09.57.26:253][659]BlueprintLog: New page: BP_Card_1 컴파일
+[2019.11.01-09.57.26:260][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f88d6d5000, Size=368
+[2019.11.01-09.57.26:260][659]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f926e75000, Size=368, Default__BP_Card_1_C Function /Engine/Transient.REINST_BP_Card_1_C_83:ExecuteUbergraph_BP_Card_1
+[2019.11.01-09.57.26:262][659]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f90b4cbb80, Size=368, Default__BP_Card_1_C Function /Game/card/BluePrint/BP_Card_1.BP_Card_1_C:ExecuteUbergraph_BP_Card_1
+[2019.11.01-09.57.27:085][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/card/BluePrint/BP_Card_1" FILE="../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card_1.uasset" SILENT=true
+[2019.11.01-09.57.27:111][724]LogSavePackage: Save=22.58ms
+[2019.11.01-09.57.27:111][724]LogSavePackage: Moving '../../../../Test_Project/Card_1029/Saved/BP_Card_13DEDDA3743DD769A58D14A9D81C74272.tmp' to '../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card_1.uasset'
+[2019.11.01-09.57.27:113][724]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card_1.uasset
+[2019.11.01-09.57.38:006][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.01-09.58.10:168][835]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f926e75000, Size=368
+[2019.11.01-09.58.10:195][835]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8e1422ed8, Size=4
+[2019.11.01-09.58.10:195][835]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f96812dee0, Size=4, Default__FirstPersonExampleMap_C Function /Engine/Transient.REINST_FirstPersonExampleMap_C_87:ExecuteUbergraph_FirstPersonExampleMap
+[2019.11.01-09.58.10:199][835]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f96812e2c0, Size=4, Default__FirstPersonExampleMap_C Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2019.11.01-09.58.10:327][835]LogSavePackage: Save=144.07ms
+[2019.11.01-09.58.10:327][835]LogSavePackage: Moving '../../../../Test_Project/Card_1029/Saved/FirstPersonExampleMap_Auto13BCBC2A848432A3CFE4348971ED05B6A.tmp' to '../../../../Test_Project/Card_1029/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.11.01-09.58.10:327][835]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/Card_1029/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2019.11.01-09.58.10:329][835]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.179
+[2019.11.01-09.58.10:329][835]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.179
+[2019.11.01-09.58.23:613][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-09.58.41:093][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/card/BluePrint/WD_Click" FILE="../../../../Test_Project/Card_1029/Content/card/BluePrint/WD_Click.uasset" SILENT=true
+[2019.11.01-09.58.41:105][209]LogSavePackage: Save=7.58ms
+[2019.11.01-09.58.41:105][209]LogSavePackage: Moving '../../../../Test_Project/Card_1029/Saved/WD_Click1C4325A7456140660BF60D819C9BF0F7.tmp' to '../../../../Test_Project/Card_1029/Content/card/BluePrint/WD_Click.uasset'
+[2019.11.01-09.58.41:105][209]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/Card_1029/Content/card/BluePrint/WD_Click.uasset
+[2019.11.01-09.58.59:769][383]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.01-09.59.06:914][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-09.59.06:972][241]BlueprintLog: New page: BP_Card 컴파일
+[2019.11.01-09.59.07:105][241]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f96812dee0, Size=4
+[2019.11.01-09.59.07:504][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/card/BluePrint/BP_Card" FILE="../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card.uasset" SILENT=true
+[2019.11.01-09.59.07:519][280]LogSavePackage: Save=8.02ms
+[2019.11.01-09.59.07:519][280]LogSavePackage: Moving '../../../../Test_Project/Card_1029/Saved/BP_Card7A347A0D4A89D29D03B1DE83C337917A.tmp' to '../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card.uasset'
+[2019.11.01-09.59.07:521][280]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card.uasset
+[2019.11.01-09.59.15:974][289]BlueprintLog: New page: BP_Card 컴파일
+[2019.11.01-09.59.16:554][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/card/BluePrint/BP_Card" FILE="../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card.uasset" SILENT=true
+[2019.11.01-09.59.16:566][333]LogSavePackage: Save=8.94ms
+[2019.11.01-09.59.16:566][333]LogSavePackage: Moving '../../../../Test_Project/Card_1029/Saved/BP_Card62C36B0841377F5D4DE90393B422DD04.tmp' to '../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card.uasset'
+[2019.11.01-09.59.16:568][333]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/Card_1029/Content/card/BluePrint/BP_Card.uasset
+[2019.11.01-09.59.32:442][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-09.59.37:316][777]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.11.01-09.59.37:348][777]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-09.59.37:348][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.01-09.59.37:348][777]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 11. 2. 오전 3:59:37)
+[2019.11.01-09.59.37:348][777]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.01-09.59.37:359][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010751s)
+[2019.11.01-09.59.37:360][777]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.01-09.59.37:360][777]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2019.11.01-09.59.37:360][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011622s)
+[2019.11.01-09.59.37:400][777]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.01-09.59.37:408][777]LogInit: FAudioDevice initialized.
+[2019.11.01-09.59.37:442][777]LogLoad: Game class is 'FirstPersonGameMode_Card_C'
+[2019.11.01-09.59.37:445][777]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.01-18.59.37
+[2019.11.01-09.59.37:445][777]LogWorld: Bringing up level for play took: 0.001993
+[2019.11.01-09.59.37:445][777]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.11.01-09.59.37:446][777]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.612
+[2019.11.01-09.59.37:446][777]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-09.59.48:977][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-09.59.49:008][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-09.59.53:888][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-10.00.04:178][943]Cmd: DELETE
+[2019.11.01-10.00.04:178][943]Cmd: ACTOR DELETE
+[2019.11.01-10.00.04:180][943]LogEditorActor: Deleted Actor: BP_Card_1_C
+[2019.11.01-10.00.04:199][943]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.11.01-10.00.04:915][ 26]LogEditorViewport: Clicking on Actor (LMB): BP_Card_1_C (BP_Card_1)
+[2019.11.01-10.00.17:664][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-10.00.25:777][501]LogEditorViewport: Clicking on Actor (LMB): BP_Card_C (BP_Card)
+[2019.11.01-10.00.30:692][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-10.00.30:774][ 91]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.11.01-10.00.30:803][ 91]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-10.00.30:803][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.01-10.00.30:804][ 91]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 11. 2. 오전 4:00:30)
+[2019.11.01-10.00.30:804][ 91]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.01-10.00.30:814][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010527s)
+[2019.11.01-10.00.30:815][ 91]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.01-10.00.30:815][ 91]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2019.11.01-10.00.30:815][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011323s)
+[2019.11.01-10.00.30:850][ 91]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.01-10.00.30:857][ 91]LogInit: FAudioDevice initialized.
+[2019.11.01-10.00.30:890][ 91]LogLoad: Game class is 'FirstPersonGameMode_Card_C'
+[2019.11.01-10.00.30:893][ 91]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.01-19.00.30
+[2019.11.01-10.00.30:893][ 91]LogWorld: Bringing up level for play took: 0.002039
+[2019.11.01-10.00.30:893][ 91]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.11.01-10.00.30:893][ 91]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.06
+[2019.11.01-10.00.30:894][ 91]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-10.01.25:815][670]LogBlueprintUserMessages: [BP_Card_113] 1
+[2019.11.01-10.02.13:338][367]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-10.02.13:374][367]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-10.02.24:264][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-10.02.24:314][668]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.11.01-10.02.24:341][668]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-10.02.24:341][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.01-10.02.24:341][668]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 11. 2. 오전 4:02:24)
+[2019.11.01-10.02.24:341][668]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.01-10.02.24:354][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012443s)
+[2019.11.01-10.02.24:354][668]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.01-10.02.24:354][668]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2019.11.01-10.02.24:354][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013260s)
+[2019.11.01-10.02.24:388][668]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.01-10.02.24:396][668]LogInit: FAudioDevice initialized.
+[2019.11.01-10.02.24:424][668]LogLoad: Game class is 'FirstPersonGameMode_Card_C'
+[2019.11.01-10.02.24:426][668]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.01-19.02.24
+[2019.11.01-10.02.24:427][668]LogWorld: Bringing up level for play took: 0.001942
+[2019.11.01-10.02.24:427][668]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.11.01-10.02.24:427][668]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.407
+[2019.11.01-10.02.24:427][668]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-10.02.25:475][788]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-10.02.25:510][788]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.01-10.02.27:436][ 12]LogEditorViewport: Clicking on Actor (LMB): BP_Card_C (BP_Card)
+[2019.11.01-10.02.29:807][293]Cmd: DELETE
+[2019.11.01-10.02.29:807][293]Cmd: ACTOR DELETE
+[2019.11.01-10.02.29:809][293]LogEditorActor: Deleted Actor: BP_Card_C
+[2019.11.01-10.02.29:827][293]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.11.01-10.02.30:984][429]LogEditorViewport: Clicking on Actor (LMB): BP_Card_1_C (BP_Card_1)
+[2019.11.01-10.02.31:644][505]LogEditorViewport: Clicking on Actor (context menu): BP_Card_1_C (BP_Card_1)
+[2019.11.01-10.02.31:662][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.01-10.02.32:221][571]LogEditorViewport: Clicking on Actor (LMB): BP_Card_1_C (BP_Card_1)
+[2019.11.01-10.02.33:341][703]Cmd: DELETE
+[2019.11.01-10.02.33:341][703]Cmd: ACTOR DELETE
+[2019.11.01-10.02.33:343][703]LogEditorActor: Deleted Actor: BP_Card_1_C
+[2019.11.01-10.02.33:361][703]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.11.01-10.02.41:707][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-10.03.39:505][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-10.03.53:282][236]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f9890716c8, Size=4, Default__SKEL_BP_Card_1_C Function /Game/card/BluePrint/BP_Card_1.SKEL_BP_Card_1_C:ExecuteUbergraph_BP_Card_1
+[2019.11.01-10.04.10:397][269]LogEditorTransaction: Undo 새 씬 루트로 만들기
+[2019.11.01-10.04.19:850][389]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f9890716c8, Size=4
+[2019.11.01-10.04.19:850][389]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f98df5df80, Size=4, Default__SKEL_BP_Card_1_C Function /Engine/Transient.REINST_SKEL_BP_Card_1_C_99:ExecuteUbergraph_BP_Card_1
+[2019.11.01-10.04.19:851][389]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f98df5d530, Size=4, Default__SKEL_BP_Card_1_C Function /Game/card/BluePrint/BP_Card_1.SKEL_BP_Card_1_C:ExecuteUbergraph_BP_Card_1
+[2019.11.01-10.04.28:131][367]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.01-10.04.40:166][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-10.05.20:865][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-10.05.55:120][723]BlueprintLog: New page: WD_Click 컴파일
+[2019.11.01-10.05.55:219][723]PIE: '/Engine/Transient.World_13:None' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2019.11.01-10.05.55:219][723]PIE: '/Engine/Transient.World_25:None' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2019.11.01-10.05.55:219][723]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f98df5df80, Size=4
+[2019.11.01-10.06.03:647][724]BlueprintLog: New page: BP_Card_1 컴파일
+[2019.11.01-10.06.03:650][724]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f98df5d530, Size=4
+[2019.11.01-10.06.03:650][724]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f98df5d530, Size=4, Default__SKEL_BP_Card_1_C Function /Engine/Transient.REINST_SKEL_BP_Card_1_C_103:ExecuteUbergraph_BP_Card_1
+[2019.11.01-10.06.03:654][724]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f90b4cbb80, Size=368
+[2019.11.01-10.06.03:654][724]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8bc2aa500, Size=368, Default__BP_Card_1_C Function /Engine/Transient.REINST_BP_Card_1_C_107:ExecuteUbergraph_BP_Card_1
+[2019.11.01-10.06.03:656][724]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f926c09480, Size=368, Default__BP_Card_1_C Function /Game/card/BluePrint/BP_Card_1.BP_Card_1_C:ExecuteUbergraph_BP_Card_1
+[2019.11.01-10.06.03:848][724]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f98df5d530, Size=4
+[2019.11.01-10.07.23:923][309]BlueprintLog: New page: WD_Click 컴파일
+[2019.11.01-10.07.24:017][309]PIE: '/Engine/Transient.World_25:None' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2019.11.01-10.07.24:018][309]PIE: '/Engine/Transient.World_13:None' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2019.11.01-10.07.24:610][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/card/BluePrint/WD_Click" FILE="../../../../Test_Project/Card_1029/Content/card/BluePrint/WD_Click.uasset" SILENT=true
+[2019.11.01-10.07.24:625][374]LogSavePackage: Save=7.40ms
+[2019.11.01-10.07.24:625][374]LogSavePackage: Moving '../../../../Test_Project/Card_1029/Saved/WD_Click895947F54A52E605BFCCA7A2CA7C34EF.tmp' to '../../../../Test_Project/Card_1029/Content/card/BluePrint/WD_Click.uasset'
+[2019.11.01-10.07.24:627][374]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/Card_1029/Content/card/BluePrint/WD_Click.uasset
+[2019.11.01-10.07.29:049][901]BlueprintLog: New page: BP_Card_1 컴파일
+[2019.11.01-10.07.29:056][901]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f926c09480, Size=368
+[2019.11.01-10.07.29:057][901]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f92d381300, Size=368, BP_Card_1_C_338 Function /Engine/Transient.REINST_BP_Card_1_C_115:ExecuteUbergraph_BP_Card_1
+[2019.11.01-10.07.29:058][901]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f933018880, Size=368, Default__BP_Card_1_C Function /Game/card/BluePrint/BP_Card_1.BP_Card_1_C:ExecuteUbergraph_BP_Card_1
+[2019.11.01-10.07.39:042][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-10.08.02:710][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-10.08.18:062][733]BlueprintLog: New page: WD_Click 컴파일
+[2019.11.01-10.08.18:156][733]PIE: '/Engine/Transient.World_13:None' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2019.11.01-10.08.18:157][733]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f92d381300, Size=368
+[2019.11.01-10.08.18:610][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/card/BluePrint/WD_Click" FILE="../../../../Test_Project/Card_1029/Content/card/BluePrint/WD_Click.uasset" SILENT=true
+[2019.11.01-10.08.18:621][781]LogSavePackage: Save=7.71ms
+[2019.11.01-10.08.18:621][781]LogSavePackage: Moving '../../../../Test_Project/Card_1029/Saved/WD_ClickA80BD7C247B3A2EBC411A18E349A4E83.tmp' to '../../../../Test_Project/Card_1029/Content/card/BluePrint/WD_Click.uasset'
+[2019.11.01-10.08.18:624][781]LogSavePackage: Display: Finished SavePackage ../../../../Test_Project/Card_1029/Content/card/BluePrint/WD_Click.uasset
+[2019.11.01-10.08.20:652][ 21]BlueprintLog: New page: BP_Card_1 컴파일
+[2019.11.01-10.08.20:659][ 21]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f933018880, Size=368
+[2019.11.01-10.08.20:659][ 21]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f9541e6e00, Size=368, BP_Card_1_C_355 Function /Engine/Transient.REINST_BP_Card_1_C_123:ExecuteUbergraph_BP_Card_1
+[2019.11.01-10.08.20:661][ 21]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f97adaac80, Size=368, Default__BP_Card_1_C Function /Game/card/BluePrint/BP_Card_1.BP_Card_1_C:ExecuteUbergraph_BP_Card_1
+[2019.11.01-10.08.27:925][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.01-10.08.43:180][683]LogEditorTransaction: Undo 스케일 설정
+[2019.11.01-10.08.43:646][683]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.464 s
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: 
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: 
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: Stack: 
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x000000001799B706 UE4Editor-Core.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x00000000176FAE3A UE4Editor-Core.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x000000001770ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x00000000067DD23C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x00000000067893EF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x00000000050D2BCB UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x00000000050D39C5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000005085030 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000005089C67 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000016BC3B20 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000016BB9031 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000016B8D797 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000016B8F9F7 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000016C258E5 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000016A45A74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x00000000169E7584 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x000000001487FB14 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000014603469 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x000000001459F7AC UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x00000000145A44AC UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000014967989 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x000000001491795B UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x000000001491B8FA UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000014919C87 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x000000001496E02C UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x000000001454C6F0 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x00000000145C67ED UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x000000001460FCDD UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x000000000678A0A6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x00000000067B2062 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000006799329 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000006799C5B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x000000000680019B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000006841F9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x000000001459FE41 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x00000000145A4BA6 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x00000000169E8376 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000016A24BD0 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000006FE06AE UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000006FCBC4C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x00000000169D4D61 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x00000000169A6D2D UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x00000000169A88F6 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000016A263CA UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000016A199C8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000067D8E3DA UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000067D81B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000067D9052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x0000000067D7D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.01-10.08.43:646][683]LogOutputDevice: Error: [Callstack] 0x00000000961763ED USER32.dll!UnknownFunction []
+[2019.11.01-10.08.43:647][683]LogOutputDevice: Error: [Callstack] 0x0000000096175DE2 USER32.dll!UnknownFunction []
+[2019.11.01-10.08.43:647][683]LogOutputDevice: Error: [Callstack] 0x0000000067D91666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.01-10.08.43:647][683]LogOutputDevice: Error: [Callstack] 0x00000000463C5475 UE4Editor.exe!UnknownFunction []
+[2019.11.01-10.08.43:647][683]LogOutputDevice: Error: [Callstack] 0x00000000463D6BD0 UE4Editor.exe!UnknownFunction []
+[2019.11.01-10.08.43:647][683]LogOutputDevice: Error: [Callstack] 0x00000000463D6C4A UE4Editor.exe!UnknownFunction []
+[2019.11.01-10.08.43:647][683]LogOutputDevice: Error: [Callstack] 0x00000000463E4177 UE4Editor.exe!UnknownFunction []
+[2019.11.01-10.08.43:647][683]LogOutputDevice: Error: [Callstack] 0x00000000463E5B87 UE4Editor.exe!UnknownFunction []
+[2019.11.01-10.08.43:647][683]LogOutputDevice: Error: [Callstack] 0x0000000095F77BD4 KERNEL32.DLL!UnknownFunction []
+[2019.11.01-10.08.43:647][683]LogOutputDevice: Error: [Callstack] 0x000000009718CED1 ntdll.dll!UnknownFunction []
+[2019.11.01-10.08.43:647][683]LogOutputDevice: Error: 
+[2019.11.01-10.08.43:657][683]LogStats:                SubmitErrorReport -  0.000 s
